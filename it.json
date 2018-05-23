@@ -144,6 +144,10 @@
         "en": "University of Pavia", 
         "it": "Universit\u00e0 degli Studi di Pavia"
     }, 
+    "5e2ef83667d7fe46b63d222beaab5d104b061334": {
+        "en": "IRCCS FBF - Brescia", 
+        "it": "IRCCS FBF - Brescia"
+    }, 
     "5fcecd94f8773d7465c7e4c21206196a17199882": {
         "en": "IMT Lucca - Identity Provider", 
         "it": "IMT Lucca - Identity Provider"
@@ -277,8 +281,8 @@
         "it": "Universit\u00e0 degli studi di Bergamo"
     }, 
     "c26af72456b44ada8f263c8bf943d8437e24b90c": {
-        "en": "Consortium GARR Identity Provider", 
-        "it": "Consortium GARR Identity Provider"
+        "en": "Consortium GARR", 
+        "it": "Consortium GARR"
     }, 
     "c2d7a157648aba90c1eb12a5d9645eb579ac185d": {
         "en": "University of Perugia", 

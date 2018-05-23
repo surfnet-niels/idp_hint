@@ -23,6 +23,10 @@
         "cs": "Univerzita Jana Evangelisty Purkyn\u011b v \u00dast\u00ed nad Labem", 
         "en": "Jan Evangelista Purkyne University in Usti nad Labem"
     }, 
+    "16e35fc6a9288f8812c51a6ca8dc5e5b7864310c": {
+        "cs": "\u00dastav anorganick\u00e9 chemie AV \u010cR", 
+        "en": "Institute of Inorganic chemistry of the Czech Academy of Sciences"
+    }, 
     "17e7804cced7a7719858567dce6bbf4f68eca1b8": {
         "cs": "Vysok\u00e1 \u0161kola b\u00e1\u0148sk\u00e1 - Technick\u00e1 univerzita Ostrava", 
         "en": "V\u0160B-Technical University of Ostrava"
@@ -42,6 +46,10 @@
     "224a8329d908e7274df1b937f99606dc68a97100": {
         "cs": "Knihovna Jana Drdy", 
         "en": "Jan Drda\u00b4s Library"
+    }, 
+    "261f28a078d76efbfae25ae1e2eac1e39b6e8c41": {
+        "cs": "Pedagogick\u00e1 knihovna J. A. Komensk\u00e9ho", 
+        "en": "Comenius Library of Education"
     }, 
     "277f1177ec95517b828ac876c4f7817d0fcc7a0c": {
         "cs": "Univerzita Karlova", 
@@ -290,6 +298,10 @@
     "d4cdbd28774c65eb6166d1be5ee8134c23ca68f0": {
         "cs": "\u00dastav biologie obratlovc\u016f AV \u010cR", 
         "en": "Institute of Vertebrate Biology AS CR"
+    }, 
+    "d735875c44cb40458fa11dd5c3bdcbb1e9ecf5a8": {
+        "cs": "Filosofick\u00fd \u00fastav AV \u010cR", 
+        "en": "Institute of Philosophy AS CR"
     }, 
     "de2fd821b2f3a5a4105256527bd70c0e04c362f7": {
         "cs": "\u00dastav fyziky plazmatu AV \u010cR", 

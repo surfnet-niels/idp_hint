@@ -3,6 +3,10 @@
         "en": "IBICT - Instituto Brasileiro de Informacao em Ciencia e Tecnologia", 
         "pt-br": "IBICT - Instituto Brasileiro de Informacao em Ciencia e Tecnologia"
     }, 
+    "0045ad3c5b6a6ad42df2de079385eaa60949c29d": {
+        "en": "UEMS - Universidade Estadual de Mato Grosso do Sul", 
+        "pt-br": "UEMS - Universidade Estadual de Mato Grosso do Sul"
+    }, 
     "00ae266f732b5f39b22f96d874584b54d06ba5ed": {
         "en": "UFAL - Universidade Federal de Alagoas", 
         "pt-br": "UFAL - Universidade Federal de Alagoas"
@@ -38,6 +42,10 @@
     "0a47f333d4af1b0b995bf9d62b415cdea6eca7c7": {
         "en": "CIDASC - Companhia Integrada de desenvolvimento Agricola de Sc", 
         "pt-br": "CIDASC - Companhia Integrada de desenvolvimento Agricola de Sc"
+    }, 
+    "0ab8588be8cbb9284fd89f224d37dfa134c24a51": {
+        "en": "UNOESTE - Universidade do Oeste Paulista", 
+        "pt-br": "UNOESTE - Universidade do Oeste Paulista"
     }, 
     "0aeddca2b72720dae8dbc0cc01404436640ccb32": {
         "en": "UNIFESP - Universidade Federal de Sao Paulo", 
@@ -142,6 +150,10 @@
     "2beaefe697ca875d1c110f272bf156f8c63ae3a0": {
         "en": "IFRJ - Instituto Federal de Educacao Ciencia e Tecnologia do Rio de Janeiro", 
         "pt-br": "IFRJ - Instituto Federal de Educacao Ciencia e Tecnologia do Rio de Janeiro"
+    }, 
+    "2c1ef9d2daf8134f26499a2dc06c10433b95c16a": {
+        "en": "UEG - Universidade Estadual de Goias", 
+        "pt-br": "UEG - Universidade Estadual de Goias"
     }, 
     "2c423e55f2b18d468edcd258199418a1d6e5fa08": {
         "en": "IFPI - Instituto Federal do Piaui", 
@@ -319,6 +331,10 @@
         "en": "UFCG - Universidade Federal de Campina Grande", 
         "pt-br": "UFCG - Universidade Federal de Campina Grande"
     }, 
+    "65d6a7ce99ce9ae2a73897e9d02f00b263f63976": {
+        "en": "INCAPER - Instituto de Pesquisa, Assistencia Tecnica e Extensao Rural", 
+        "pt-br": "INCAPER - Instituto de Pesquisa, Assistencia Tecnica e Extensao Rural"
+    }, 
     "677e3d24f3062d4389448fac6c99733f5bba5771": {
         "en": "UFFS - Universidade Federal da Fronteira Sul", 
         "pt-br": "UFFS - Universidade Federal da Fronteira Sul"
@@ -454,6 +470,10 @@
     "970aaffdaf43af6aadccafe1782fcf8dcafc2178": {
         "en": "IFSul - Instituto Federal Sul-rio-grandense", 
         "pt-br": "IFSul - Instituto Federal Sul-rio-grandense"
+    }, 
+    "974361c9c7d08b45b904d4ae665d1ec53dcb4c7c": {
+        "en": "FESFSUS - Fundacao Estatal Saude da Familia", 
+        "pt-br": "FESFSUS - Fundacao Estatal Saude da Familia"
     }, 
     "978ecef8ad23dded4bf9c816b180876d8926aa21": {
         "en": "IFRN - Instituto Federal do Rio Grande do Norte", 
@@ -691,6 +711,10 @@
         "en": "RNP - Rede Nacional de Ensino e Pesquisa", 
         "pt-br": "RNP - Rede Nacional de Ensino e Pesquisa"
     }, 
+    "d24c97d27e24cec09a8435223a1f340e65c62738": {
+        "en": "UNIVAP - Universidade do Vale do Paraiba", 
+        "pt-br": "UNIVAP - Universidade do Vale do Paraiba"
+    }, 
     "d28e0d12abc31e57efef9949e6ddfd122041931a": {
         "en": "IFRR - Instituto Federal de Roraima", 
         "pt-br": "IFRR - Instituto Federal de Roraima"
@@ -744,8 +768,8 @@
         "pt-br": "CTI - Centro de Tecnologia da Informacao Renato Archer"
     }, 
     "e691e91bf0ed8f893cc43fc7bf2bfb7e6547a03c": {
-        "en": "UNIVATES - Fundacao Vale do Taquari de Educacao e Desenvolvimento Social", 
-        "pt-br": "UNIVATES - Fundacao Vale do Taquari de Educacao e Desenvolvimento Social"
+        "en": "UNIVATES - Universidade do Vale do Taquari", 
+        "pt-br": "UNIVATES - Universidade do Vale do Taquari"
     }, 
     "e6f7199020ea77e6f7a8bbef19869cef6ca58fcc": {
         "en": "FEESC - Fundacao de Ensino e Engenharia de Santa Catarina", 
@@ -774,6 +798,10 @@
     "edf9dfba2451b59ec2964181db12996abe64a8bb": {
         "en": "IFMT - Instituto Federal de Mato Grosso", 
         "pt-br": "IFMT - Instituto Federal de Mato Grosso"
+    }, 
+    "eee3bade67e0dfc0d82f6725238e19a2d8b5135e": {
+        "en": "UFABC - Universidade Federal do ABC", 
+        "pt-br": "UFABC - Universidade Federal do ABC"
     }, 
     "efd447fa5cfc2c20a66e0547984879fe75d59365": {
         "en": "INT - Instituto Nacional de Tecnologia", 
@@ -834,5 +862,13 @@
     "fd596fd6e22bc40497b9cc6116e2169e7ee4bfa7": {
         "en": "INPE - Instituto Nacional de Pesquisas Espaciais", 
         "pt-br": "INPE - Instituto Nacional de Pesquisas Espaciais"
+    }, 
+    "fdf95094ea7de4d7f1cbdb4593b1d1c6bcea9126": {
+        "en": "URCAMP - Universidade da Regiao da Campanha", 
+        "pt-br": "URCAMP - Universidade da Regiao da Campanha"
+    }, 
+    "fe67c116ae7abb5136ecc2767553344510426adc": {
+        "en": "IRD - Instituto de Radioprotecao e Dosimetria", 
+        "pt-br": "IRD - Instituto de Radioprotecao e Dosimetria"
     }
 }

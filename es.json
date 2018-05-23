@@ -31,6 +31,10 @@
         "en": "CESGA - Centro de Supercomputacion de Galicia", 
         "es": "CESGA - Centro de Supercomputacion de Galicia"
     }, 
+    "3bcab4483d3ecc50b2c9ecd3cd8c67e2078bf42e": {
+        "en": "UCA - University of Cadiz", 
+        "es": "UCA - Universidad de C\u00e1diz"
+    }, 
     "4803b5d785277724b91b6bbd2474ccf5beb80c64": {
         "en": "UOC - Universitat Oberta de Catalunya", 
         "es": "UOC - Universitat Oberta de Catalunya"
@@ -129,6 +133,10 @@
     "da2a5b686008a0a5242a9eb7d6a477be0ac86df7": {
         "en": "UV - Universitat de Valencia", 
         "es": "UV - Universitat de Valencia"
+    }, 
+    "e143d363211da051280ddda659701f7a4fd532ef": {
+        "en": "UGR - University of Granada", 
+        "es": "UGR - Universidad de Granada"
     }, 
     "eb55ba1e48fa3886b3dc9ffc6a94717ba1fbd5f1": {
         "en": "RedIRIS - Spanish Research and Academic Network", 

@@ -163,10 +163,6 @@
         "en": "Inholland University of Applied Sciences", 
         "nl": "Hogeschool Inholland"
     }, 
-    "581e2f998606034f3fbea8c712c1f8c8767b913f": {
-        "en": "Technologiestichting STW", 
-        "nl": "Technologiestichting STW"
-    }, 
     "590e7a971535212047e0e818eff623cbb90487e4": {
         "en": "Deltion College", 
         "nl": "Deltion College"
@@ -319,6 +315,10 @@
         "en": "NHTV Breda University of Applied Sciences", 
         "nl": "NHTV internationaal hoger onderwijs Breda"
     }, 
+    "b94f29d2f1dc57cd7d3b8d28a0f849aa68a03474": {
+        "en": "Nuffic", 
+        "nl": "Nuffic"
+    }, 
     "bbf409814edf4b2a68b873ba587b2d9d2b41e5c3": {
         "en": "Helicon Opleidingen", 
         "nl": "Helicon Opleidingen"
@@ -386,6 +386,10 @@
     "ddd8c34a270a6ec5f91af3fc82d743ecb18ec138": {
         "en": "Trimbos Instituut", 
         "nl": "Trimbos Instituut"
+    }, 
+    "e05d29eb4ac2948089ce1c0b206550f1b9e16dcc": {
+        "en": "Centrum Wiskunde & Informatica", 
+        "nl": "Centrum Wiskunde & Informatica"
     }, 
     "e2a3da6ff628e809e4c82bc0184dd3a1cc51d5a8": {
         "en": "Cito", 

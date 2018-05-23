@@ -32,6 +32,9 @@
     "04aa6649f554403cb8b6879c6fe69e42b1581b48": {
         "en": "Barnet and Southgate College"
     }, 
+    "04cf3bf493194c70bbfdaad329f4bb34327b1535": {
+        "en": "British Universities Film & Video Council"
+    }, 
     "0527322ffa873849005a88d323c829986ebf9c0a": {
         "en": "Royal Northern College Of Music"
     }, 
@@ -48,7 +51,7 @@
         "en": "Alton College"
     }, 
     "07cef09b3923c37b04b9e0f35e2f1a1e7a24d7c5": {
-        "en": "University of Greenwich - OpenAthens"
+        "en": "University of Greenwich"
     }, 
     "0812451d733985b7475ddbe22624c553a076327a": {
         "en": "Royal Agricultural University"
@@ -212,6 +215,9 @@
     "1d47449ccba0c6f8bfa10a1d930089663f15b9b3": {
         "en": "Blackpool and The Fylde College (Development)"
     }, 
+    "1d73a28005b671dd76ffa2e3da48fb16f71ad782": {
+        "en": "London Business School - OpenAthens"
+    }, 
     "1d74d82635b8dfe5f019f5e2a56095808f60e240": {
         "en": "East Kent College"
     }, 
@@ -281,6 +287,9 @@
     "25fd5d647952fd396067990a09e5418d46517878": {
         "en": "Aston University OpenAthens"
     }, 
+    "26225f52b2acc29e5105c106a6759a74d4abed64": {
+        "en": "Windsor Forest Colleges Group"
+    }, 
     "270d63980612d74d3feaa5a160cb93e7b09377bb": {
         "en": "West Nottinghamshire College"
     }, 
@@ -313,6 +322,9 @@
     }, 
     "2b880bbf518ef9cf347c72e15ff7e626b55903aa": {
         "en": "Writtle College"
+    }, 
+    "2bdfa683c561ebf9c42d9300e34f35ec0ee118d4": {
+        "en": "Department of Health (England)"
     }, 
     "2be1b3a5767af078fdb38a7035b2c98a7fb28a48": {
         "en": "University of Bolton - Legacy - Do not use"
@@ -376,9 +388,6 @@
     }, 
     "32de200dc00ba67de530078c119437884331ae9d": {
         "en": "Bucks Libraries"
-    }, 
-    "32ee5ddc6bee2dec4f91ca03d3dda0af109d4e7b": {
-        "en": "Central Sussex College"
     }, 
     "33c0b0eee78cf61e3ac6ab26aab64d2c20ba6f77": {
         "en": "Varndean College"
@@ -571,6 +580,9 @@
     }, 
     "47f4ef0b56dc9b58b73f5f957d5f986bc8368f89": {
         "en": "University of the West of Scotland (UWS)"
+    }, 
+    "493f0d8a5a6d448d6c53be75e959dbd7ef783da2": {
+        "en": "York St John University - VLE"
     }, 
     "4943252b4aff102015829fafadca0debe60e452f": {
         "en": "University of Hull"
@@ -890,9 +902,6 @@
     "700d83e33ae70adef040d7263be1548c09994cd3": {
         "en": "New College Nottingham - Test"
     }, 
-    "7020e2cd57c315db434d2b33811b9e6efb5523c3": {
-        "en": "South Staffordshire College (Test)"
-    }, 
     "7026b526faabf506819102fbc9dc272528a0b8f9": {
         "en": "University of Dundee"
     }, 
@@ -904,9 +913,6 @@
     }, 
     "70acc56fee228a99326dee921c10e3fd386b1ea0": {
         "en": "Cheadle and Marple College Network"
-    }, 
-    "70d733827ef8011e364ee1534d04868ee5054f24": {
-        "en": "Warwickshire e-Learning Community"
     }, 
     "719ed907e02823fb1b3a45299376bf00bf952908": {
         "en": "Glasgow Caledonian University"
@@ -1033,9 +1039,6 @@
     }, 
     "7fafafb7835e73e59a4c02ca070c6c5d5bb27648": {
         "en": "University of Southampton (Test 3.x)"
-    }, 
-    "802fbb8c1ab6a0453c06ebd96433516f78431ba3": {
-        "en": "Brunel University (Old)"
     }, 
     "8067033c4b8dcafd6d5a56be4f8bce7391f487bb": {
         "en": "Brooksby Melton College IdP3 TEST - Do not use"
@@ -1186,8 +1189,14 @@
     "9190e51d0af73da93316c87b156e7d6db9989ddf": {
         "en": "Oaklands College"
     }, 
+    "92025c87898ae08ac92789dfe2f53a09623bd836": {
+        "en": "Lewisham Southwark College"
+    }, 
     "92af0cb220825b2e9b26b0758135dc0355bd8199": {
         "en": "Royal College of Music - OLD"
+    }, 
+    "932928eb7a449296c848da826efea7a51d25c575": {
+        "en": "Macclesfield College (Test)"
     }, 
     "934d4e46cdb7ac3433acdecd168c111df32c3d84": {
         "en": "Central College Nottingham"
@@ -1360,9 +1369,6 @@
     "a24cb85d043ff272e00188b7fe7f02430a046060": {
         "en": "University of Oxford Test IdP"
     }, 
-    "a2623e3d74c7c72f46434b618ba65a51c88bff13": {
-        "en": "Leeds Beckett University (New)"
-    }, 
     "a27a9794e81f099fd836f86cadf6206d86cbbdde": {
         "en": "University of the West of Scotland - ICT Development"
     }, 
@@ -1392,9 +1398,6 @@
     }, 
     "a643af20227809512f4e94c9dd8136b60b122201": {
         "en": "King's College London"
-    }, 
-    "a658f7dae4cfaea5fb743f123a9f17b3fe0fe0b8": {
-        "en": "The College of Richard Collyer"
     }, 
     "a66dac5e21d1687188668c868cfe8092979073e1": {
         "en": "Blackpool Sixth"
@@ -1489,6 +1492,9 @@
     }, 
     "b34745368d7c7d6cd896858b3c0f1915dae82e6a": {
         "en": "Stoke Sixth Form College"
+    }, 
+    "b3c52347ac33f284976fdb3bbb26d0ab86d49870": {
+        "en": "Havant & South Downs College"
     }, 
     "b3cbe2f382652ecbf576c934d9c36c930d30dcbc": {
         "en": "University of Gloucestershire Development IDP"
@@ -1634,6 +1640,9 @@
     "c1a7a9f08511016c939b1e55f530124876f443a0": {
         "en": "Hertford Regional College"
     }, 
+    "c242000b0fc56da0c370e779128b6120d6a35634": {
+        "en": "Science and Technology Facilities Council (IdP02)"
+    }, 
     "c24f8d84fb716199d4f1eabe6a8461c878e69c8e": {
         "en": "University for the Creative Arts (Testing)"
     }, 
@@ -1694,9 +1703,6 @@
     "cad3f1fd09fc90bdba610b6f83b5a1f8010ce99d": {
         "en": "Bedford College"
     }, 
-    "cb1db799f3c425664ff6e2f314fc1908b81973b2": {
-        "en": "Science and Technology Facilities Council (2nd IdP)"
-    }, 
     "cb7dc9194874f11178fe0d43b8c9a2626b06fcb7": {
         "en": "Reigate College"
     }, 
@@ -1707,7 +1713,7 @@
         "en": "University of Southampton"
     }, 
     "cbf8a4236d47e23e9d8d95756157432f56e2a0ca": {
-        "en": "LeSoCo"
+        "en": "LeSoCo (Legacy IdP)"
     }, 
     "cc0b54ce541502fe7a15aec95c2e426327e7d7f8": {
         "en": "West Cheshire College (WCC)"
@@ -1814,6 +1820,9 @@
     "d84e0144c13931ed946a51a1fba8622a54e36748": {
         "en": "University of Roehampton (OpenAthens)"
     }, 
+    "d8a12b7050a0b5a7d19ab0efe5a698ad2e8d104f": {
+        "en": "City of Wolverhampton College TEST"
+    }, 
     "d8b86a32fcf6adfd4ef114e792c6cb5a7eefe8c5": {
         "en": "University of East London"
     }, 
@@ -1888,9 +1897,6 @@
     }, 
     "e450816dbb59c6c358652587ddbc2a4318fd4464": {
         "en": "Newcastle College"
-    }, 
-    "e469795132ce1dada56d5aa4a248ce9c52fccc96": {
-        "en": "Cirencester Sixth Form College"
     }, 
     "e4b214dee3da95870103c17763728d97b813fb3b": {
         "en": "University of Oxford"
@@ -2003,6 +2009,9 @@
     "f38100190b9606d8d779741c04f0f85eae2c2d82": {
         "en": "University of Nottingham Malaysia Campus"
     }, 
+    "f3d32a82794217744357485adb539dea2a4fb534": {
+        "en": "The College of Richard Collyer"
+    }, 
     "f3e4c8c6621907c018ed729cd38e4f091af27281": {
         "en": "Chesterfield College"
     }, 
@@ -2093,9 +2102,6 @@
     "fc0ed3d094cc28e03e1b069dbf668879c0003b28": {
         "en": "The College of West Anglia"
     }, 
-    "fc3aa623095d68232ead0ce57e91cbcf15a7bfa1": {
-        "en": "Leeds Beckett University (Development)"
-    }, 
     "fc4ff1f15531e7990184e2616b441f736861c393": {
         "en": "LSE - London School of Economics and Political Science"
     }, 
@@ -2110,6 +2116,11 @@
     }, 
     "fd973ff0bccd56aedefdbc7c4940c8f13d4bfb01": {
         "en": "Imagen IdP"
+    }, 
+    "fdb66bd9e04b912aeab18d5b60031cb17b93c361": {
+        "de": "Umbrella ID", 
+        "en": "https://umbrellaid.org/idp/shibboleth", 
+        "fr": "Umbrella ID"
     }, 
     "fdd2b92b6668bab16b9ca586adf769a0f7bdc09e": {
         "en": "University of London: External System (ATHENS)"

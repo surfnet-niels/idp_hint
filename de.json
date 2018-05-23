@@ -7,6 +7,10 @@
         "de": "Universit\u00e4t Bremen", 
         "en": "Universit\u00e4t Bremen"
     }, 
+    "0d2d20c675498d4ac035f35596ef76af51a0c012": {
+        "de": "Philipps-Universit\u00e4t Marburg", 
+        "en": "Philipps-Universit\u00e4t Marburg"
+    }, 
     "0dbf9c91f744335030551f5da2fb176dcb029173": {
         "de": "ESO - European Southern Observatory", 
         "en": "ESO - European Southern Observatory"
@@ -23,9 +27,17 @@
         "de": "Forschungszentrum J\u00fclich GmbH", 
         "en": "Forschungszentrum J\u00fclich GmbH"
     }, 
+    "18b433b40e4b752fb07fe216eb1e1e7a22b5cb03": {
+        "de": "Ostbayerische Technische Hochschule Regensburg", 
+        "en": "Ostbayerische Technische Hochschule Regensburg"
+    }, 
     "205e44b4020eb1441ff2da9492cf7efaf80294a3": {
         "de": "Technische Universit\u00e4t Clausthal", 
         "en": "Technische Universit\u00e4t Clausthal"
+    }, 
+    "243381f74f4beb187d43edbd974b6bc91e760033": {
+        "de": "Hochschule Ravensburg-Weingarten", 
+        "en": "University of Applied Sciences Ravensburg Weingarten"
     }, 
     "247c6dcaade643386aac77a313b24a8c96474a3a": {
         "de": "Universit\u00e4t Potsdam", 
@@ -62,6 +74,10 @@
     "3b7fa51bdf82f2d2be55bd5339bd409a433e81b9": {
         "de": "Universit\u00e4t Frankfurt", 
         "en": "Universit\u00e4t Frankfurt"
+    }, 
+    "40af66bd7f3effe89adc2ff086b5cd92957d84b8": {
+        "de": "Universit\u00e4t Hildesheim", 
+        "en": "Universit\u00e4t Hildesheim"
     }, 
     "40d7bb573a83fed8163facb7061a258cb129b7a3": {
         "de": "Universit\u00e4t Osnabr\u00fcck", 
@@ -114,6 +130,10 @@
     "4ecfab82c97fb1d7a1fb50498b0dc87b2a25c3fd": {
         "de": "Deutsches Klimarechenzentrum GmbH (DKRZ)", 
         "en": "Deutsches Klimarechenzentrum GmbH (DKRZ)"
+    }, 
+    "50370e46d7f6302fef5ebb1fbad8a15c76e1ee14": {
+        "de": "Reutlingen University / Hochschule Reutlingen", 
+        "en": "Reutlingen University / Hochschule Reutlingen"
     }, 
     "56cd82700fc3ec4674d1e5d6ef6160a27239ba80": {
         "de": "Hochschule Hamm-Lippstadt", 
@@ -179,6 +199,10 @@
         "de": "Otto-Friedrich-Universit\u00e4t Bamberg", 
         "en": "University of Bamberg"
     }, 
+    "81bbc0a0a2f75b11ee5549b06c2bfad055d1f332": {
+        "de": "Hochschule Mainz", 
+        "en": "Hochschule Mainz"
+    }, 
     "84f45e1e2dc75bedd7e09a00184ff6ab6f638060": {
         "de": "Fachhochschule Potsdam", 
         "en": "Fachhochschule Potsdam, University of Applied Scienes"
@@ -203,6 +227,10 @@
         "de": "Universit\u00e4t Leipzig", 
         "en": "University of Leipzig"
     }, 
+    "935c7ac2b660c42a79e50103553a3cef16f53993": {
+        "de": "Technische Universit\u00e4t Dresden", 
+        "en": "Technische Universit\u00e4t Dresden"
+    }, 
     "9411ff717e0f5a4c2f1788bb8fd3624978412263": {
         "de": "Hochschule Augsburg", 
         "en": "University of Applied Sciences Augsburg"
@@ -219,13 +247,25 @@
         "de": "Heinrich-Heine-Universit\u00e4t D\u00fcsseldorf", 
         "en": "Heinrich Heine University Duesseldorf"
     }, 
+    "9a19c80b74964715f346276ab8e879d302a79e21": {
+        "de": "Universit\u00e4t Hamburg (UHH)", 
+        "en": "Universit\u00e4t Hamburg (UHH)"
+    }, 
     "9aa8c31c26b556d63d70905aae937a9be49d8d11": {
         "de": "San-Netz.de", 
         "en": "San-Netz.de"
     }, 
+    "a0e84cf06f43fc23f7ee7b5f04e6eaec814f3bc3": {
+        "de": "Beuth Hochschule f\u00fcr Technik Berlin", 
+        "en": "Beuth University of Applied Sciences"
+    }, 
     "a551b8759d211620300fe8bce83688bcb17179f4": {
         "de": "Universit\u00e4t T\u00fcbingen", 
         "en": "Universit\u00e4t T\u00fcbingen"
+    }, 
+    "a589c87dfeaa78567538ac569f14795a268748e4": {
+        "de": "Hochschule Bochum", 
+        "en": "Bochum University Of Applied Sciences"
     }, 
     "ab78bb1a9832ffd7b9769fd516623ecdd83c3af5": {
         "de": "Universit\u00e4t Konstanz", 
@@ -275,9 +315,17 @@
         "de": "Hochschule Aschaffenburg IDP3", 
         "en": "Hochschule Aschaffenburg IDP3 - University of Applied Sciences"
     }, 
+    "d0d18a3b9a3fce52fba9354ec194422bcfd6e7c5": {
+        "de": "Hochschule Ulm", 
+        "en": "Hochschule Ulm"
+    }, 
     "d31f9614aef5ea2fbe97d6445ae510236deb635e": {
         "de": "Verbundzentrale des GBV (VZG)", 
         "en": "Verbundzentrale des GBV (VZG)"
+    }, 
+    "d88fe7722d496e6ce00645e8b2a7ff56c8b5e33f": {
+        "de": "Hochschule f\u00fcr Musik Freiburg", 
+        "en": "University of Music Freiburg"
     }, 
     "d97dcc12601c6baf6ffdf95418f154170204bd17": {
         "de": "Deutsches Elektronen-Synchrotron DESY", 
@@ -286,6 +334,10 @@
     "d9d5e25332a8272a02a6e6c93d88100f2a5c4c26": {
         "de": "Universit\u00e4t Stuttgart", 
         "en": "Universit\u00e4t Stuttgart"
+    }, 
+    "da458f9b6790181e14fb4839e4ea83893d586952": {
+        "de": "Hochschule Furtwangen", 
+        "en": "Furtwangen University"
     }, 
     "db6d1a0946394dd23c02cdf3c8f7b7e65fa08dd3": {
         "de": "Max-Planck Institute (im MetaDir der GWDG)", 

@@ -7,6 +7,9 @@
         "en": "Ghent University", 
         "nl": "Universiteit Gent"
     }, 
+    "1d4d997ae489af670e86663c3d0aa82d977931ec": {
+        "en": "VUB - IDP (Vrije Universiteit Brussel)"
+    }, 
     "2a03511b03f6b7e560b400a9457f7a4b52eb65c3": {
         "en": "Hasselt University", 
         "nl": "Universiteit Hasselt"
@@ -26,6 +29,9 @@
     "6a8bc6e1b16f89024b27bd830b717c5d126db406": {
         "en": "Catholic University of Louvain", 
         "fr": "Universite Catholique de Louvain"
+    }, 
+    "7b843f96fca0dbffbce8fc50e8255cc5c80b56d2": {
+        "en": "IDP - ULB (Universite Libre de Bruxelles)"
     }, 
     "7fd8c1c618ab2aa151614f80ba873521e4983ed6": {
         "en": "CRA-W"
@@ -63,6 +69,9 @@
     }, 
     "e7b9826ed0722ea3339071c1451b14874e35fde0": {
         "en": "Hogeschool West-Vlaanderen"
+    }, 
+    "f55f08633acc37430997399cccaa6c741580e2f6": {
+        "en": "ULB - IDP TEST (Universite Libre de Bruxelles)"
     }, 
     "fdb14e60cd120f40bb0d651c2fb9e70122c840cb": {
         "en": "HEPH-Condorcet", 
