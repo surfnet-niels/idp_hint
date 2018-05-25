@@ -253,6 +253,9 @@
         "fdb14e60cd120f40bb0d651c2fb9e70122c840cb": {
             "en": "HEPH-Condorcet", 
             "fr": "HEPH-Condorcet"
+        }, 
+        "fe5675baaf3392b11df55b48444847f9d73043d0": {
+            "en": "Hogeschool PXL"
         }
     }, 
     "br": {
@@ -1005,8 +1008,8 @@
             "pt-br": "CNPEM - CENTRO NACIONAL DE PESQUISA EM ENERGIA E MATERIAIS"
         }, 
         "d78acf6b2962709e1da33d91a57f840156f69167": {
-            "en": "UNESP - Univ Estadual Paulista Julio de Mesquita Filho", 
-            "pt-br": "UNESP - Univ Estadual Paulista Julio de Mesquita Filho"
+            "en": "UNESP - Universidade Estadual Paulista", 
+            "pt-br": "UNESP - Universidade Estadual Paulista"
         }, 
         "df66bec36372869dece12a22fbf0dfdafc747af6": {
             "en": "URCA - Universidade Regional do Cariri", 
@@ -1819,6 +1822,10 @@
             "cs": "St\u0159edisko spole\u010dn\u00fdch \u010dinnost\u00ed AV \u010cR", 
             "en": "Centre of Administration and Operations of AS CR"
         }, 
+        "bfc56284508928164b55b1bb6e9adbf808c70456": {
+            "cs": "Masaryk\u016fv \u00fastav a archiv AV \u010cR", 
+            "en": "Masaryk Institute and Archives of the CAS"
+        }, 
         "c0c4785b193036f700249b3d1d60e53f2d02a7f3": {
             "cs": "\u00dastav molekul\u00e1rn\u00ed genetiky AV \u010cR", 
             "en": "Institute of Molecular Genetics of the ASCR"
@@ -1882,6 +1889,10 @@
         "f0a47ecbab9ce1ea5513589355ca4fe996dd5346": {
             "cs": "M\u011bstsk\u00e1 knihovna T\u00e1bor", 
             "en": "The Municipal Library of T\u00e1bor"
+        }, 
+        "f22fb34d6d5e911d10af43d0d073d71095fd0155": {
+            "cs": "Slovansk\u00fd \u00fastav AV \u010cR", 
+            "en": "Institute of Slavonic Studies of the CAS"
         }, 
         "f3f303f07ebe95492bddf2d47002ea23f9fcb686": {
             "cs": "\u00dastav jadern\u00e9 fyziky AV \u010cR", 
@@ -2598,6 +2609,10 @@
             "en": "CIC bioGune", 
             "es": "CIC bioGune"
         }, 
+        "10f2bca857be1b38849d9f3f3b63f1f3010bbc0c": {
+            "en": "UPO - University Pablo Olavide", 
+            "es": "UPO - Universidad Pablo Olavide"
+        }, 
         "1b956c1400bcd68b7836b696eda12eedf08afcaf": {
             "en": "IAC - Instituto Astrof\u00edsico de Canarias", 
             "es": "IAC - Instituto Astrof\u00edsico de Canarias"
@@ -2609,6 +2624,10 @@
         "29cd8444fbb21b605e8ad20e39f58a32baa2b280": {
             "en": "USJ - Universidad San Jorge", 
             "es": "USJ - Universidad San Jorge"
+        }, 
+        "2ba3fabeacf723170edea8d4c972bc3bf4d7464f": {
+            "en": "ICFO - Instituto de Ciencias Fot\u00f3nicas", 
+            "es": "ICFO - Instituto de Ciencias Fot\u00f3nicas"
         }, 
         "2c2b11fc38f9037aeb1926afc8de55b20d33b1af": {
             "en": "UAM - Universidad Aut\u00f3noma de Madrid", 
@@ -2724,6 +2743,10 @@
         "da2a5b686008a0a5242a9eb7d6a477be0ac86df7": {
             "en": "UV - Universitat de Valencia", 
             "es": "UV - Universitat de Valencia"
+        }, 
+        "db0749267c5051d0c6d444d7d77c2c8766675abb": {
+            "en": "RAE - Real Academia Espa\u00f1ola", 
+            "es": "RAE - Real Academia Espa\u00f1ola"
         }, 
         "e143d363211da051280ddda659701f7a4fd532ef": {
             "en": "UGR - University of Granada", 
@@ -3049,10 +3072,6 @@
         "26ebb47fbfc5495bb5ba9213012625f8cec252d3": {
             "en": "Rectorat Limoges Test shib3", 
             "fr": "Rectorat Academie de  Limoges"
-        }, 
-        "27103fc48c4ad877fd2d8dae624143256b6ae1f8": {
-            "en": "CROUS Cr\u00e9teil", 
-            "fr": "CROUS Cr\u00e9teil"
         }, 
         "285472dbb6def27000e77c5f1829c7470b7e0d09": {
             "en": "Groupe ESEO", 
@@ -5231,10 +5250,6 @@
             "en": "Netherlands Institute for Neuroscience (KNAW)", 
             "nl": "Nederlands Herseninstituut (KNAW)"
         }, 
-        "5c49c6a7a6789f948fe80b9de36b87d6109dbf50": {
-            "en": "Saxion University of Applied Sciences", 
-            "nl": "Saxion"
-        }, 
         "5c66e417da85bd85ba36f8dd787c261fbd89399e": {
             "en": "SWOV Institute for Road Safety Research", 
             "nl": "Stichting Wetenschappelijk Onderzoek Verkeersveiligheid SWOV"
@@ -5326,6 +5341,10 @@
         "a315b98538353f56b3db32c3bb33a52ab4f40768": {
             "en": "Energieonderzoek Centrum Nederland", 
             "nl": "Energieonderzoek Centrum Nederland"
+        }, 
+        "a5983b45c5bcaa2036e30fd79f90f2c1347c854f": {
+            "en": "Saxion University of Applied Sciences", 
+            "nl": "Saxion Hogeschool"
         }, 
         "a6bc247fe0518b561680c44aba618fb39761024e": {
             "en": "Avans University of Applied Sciences", 
@@ -5884,7 +5903,7 @@
     }, 
     "ug": {
         "9c0f9f51698cb4a27d122f51bc956633de17f6e8": {
-            "en": "Identity Provider for IDI"
+            "en": "Infectious Diseases Institute"
         }, 
         "9df5acc08f9b2e113d45cd554bcb7b7a4a2f17e6": {
             "en": "Research and Education Network for Uganda"
@@ -7203,9 +7222,6 @@
         }, 
         "9d37fbac17b8f3ea8d658f743bb6bd6f6d89c11a": {
             "en": "UK Data Archive"
-        }, 
-        "9d61091092d92651a7ad2ab7e87b4c39758afb78": {
-            "en": "University of the West of Scotland (Legacy Athens)"
         }, 
         "9d7c47bb2ae60ab88e32a7c46042041f63d2c147": {
             "en": "University of Suffolk"

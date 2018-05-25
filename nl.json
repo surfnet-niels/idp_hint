@@ -171,10 +171,6 @@
         "en": "Netherlands Institute for Neuroscience (KNAW)", 
         "nl": "Nederlands Herseninstituut (KNAW)"
     }, 
-    "5c49c6a7a6789f948fe80b9de36b87d6109dbf50": {
-        "en": "Saxion University of Applied Sciences", 
-        "nl": "Saxion"
-    }, 
     "5c66e417da85bd85ba36f8dd787c261fbd89399e": {
         "en": "SWOV Institute for Road Safety Research", 
         "nl": "Stichting Wetenschappelijk Onderzoek Verkeersveiligheid SWOV"
@@ -266,6 +262,10 @@
     "a315b98538353f56b3db32c3bb33a52ab4f40768": {
         "en": "Energieonderzoek Centrum Nederland", 
         "nl": "Energieonderzoek Centrum Nederland"
+    }, 
+    "a5983b45c5bcaa2036e30fd79f90f2c1347c854f": {
+        "en": "Saxion University of Applied Sciences", 
+        "nl": "Saxion Hogeschool"
     }, 
     "a6bc247fe0518b561680c44aba618fb39761024e": {
         "en": "Avans University of Applied Sciences", 

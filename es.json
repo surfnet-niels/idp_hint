@@ -7,6 +7,10 @@
         "en": "CIC bioGune", 
         "es": "CIC bioGune"
     }, 
+    "10f2bca857be1b38849d9f3f3b63f1f3010bbc0c": {
+        "en": "UPO - University Pablo Olavide", 
+        "es": "UPO - Universidad Pablo Olavide"
+    }, 
     "1b956c1400bcd68b7836b696eda12eedf08afcaf": {
         "en": "IAC - Instituto Astrof\u00edsico de Canarias", 
         "es": "IAC - Instituto Astrof\u00edsico de Canarias"
@@ -18,6 +22,10 @@
     "29cd8444fbb21b605e8ad20e39f58a32baa2b280": {
         "en": "USJ - Universidad San Jorge", 
         "es": "USJ - Universidad San Jorge"
+    }, 
+    "2ba3fabeacf723170edea8d4c972bc3bf4d7464f": {
+        "en": "ICFO - Instituto de Ciencias Fot\u00f3nicas", 
+        "es": "ICFO - Instituto de Ciencias Fot\u00f3nicas"
     }, 
     "2c2b11fc38f9037aeb1926afc8de55b20d33b1af": {
         "en": "UAM - Universidad Aut\u00f3noma de Madrid", 
@@ -133,6 +141,10 @@
     "da2a5b686008a0a5242a9eb7d6a477be0ac86df7": {
         "en": "UV - Universitat de Valencia", 
         "es": "UV - Universitat de Valencia"
+    }, 
+    "db0749267c5051d0c6d444d7d77c2c8766675abb": {
+        "en": "RAE - Real Academia Espa\u00f1ola", 
+        "es": "RAE - Real Academia Espa\u00f1ola"
     }, 
     "e143d363211da051280ddda659701f7a4fd532ef": {
         "en": "UGR - University of Granada", 
