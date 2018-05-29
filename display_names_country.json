@@ -763,6 +763,10 @@
             "en": "UEL - Universidade Estadual de Londrina", 
             "pt-br": "UEL - Universidade Estadual de Londrina"
         }, 
+        "9eeded1cb9475d95255df79449a889939bebfeeb": {
+            "en": "UEMG - Universidade do Estado de Minas Gerais", 
+            "pt-br": "UEMG - Universidade do Estado de Minas Gerais"
+        }, 
         "9f0d7fcf3c4b296634d418865842ba078787eb64": {
             "en": "UFPI - Universidade Federal do Piaui", 
             "pt-br": "UFPI - Universidade Federal do Piaui"
@@ -1956,6 +1960,10 @@
             "de": "IPB Halle", 
             "en": "IPB Halle"
         }, 
+        "270ea905968070367b8b2f23fbb0b69c63c1d74d": {
+            "de": "Hochschule Albstadt-Sigmaringen", 
+            "en": "Albstadt-Sigmaringen University of Applied Sciences"
+        }, 
         "2b24714164c97a491ab216733624f0d6da32f1f6": {
             "de": "DHBW Ravensburg", 
             "en": "DHBW Ravensburg"
@@ -2645,6 +2653,10 @@
             "en": "UCA - University of Cadiz", 
             "es": "UCA - Universidad de C\u00e1diz"
         }, 
+        "4672331d1930ed7a0a0cf21797456d30c216209f": {
+            "en": "UPF - Universitat Pompeu Fabra", 
+            "es": "UPF - Universitat Pompeu Fabra"
+        }, 
         "4803b5d785277724b91b6bbd2474ccf5beb80c64": {
             "en": "UOC - Universitat Oberta de Catalunya", 
             "es": "UOC - Universitat Oberta de Catalunya"
@@ -2771,14 +2783,12 @@
     }, 
     "fi": {
         "00c8e5bfe1552b6f5986802c07d8342acc6f2fe8": {
-            "en": "https://idp.abo.fi/idp/shibboleth", 
-            "fi": "\u00c5bo Akademi", 
+            "en": "\u00c5bo Akademi University", 
             "sv": "\u00c5bo Akademi"
         }, 
         "05c26b7b059bcc01e63430d9441fe4ecf4e7ed33": {
-            "en": "https://login.jyu.fi/idp/shibboleth", 
-            "fi": "Jyv\u00e4skyl\u00e4n yliopisto", 
-            "sv": "Jyv\u00e4skyl\u00e4 universitet"
+            "en": "University of Jyv\u00e4skyl\u00e4", 
+            "fi": "Jyv\u00e4skyl\u00e4n yliopisto"
         }, 
         "0a0ece8fcd1c85add765f00bc566b01a2e22c7be": {
             "en": "University of Eastern Finland", 
@@ -2806,8 +2816,7 @@
             "fi": "Taideyliopisto"
         }, 
         "3d683fa556a285150fd9b0c6b22afb352ce51513": {
-            "en": "https://login.helsinki.fi/shibboleth", 
-            "fi": "Helsingin yliopisto", 
+            "en": "University of Helsinki", 
             "sv": "Helsingfors universitet"
         }, 
         "5b88784d0fbf530d98b964d4c97eb36033692e0b": {
@@ -2853,11 +2862,12 @@
         }, 
         "c2690ff4998ca4320f0f5e725420769a88aa15fd": {
             "en": "National Institute for Health and Welfare", 
-            "sv": "Institutet f\u00f6r h\u00e4lsa och v\u00e4lf\u00e4rd"
+            "fi": "Terveyden ja hyvinvoinnin laitos"
         }, 
         "d8f0491fcae6c4b096e46547bedf9f25635e8521": {
-            "en": "Aalto University", 
-            "fi": "Aalto-yliopisto"
+            "en": "https://idp.aalto.fi/idp/shibboleth", 
+            "fi": "Aalto-yliopisto", 
+            "sv": "Aalto-universitetet"
         }, 
         "e76fda2e06c1d98523c7258c00e4df0931ca359b": {
             "en": "Finnish Meteorological Institute", 
