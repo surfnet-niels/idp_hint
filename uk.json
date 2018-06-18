@@ -483,7 +483,7 @@
         "en": "PETROC"
     }, 
     "3d6b5f29eb0e393958d6dfc5e188af58deeb8c24": {
-        "en": "DoH: honni-HSC"
+        "en": "Healthcare Library of Northern Ireland"
     }, 
     "3d9dd9a2b06685e2beec32643ffbf2b4a7c1de20": {
         "en": "Nelson College"
@@ -634,9 +634,6 @@
     }, 
     "5234e89828bc10375b16806d4dc02885b9aec91f": {
         "en": "Royal Veterinary College: OpenAthens LA"
-    }, 
-    "52f9c2950ee40f84c73d7f284716899785081d90": {
-        "en": "Arts University Bournemouth"
     }, 
     "5342c71f6d0f942eb0e83b469d378d950ba7e74d": {
         "en": "Guildford College Open Athens Service"
@@ -1049,9 +1046,6 @@
     "81d219c333a1221c015cb69c689f4c3470bd2e8c": {
         "en": "The City of Liverpool College"
     }, 
-    "81ff93aa72dec1cd4994054c773772b911c72b04": {
-        "en": "Buckinghamshire New University (Test)"
-    }, 
     "82c97a979c7eafff23429bc93ea48afb72aa95aa": {
         "en": "Aberystwyth University"
     }, 
@@ -1399,6 +1393,9 @@
     "a66dac5e21d1687188668c868cfe8092979073e1": {
         "en": "Blackpool Sixth"
     }, 
+    "a717391ca26aee4e8ed78279ed8e37a6fd21b988": {
+        "en": "The University of Law"
+    }, 
     "a741b6375846d223096756774311f8e627b09050": {
         "en": "Overt Software Solutions Ltd"
     }, 
@@ -1449,6 +1446,9 @@
     }, 
     "ac8866fa503ffb9072da068677884c15c05d2bd6": {
         "en": "Richmond and Hillcroft Adult and Community College"
+    }, 
+    "acb1a1d90248481921d93cf1eb1efef1c685b49d": {
+        "en": "Royal College of Nursing - Test"
     }, 
     "ade8546f043fe35f110383cabe14c0f4416c04b7": {
         "en": "Barking & Dagenham College TEST"
@@ -1709,9 +1709,6 @@
     "cba8cb57105e4e02dbcf0106515e97c5ca979d67": {
         "en": "University of Southampton"
     }, 
-    "cbf8a4236d47e23e9d8d95756157432f56e2a0ca": {
-        "en": "LeSoCo (Legacy IdP)"
-    }, 
     "cc0b54ce541502fe7a15aec95c2e426327e7d7f8": {
         "en": "West Cheshire College (WCC)"
     }, 
@@ -1838,11 +1835,14 @@
     "db180885e7be78f290f12165777d832ed182170d": {
         "en": "University of Sunderland"
     }, 
+    "dc64f81889807569aa962ed7da6b8a615d68bceb": {
+        "en": "Arts University Bournemouth"
+    }, 
     "dd795d440d9cace62804d083701c161937ae7547": {
         "en": "Plymouth University"
     }, 
     "ddd935526505815de4f27fa261f2b3784c3c6df7": {
-        "en": "Southampton Solent University"
+        "en": "Solent University"
     }, 
     "de566a13603225184aaf7e92fbea4524fd71a342": {
         "en": "Science and Technology Facilities Council"

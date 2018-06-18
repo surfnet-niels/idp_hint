@@ -159,6 +159,10 @@
         "en": "Mines Douai", 
         "fr": "Mines Douai"
     }, 
+    "21863a0088dca50301c2c8d3628fddfea0dd9663": {
+        "en": "Institut national sup\u00e9rieur des sciences agronomiques, agroalimentaires, horticoles et du paysage", 
+        "fr": "Institut national sup\u00e9rieur des sciences agronomiques, agroalimentaires, horticoles et du paysage"
+    }, 
     "22fdf80eba59620d2b103578cd122aadcde4d62c": {
         "en": "University of Lille", 
         "fr": "Universit\u00e9 de Lille"
@@ -472,7 +476,7 @@
         "fr": "ABES - Agence Bibliographique de l'Enseignement Sup\u00e9rieur"
     }, 
     "6e3ab42683453d773805708315f4ffbffd14c38d": {
-        "en": "Universit\u00e9 de Strasbourg", 
+        "en": "University of Strasbourg", 
         "fr": "Universit\u00e9 de Strasbourg"
     }, 
     "706871abad5002442c21c984dad5aa8beb330f4d": {
@@ -610,6 +614,10 @@
     "87b734721f5ee60922daa693294a3cd3a22bfb99": {
         "en": "INSA Strasbourg", 
         "fr": "INSA Strasbourg"
+    }, 
+    "87c06aea0c35721c6f18bfa0196c9687cb7a6ce5": {
+        "en": "Identity Provider of University of Le Havre (v3)", 
+        "fr": "Universit\u00e9 du Havre (v3)"
     }, 
     "888391e1af91752f0f77023a53058bf9d25f9d71": {
         "en": "CROUS Besan\u00e7on V3", 

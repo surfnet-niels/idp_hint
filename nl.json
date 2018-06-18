@@ -47,6 +47,10 @@
         "en": "NHL Hogeschool", 
         "nl": "NHL Hogeschool"
     }, 
+    "1d9df5a7e515d8900c25ee873686f5ed80cddecd": {
+        "en": "TNO Innovation for life", 
+        "nl": "TNO Innovation for life"
+    }, 
     "1e6a1227398b72b7d615b067ed2fc7c522e1ab1e": {
         "en": "Leiden University", 
         "nl": "Universiteit Leiden"
@@ -87,6 +91,10 @@
         "en": "Hogeschool IPABO", 
         "nl": "Hogeschool IPABO"
     }, 
+    "2e32faa74e361cf65880e77994883320683cb269": {
+        "en": "Onderwijsgroep Noord", 
+        "nl": "Onderwijsgroep Noord"
+    }, 
     "2f63af5611ec3ffef61f72df4a22a09dac2de54e": {
         "en": "Zadkine", 
         "nl": "Zadkine"
@@ -94,6 +102,10 @@
     "30abd48f32e382e36ae6d4781d3462a8839fbfd4": {
         "en": "Radboud University", 
         "nl": "Radboud Universiteit"
+    }, 
+    "3336e754881c2350e257c7d6bafd13918b96c56a": {
+        "en": "ZonMw", 
+        "nl": "ZonMw"
     }, 
     "33982acc479793c006d3fe41df4b159b1068123d": {
         "en": "ROC van Amsterdam Flevoland en VOvA", 
@@ -178,6 +190,10 @@
     "694121c5c3fbf1f36dad869acd457557e2e88b29": {
         "en": "Utrecht University", 
         "nl": "Universiteit Utrecht"
+    }, 
+    "6d12af2a79bfd4020204df2011398c8e1999786c": {
+        "en": "Digital Infrastructure HumanitiesCluster (KNAW)", 
+        "nl": "Digital Infrastructure HumanitiesCluster (KNAW)"
     }, 
     "717c2b105cb420aab4d02dc2f998e45da3e1c2fe": {
         "en": "HZ University of Applied Sciences", 
@@ -362,6 +378,10 @@
     "ce749a5908bd3618bedb75a08ccf374261a31ade": {
         "en": "SURFmarket", 
         "nl": "SURFmarket"
+    }, 
+    "d02f15fddbd32fdc149d3564d278e8964672d065": {
+        "en": "Maastricht School of Management", 
+        "nl": "Maastricht School of Management"
     }, 
     "d160dd8199477096885759da7e07f11cac87d731": {
         "en": "University of Applied Sciences Leiden", 

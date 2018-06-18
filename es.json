@@ -11,6 +11,10 @@
         "en": "UPO - University Pablo Olavide", 
         "es": "UPO - Universidad Pablo Olavide"
     }, 
+    "16531aff3e51033aeca66ecda68a8c423fa04800": {
+        "en": "UNICAN - University of Cantabria", 
+        "es": "UNICAN - Universidad de Cantabria"
+    }, 
     "1b956c1400bcd68b7836b696eda12eedf08afcaf": {
         "en": "IAC - Instituto Astrof\u00edsico de Canarias", 
         "es": "IAC - Instituto Astrof\u00edsico de Canarias"
@@ -79,6 +83,10 @@
         "en": "UMA - University of Malaga", 
         "es": "UMA - Universidad de M\u00e1laga"
     }, 
+    "6fe8413811fb4264c70d50b9e524424ab7e32103": {
+        "en": "CELLS - Laboratorio de Luz Sincotr\u00f3n", 
+        "es": "CELLS - Laboratorio de Luz Sincotr\u00f3n"
+    }, 
     "7b6c7121ae8c088ac9ab560ad1ac3402aff4b610": {
         "en": "EHU - University of the Basque Country", 
         "es": "EHU - Universidad del Pa\u00eds Vasco"
@@ -130,6 +138,10 @@
         "en": "UPM - Polytechnic University of Madrid", 
         "es": "UPM - Universidad Polit\u00e9cnica de Madrid"
     }, 
+    "c1069294661d4c2124da029ec19169f8aa9e497a": {
+        "en": "UHU - University of Huelva", 
+        "es": "UHU - Universidad de Huelva"
+    }, 
     "c568fc60d8880daf1d4b1fe66d1efe461c0a5ac8": {
         "en": "UNED - National Distance Education University", 
         "es": "UNED - Universidad Nacional de Educaci\u00f3n a Distancia"
@@ -142,6 +154,10 @@
         "en": "CIEMAT", 
         "es": "CIEMAT"
     }, 
+    "d3d792e653aa7809529a621a51e9d34e449659ae": {
+        "en": "UCLM - University of Castilla La Mancha", 
+        "es": "UCLM - Universidad de Castilla La Mancha"
+    }, 
     "da2a5b686008a0a5242a9eb7d6a477be0ac86df7": {
         "en": "UV - Universitat de Valencia", 
         "es": "UV - Universitat de Valencia"
@@ -149,6 +165,10 @@
     "db0749267c5051d0c6d444d7d77c2c8766675abb": {
         "en": "RAE - Real Academia Espa\u00f1ola", 
         "es": "RAE - Real Academia Espa\u00f1ola"
+    }, 
+    "dd7319768727721904e6878382f2ca1881eb71bf": {
+        "en": "UDIMA - Universidad a Distancia de Madrid", 
+        "es": "UDIMA - Universidad a Distancia de Madrid"
     }, 
     "e143d363211da051280ddda659701f7a4fd532ef": {
         "en": "UGR - University of Granada", 

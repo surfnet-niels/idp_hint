@@ -211,6 +211,14 @@
         "en": "UFS - Universidade Federal de Sergipe", 
         "pt-br": "UFS - Universidade Federal de Sergipe"
     }, 
+    "393b80c1a2c67ec73176457a190ae400d9fbb2fb": {
+        "en": "FNDE - Fundo Nacional de Desenvolvimento da Educacao", 
+        "pt-br": "FNDE - Fundo Nacional de Desenvolvimento da Educacao"
+    }, 
+    "3f32e33a906545ca18e9c35791ca021d5ab0ae80": {
+        "en": "CETENE - Centro de Tecnologias e Estrategicas do NE", 
+        "pt-br": "CETENE - Centro de Tecnologias e Estrategicas do NE"
+    }, 
     "430d976438bd6b8852965e9b8948f56d7d3eacec": {
         "en": "UNIFOR - Universidade de Fortaleza", 
         "pt-br": "UNIFOR - Universidade de Fortaleza"
@@ -252,8 +260,8 @@
         "pt-br": "PUCGOIAS - Pontificia Universidade Catolica de Goias"
     }, 
     "4b369bd4665844e821f585830991dfe006cc6322": {
-        "en": "FURG - Fundacao Universidade do Rio Grande", 
-        "pt-br": "FURG - Fundacao Universidade do Rio Grande"
+        "en": "FURG - Universidade Federal do Rio Grande", 
+        "pt-br": "FURG - Universidade Federal do Rio Grande"
     }, 
     "4d5d208b73d6763e9c4b7bdfdffb281d6f23c014": {
         "en": "UERN - Universidade do Estado do Rio Grande do Norte", 
@@ -270,6 +278,10 @@
     "4fbdd19ab9bd5f8e6551373c20181e6619c4d99c": {
         "en": "FUCAPE - Fundacao Instituto Capixaba de Pesquisas em Contabilidade, Economia e Financas", 
         "pt-br": "FUCAPE - Fundacao Instituto Capixaba de Pesquisas em Contabilidade, Economia e Financas"
+    }, 
+    "505aeb2377dd4a46bf612683af5de63e2cebebfd": {
+        "en": "CNPq - Conselho Nacional de Desenvolvimento Cientifico e Tecnologico", 
+        "pt-br": "CNPq - Conselho Nacional de Desenvolvimento Cientifico e Tecnologico"
     }, 
     "50818c2815af8bbd85128868b2ba37326e4c71d7": {
         "en": "IMPA - Associacao Instituto de Matematica Pura e Aplicada", 
