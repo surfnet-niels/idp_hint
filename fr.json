@@ -160,8 +160,8 @@
         "fr": "Mines Douai"
     }, 
     "21863a0088dca50301c2c8d3628fddfea0dd9663": {
-        "en": "Institut national sup\u00e9rieur des sciences agronomiques, agroalimentaires, horticoles et du paysage", 
-        "fr": "Institut national sup\u00e9rieur des sciences agronomiques, agroalimentaires, horticoles et du paysage"
+        "en": "AGROCAMPUS OUEST", 
+        "fr": "AGROCAMPUS OUEST"
     }, 
     "22fdf80eba59620d2b103578cd122aadcde4d62c": {
         "en": "University of Lille", 
@@ -204,7 +204,7 @@
         "fr": "Rectorat Academie de  Limoges"
     }, 
     "285472dbb6def27000e77c5f1829c7470b7e0d09": {
-        "en": "Groupe ESEO", 
+        "en": "ESEO GROUP", 
         "fr": "Groupe ESEO"
     }, 
     "288f53f74f5847031022cc0f6817741aa7b1ebfa": {
@@ -218,10 +218,6 @@
     "2aba8ca79a63171964e8e4c296a306645ac48e8b": {
         "en": "Universit\u00e9 des Antilles", 
         "fr": "Universit\u00e9 des Antilles"
-    }, 
-    "2b891594c86ec548a2e74b2df61e0d0669364fb2": {
-        "en": "AGROCAMPUS OUEST", 
-        "fr": "AGROCAMPUS OUEST"
     }, 
     "2d04c07adda1d1c930869c0e0539c009376b8ca0": {
         "en": "INSA Lyon", 
@@ -259,6 +255,10 @@
         "en": "Bordeaux Sciences Agro", 
         "fr": "Bordeaux Sciences Agro"
     }, 
+    "36839cc75c1189ad432b4b79ba1fc632191103f0": {
+        "en": "Ecole Nationale des Chartes", 
+        "fr": "Ecole Nationale des Chartes"
+    }, 
     "36e9e7308741586e8a733af06e1b1cde691a9c5e": {
         "en": "Ecole Nationale Sup\u00e9rieure d\u2019Architecture de Normandie", 
         "fr": "Ecole Nationale Sup\u00e9rieure d\u2019Architecture de Normandie"
@@ -279,9 +279,9 @@
         "en": "Universit\u00e9 de Montpellier 1", 
         "fr": "Universit\u00e9 de Montpellier 1"
     }, 
-    "3d0f7f7022302330ce98db04a3af129499e27f69": {
-        "en": "PRES HESAM - Hautes Etudes-Sorbonne-Arts et M\u00e9tiers", 
-        "fr": "PRES HESAM - Hautes Etudes-Sorbonne-Arts et M\u00e9tiers"
+    "3ccba09e1a68cec4de3e52a8d2ae5f4db2486323": {
+        "en": "Ecole Nationale Sup\u00e9rieure d'Architecture de Clermont-Ferrand", 
+        "fr": "Ecole Nationale Sup\u00e9rieure d'Architecture de Clermont-Ferrand"
     }, 
     "3da61117144b8149864b8fb296078cda667c0d65": {
         "en": "HEC Paris", 
@@ -307,6 +307,10 @@
         "en": "Universit\u00e9 de Paris 9 - Dauphine", 
         "fr": "Universit\u00e9 de Paris 9 - Dauphine"
     }, 
+    "424d728de724d14062a1606d77fefe9addb52e26": {
+        "en": "Universit\u00e9 Jean Monnet - TEST", 
+        "fr": "Universit\u00e9 Jean Monnet - TEST"
+    }, 
     "45e83f5689a64beacb2720b6bcc23aeac6098a01": {
         "en": "Universit\u00e9 Savoie Mont Blanc", 
         "fr": "Universit\u00e9 Savoie Mont Blanc"
@@ -314,6 +318,10 @@
     "48c6bee23c8a923f3dba14171304b03135297614": {
         "en": "Universit\u00e9 de Paris 6 - Pierre et Marie Curie", 
         "fr": "Universit\u00e9 de Paris 6 - Pierre et Marie Curie"
+    }, 
+    "4b18c24f6df44c47598ada8f70320b84081e22dc": {
+        "en": "Sorbonne University - Test", 
+        "fr": "Sorbonne Universit\u00e9 - Test"
     }, 
     "4b5c07c298fd46fdd9b7f6e6e8a4d845648fb175": {
         "en": "CROUS Normandie - Employees v3", 
@@ -492,7 +500,7 @@
         "fr": "INHA - Institut National de l'Histoire de l'Art"
     }, 
     "71f6510f327655f92d0a61c2e7e45f13dc84b36b": {
-        "en": "Universit\u00e9 de Saint-Etienne - Jean Monnet", 
+        "en": "University of Saint-Etienne - Jean Monnet", 
         "fr": "Universit\u00e9 de Saint-Etienne - Jean Monnet"
     }, 
     "73772b513356f4c67f371928b33d9d96b831bbf4": {
@@ -524,8 +532,8 @@
         "fr": "Universit\u00e9 Paris-Saclay"
     }, 
     "75a064d28a4abc9f50c0b6056cd6e759f083939c": {
-        "en": "Universit\u00e9 de Technologie de Troyes V3", 
-        "fr": "Universit\u00e9 de Technologie de Troyes V3"
+        "en": "Universit\u00e9 de Technologie de Troyes - UTT", 
+        "fr": "Universit\u00e9 de Technologie de Troyes - UTT"
     }, 
     "7800e361d8d6f44889ea8bc8d1fc543cba59aaba": {
         "en": "Universit\u00e9 Rennes 2", 
@@ -704,8 +712,8 @@
         "fr": "CROUS Lyon-Personnels"
     }, 
     "9836298e3508da811aba4fcad6fffdfcbe484754": {
-        "en": "CROUS Reims - TEST", 
-        "fr": "CROUS Reims - TEST"
+        "en": "IDP TEST CROUS Reims", 
+        "fr": "IDP TEST CROUS Reims"
     }, 
     "98d8cee05ddb18bf41334da7c89f791dc2285ca1": {
         "en": "ENSASE - Ecole nationale sup\u00e9rieure d'architecture de Saint-\u00c9tienne", 
@@ -740,11 +748,11 @@
         "fr": "Universit\u00e9 de Franche-Comt\u00e9"
     }, 
     "9c7fe87fecdef22e9c0db8d638037775696c6c88": {
-        "en": "Telecom SudParis & Telecom Ecole de Management", 
-        "fr": "Telecom SudParis & Telecom Ecole de Management"
+        "en": "Institut Mines Telecom Business School & Telecom SudParis", 
+        "fr": "Institut Mines Telecom Business School & Telecom SudParis"
     }, 
     "9d85e3fba7c9c43d6839d7973228e18348a44ab6": {
-        "en": "Universit\u00e9 Bordeaux Montaigne", 
+        "en": "Bordeaux Montaigne University", 
         "fr": "Universit\u00e9 Bordeaux Montaigne"
     }, 
     "9d8d6acbc892700866523b1f7251382b059a8c2c": {
@@ -756,8 +764,8 @@
         "fr": "Ecole normale sup\u00e9rieure"
     }, 
     "9de701388e85db0a23164c4559fb8d04230eec2e": {
-        "en": "ESPCI ParisTech", 
-        "fr": "ESPCI ParisTech"
+        "en": "ESPCI Paris", 
+        "fr": "ESPCI Paris"
     }, 
     "9e931abec970a65e716e27f2bbdb9ba7cc6e79d2": {
         "en": "ENSCM - Ecole Nationale Sup\u00e9rieure de Chimie de Montpellier", 
@@ -887,6 +895,10 @@
         "en": "GIP RENATER", 
         "fr": "GIP RENATER"
     }, 
+    "be21060b49d079c1c1afa68a37eb6d3972e286a0": {
+        "en": "CINES", 
+        "fr": "CINES"
+    }, 
     "becf75b872cf42356014b29b6b236e0c72deaf72": {
         "en": "Universite du Littoral Cote d'Opale", 
         "fr": "Universit\u00e9 du Littoral C\u00f4te d'Opale"
@@ -947,6 +959,10 @@
         "en": "Universit\u00e9 de Clermont-Ferrand 2 - Blaise Pascal", 
         "fr": "Universit\u00e9 de Clermont-Ferrand 2 - Blaise Pascal"
     }, 
+    "ce3786715628e2afaf16cbfec73ce640ea047c02": {
+        "en": "Ecole Normale Sup\u00e9rieure Paris-Saclay IDP 3 TEST", 
+        "fr": "Ecole Normale Sup\u00e9rieure Paris-Saclay IDP 3 TEST"
+    }, 
     "cf3b78687a4f8b1b74b641245a0919bf3ac240ae": {
         "en": "CIRAD", 
         "fr": "CIRAD"
@@ -999,10 +1015,6 @@
         "en": "IPB - Bordeaux INP", 
         "fr": "IPB - Bordeaux INP"
     }, 
-    "dd03b22d0c4a28ddcdad6578126af022cfe3e37d": {
-        "en": "RENATER Connect", 
-        "fr": "RENATER Connect"
-    }, 
     "dd583f2e23ffdb142b57a26698c20d580f6b40a4": {
         "en": "Sorbonne University", 
         "fr": "Sorbonne Universit\u00e9s"
@@ -1043,6 +1055,10 @@
         "en": "Universit\u00e9 de Picardie Jules Verne", 
         "fr": "Universit\u00e9 de Picardie Jules Verne"
     }, 
+    "e3053d24782894c673e63d92e93c8da011f6f703": {
+        "en": "CROUS Lille - TEST", 
+        "fr": "CROUS Lille - TEST"
+    }, 
     "e46861227742ba75a56b7b2bbb1df049273c8e4c": {
         "en": "ONIRIS", 
         "fr": "ONIRIS"
@@ -1058,10 +1074,6 @@
     "e4bb404fd373ad8f9e0d74994764b49ccc02496c": {
         "en": "IDP", 
         "fr": "O.N.I.S.E.P - Office National d'Information sur les Enseignements et les Professions (ONISEP)"
-    }, 
-    "e5c033d93ecb209078b88860542ba478bf3a1e96": {
-        "en": "Universit\u00e9 de Toulouse", 
-        "fr": "Universit\u00e9 de Toulouse"
     }, 
     "e5d006f50a6fec6fd186367cbbf8d28af07c9047": {
         "en": "Ecole Nationale Sup\u00e9rieure de Chimie de Rennes", 
@@ -1083,6 +1095,10 @@
         "en": "Universit\u00e9 de Nimes", 
         "fr": "Universit\u00e9 de Nimes"
     }, 
+    "e8cefb91a09b364d989de8181bebddf6706ae6a8": {
+        "en": "CEA - Test Silab IDPOC", 
+        "fr": "CEA - Test Silab IDPOC"
+    }, 
     "eaa182778cb18432e82014177f23ab3f8396363e": {
         "en": "Universit\u00e9 de Lyon - UDL", 
         "fr": "Universit\u00e9 de Lyon - UDL"
@@ -1090,10 +1106,6 @@
     "eb2120d27a3b187fccf1e0cc943a373d0ba52700": {
         "en": "University of New-Caledonia", 
         "fr": "Universit\u00e9 de la Nouvelle-Cal\u00e9donie"
-    }, 
-    "ebdd7caf3c7472763e3a3b32ee5b360d301a0529": {
-        "en": "Universit\u00e9 de Technologie de Troyes", 
-        "fr": "Universit\u00e9 de Technologie de Troyes"
     }, 
     "ee2e375dc51d8bdf10a74241cdf55de831f98632": {
         "en": "Paris-Sorbonne Universite", 

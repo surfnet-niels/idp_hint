@@ -36,8 +36,8 @@
         "lt": "Aleksandro Stulginskio universitetas"
     }, 
     "851de90c411cce8666e59c12ee9b015c034a20c4": {
-        "en": "Vilnius University", 
-        "lt": "Vilniaus universitetas"
+        "en": "Vilnius University (old system)", 
+        "lt": "Vilniaus universitetas (sena sistema)"
     }, 
     "89c0d7983368fc92fc79d0943d1714783c2840b0": {
         "en": "ISM University of Management and Economics", 
@@ -46,6 +46,10 @@
     "8ea022ef906448ef7a301230b2a637b4c50c02f4": {
         "en": "Vytautas Magnus University", 
         "lt": "Vytauto Did\u017eiojo universitetas"
+    }, 
+    "8f5f8f54836d68864753fc0446c8cf29277b7cd9": {
+        "en": "European Humanities University", 
+        "lt": "Europos humanitarinis universitetas"
     }, 
     "d27e0905e5ddda20720b2c2717dc8fb39f47f639": {
         "en": "Marijampole College", 

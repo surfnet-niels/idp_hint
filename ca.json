@@ -11,9 +11,6 @@
     "102b02e4984a85ebb04c11a6b590ca5e218068b3": {
         "en": "Holland College"
     }, 
-    "1337e17375fe05f124d710eec159281847655411": {
-        "en": "University of Quebec at Trois Rivieres"
-    }, 
     "181f47988f5019b0c16be80a3f03a3558f2f26da": {
         "en": "Thompson Rivers University"
     }, 
@@ -38,6 +35,9 @@
     }, 
     "3572780a6580908187fecb276f89f5706cf64008": {
         "en": "University of New Brunswick"
+    }, 
+    "38af542868d0d7fc06d5d76b0253a9c5228b8229": {
+        "en": "Carleton University"
     }, 
     "3f6b3ebf100d127736e8fe5c695351f5f540f306": {
         "en": "University of British Columbia"
@@ -92,6 +92,10 @@
     "6abebce79248467087cfd3e4405da6f8aa2f6b8e": {
         "en": "University of Ottawa"
     }, 
+    "726a17714ab6e4aa5e1d4cec415569ad6d69f665": {
+        "en": "University of Quebec at Trois-Rivieres", 
+        "fr": "Universit\u00e9 du Qu\u00e9bec \u00e0 Trois-Rivi\u00e8res"
+    }, 
     "7413a8bc311ba96ec7e693ae4b698828660b8a34": {
         "en": "La Cit\u00e9", 
         "fr": "La Cit\u00e9"
@@ -108,6 +112,10 @@
     }, 
     "939a44ba0311473b62fef6b9b47d9b03f5027b03": {
         "en": "University of Alberta"
+    }, 
+    "93da6cd50ccae3c96074dd004f8592e49075db42": {
+        "en": "Universit\u00e9 du Qu\u00e9bec \u00e0 Chicoutimi", 
+        "fr": "Universit\u00e9 du Qu\u00e9bec \u00e0 Chicoutimi"
     }, 
     "9a4c6e5fe29fb69cb19dc2576d11fb60e46a6544": {
         "en": "University of Waterloo"
@@ -175,6 +183,13 @@
     "edc8cdbc7e345f4fe9d0a10f3dbd65eb905bb4e7": {
         "en": "Universit\u00e9 de Montr\u00e9al", 
         "fr": "Universit\u00e9 de Montr\u00e9al"
+    }, 
+    "f0934a66e81a659583d4497a19d7602834c008b4": {
+        "en": "\u00c9cole de technologie sup\u00e9rieure", 
+        "fr": "\u00c9cole de technologie sup\u00e9rieure"
+    }, 
+    "f5f420ac81d9d8e1d38a2b783e0bfdd95d9d3ed7": {
+        "en": "BCNET"
     }, 
     "fb510f3f8957a2f1740bb6626ff0f64e011e6e96": {
         "en": "Camosun College"

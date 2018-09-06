@@ -3,6 +3,10 @@
         "en": "IRCCS Associazione Oasi Maria SS. Onlus", 
         "it": "IRCCS Associazione Oasi Maria SS. Onlus"
     }, 
+    "01a9c87f37eaa793824204faf485ab9801406624": {
+        "en": "IRCCS ISMETT - Palermo", 
+        "it": "IRCCS ISMETT - Palermo"
+    }, 
     "03877bbb06eef028f1b216d8c234ecf175d198e3": {
         "en": "University of Padova", 
         "it": "Universit\u00e0 degli Studi di Padova"
@@ -164,6 +168,10 @@
         "en": "University of Bari Aldo Moro", 
         "it": "Universit\u00e0 degli Studi di Bari Aldo Moro"
     }, 
+    "6e24d902e1609811571e6a506280de1ef17ac583": {
+        "en": "IRCCS IEO - Milano", 
+        "it": "IRCCS IEO - Milano"
+    }, 
     "6e6cdfa8466d214215bb9782889f9779d9eac9ac": {
         "en": "University of Trento", 
         "it": "Universit\u00e0 degli Studi di Trento"
@@ -177,12 +185,16 @@
         "it": "Universit\u00e0 di Ferrara"
     }, 
     "71ee00555ae37014a9a2837ac5ecc71cec921c26": {
-        "en": "IRCCS SDN, Istituto di Ricerca Diagnostica e Nucleare - Napoli", 
-        "it": "IRCCS SDN, Istituto di Ricerca Diagnostica e Nucleare - Napoli"
+        "en": "IRCCS SDN - Napoli", 
+        "it": "IRCCS SDN - Napoli"
     }, 
     "757add4a3342bcea8e48edee423eb10b3691279c": {
         "en": "IIT - Istituto Italiano di Tecnologia", 
         "it": "IIT - Istituto Italiano di Tecnologia"
+    }, 
+    "7b7d0efcf91dd42ffa716798d8e677e45171ce30": {
+        "en": "European Gravitational Observatory", 
+        "it": "European Gravitational Observatory"
     }, 
     "80100c3420ee37e16d73393c806efbce885a9759": {
         "en": "National Research Council (CNR)", 
@@ -225,8 +237,8 @@
         "it": "Universit\u00e0 degli Studi di Napoli Federico II"
     }, 
     "90856be637dc1846019bdb569a7a1fa31aa81671": {
-        "en": "University of Camerino (new)", 
-        "it": "Universit\u00e0 di Camerino (nuovo)"
+        "en": "University of Camerino", 
+        "it": "Universit\u00e0 di Camerino"
     }, 
     "91e0ebbeb83ffedce955520a82d5476bd3b429f3": {
         "en": "IRCCS ICS Maugeri - Pavia", 

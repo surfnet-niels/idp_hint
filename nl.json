@@ -131,6 +131,10 @@
         "en": "Digital Humanities HumanitiesCluster (KNAW)", 
         "nl": "Digital Humanities HumanitiesCluster (KNAW)"
     }, 
+    "3fb00090cfdbd59b9982907b15933b71ef7fb5ea": {
+        "en": "Hubrecht Institute & Westerdijk Fungal Biodiversity Institute (KNAW)", 
+        "nl": "Hubrecht Institute & Westerdijk Fungal Biodiversity Institute (KNAW)"
+    }, 
     "3fda7343b98a83a6fde72b59bdaf56d5cdebe7e1": {
         "en": "NWO", 
         "nl": "NWO"
@@ -159,9 +163,17 @@
         "en": "Bedrijfsbureau Humanitiescluster KNAW", 
         "nl": "Bedrijfsbureau Humanitiescluster KNAW"
     }, 
+    "4eb866141fd52e8b62ebbf76d722d9943fdfada0": {
+        "en": "Rijksmuseum Amsterdam", 
+        "nl": "Rijksmuseum Amsterdam"
+    }, 
     "4effe7f400fbf92470324c4b606b45b009938ac6": {
         "en": "Graafschap College", 
         "nl": "Graafschap College"
+    }, 
+    "4f3702e4526e5c6b15088c1005527acac6bf3c6c": {
+        "en": "Universitair Medisch Centrum Utrecht", 
+        "nl": "Universitair Medisch Centrum Utrecht"
     }, 
     "50040968f43339722eef3bc0069b6df4c6a740ac": {
         "en": "Netherlands Institute of Ecology NIOO (KNAW)", 
@@ -187,6 +199,10 @@
         "en": "SWOV Institute for Road Safety Research", 
         "nl": "Stichting Wetenschappelijk Onderzoek Verkeersveiligheid SWOV"
     }, 
+    "600f3309e2d4808eda8cb9bd7cef7528005b2b27": {
+        "en": "Codarts", 
+        "nl": "Codarts"
+    }, 
     "694121c5c3fbf1f36dad869acd457557e2e88b29": {
         "en": "Utrecht University", 
         "nl": "Universiteit Utrecht"
@@ -210,6 +226,10 @@
     "76782784698da9dd48e3838df0251d87b06aa98a": {
         "en": "DIFFER", 
         "nl": "DIFFER"
+    }, 
+    "774ef624bd1caa53bee2a22e346d0185277dd6c4": {
+        "en": "ROC Rivor", 
+        "nl": "ROC Rivor"
     }, 
     "7a2f0c9483bb529d23a80cf744f24aa6984e24ef": {
         "en": "Meertens Instituut (KNAW)", 
@@ -255,6 +275,10 @@
         "en": "Grafisch Lyceum Utrecht", 
         "nl": "Grafisch Lyceum Utrecht"
     }, 
+    "9d9a59b9db888d1acb22152bd36d0ee78e0114b9": {
+        "en": "Breda University of Applied Sciences", 
+        "nl": "Breda University of Applied Sciences"
+    }, 
     "9e9b76faaf137eb24f118869c33f532dd9205d5d": {
         "en": "University of Twente", 
         "nl": "Universiteit Twente"
@@ -268,16 +292,12 @@
         "nl": "Naturalis Biodiversity Center"
     }, 
     "a09adcdaf9342ddf50d4936883173af7de8e07ee": {
-        "en": "NHL/Stenden", 
-        "nl": "NHL/Stenden"
+        "en": "NHL Stenden", 
+        "nl": "NHL Stenden"
     }, 
     "a1edcc734e4ce56b70f42becbf04010b95f6fc78": {
         "en": "ROC Mondriaan", 
         "nl": "ROC Mondriaan"
-    }, 
-    "a315b98538353f56b3db32c3bb33a52ab4f40768": {
-        "en": "Energieonderzoek Centrum Nederland", 
-        "nl": "Energieonderzoek Centrum Nederland"
     }, 
     "a5983b45c5bcaa2036e30fd79f90f2c1347c854f": {
         "en": "Saxion University of Applied Sciences", 
@@ -303,6 +323,10 @@
         "en": "Maastricht University", 
         "nl": "Universiteit Maastricht"
     }, 
+    "af13fbc93736a299f55ec78dfdd1f8649ec232b0": {
+        "en": "Spinoza Centre for Neuroimaging (KNAW)", 
+        "nl": "Spinoza Centrum voor Neuroimaging (KNAW)"
+    }, 
     "b23dd28d4b2af38bf258169c4eaf9eb4f6fb034f": {
         "en": "Openbare Bibliotheek Amsterdam (OBA)", 
         "nl": "Openbare Bibliotheek Amsterdam (OBA)"
@@ -327,13 +351,17 @@
         "en": "SURFsara", 
         "nl": "SURFsara"
     }, 
+    "b7d09f9f2392698df89808c75e267dd1488d771c": {
+        "en": "Nuffic", 
+        "nl": "Nuffic"
+    }, 
     "b7efc8cb051baef2e403c0b02959a9cf51e64510": {
         "en": "NHTV Breda University of Applied Sciences", 
         "nl": "NHTV internationaal hoger onderwijs Breda"
     }, 
-    "b94f29d2f1dc57cd7d3b8d28a0f849aa68a03474": {
-        "en": "Nuffic", 
-        "nl": "Nuffic"
+    "b9716f10b42e26e7560eb049f02df9fb0ea14905": {
+        "en": "ID College", 
+        "nl": "ID College"
     }, 
     "bbf409814edf4b2a68b873ba587b2d9d2b41e5c3": {
         "en": "Helicon Opleidingen", 
@@ -426,10 +454,6 @@
     "e4d32de77b7b1389107a34e7e9005e3bd49a09a6": {
         "en": "KNMI", 
         "nl": "KNMI"
-    }, 
-    "e6b1471933cac45c017bd19c06da2170dc6ca8f9": {
-        "en": "Rijksmuseum Amsterdam", 
-        "nl": "Rijksmuseum Amsterdam"
     }, 
     "e6e6fc3a42588bdec230748f61548b06555207a5": {
         "en": "Bureau (KNAW)", 
