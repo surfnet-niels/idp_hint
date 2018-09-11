@@ -1899,10 +1899,6 @@
             "cs": "Masaryk\u016fv \u00fastav a archiv AV \u010cR", 
             "en": "Masaryk Institute and Archives of the CAS"
         }, 
-        "c0c4785b193036f700249b3d1d60e53f2d02a7f3": {
-            "cs": "\u00dastav molekul\u00e1rn\u00ed genetiky AV \u010cR", 
-            "en": "Institute of Molecular Genetics of the ASCR"
-        }, 
         "d0b6de02ac7a5b166038a7f654510b13d8552910": {
             "cs": "\u00dastav fyzik\u00e1ln\u00ed chemie J. Heyrovsk\u00e9ho AV \u010cR, v.v.i.", 
             "en": "J. Heyrovsk\u00fd Institute of Physical Chemistry of the CAS, v.v.i"
@@ -8028,6 +8024,9 @@
         }, 
         "d3e783cc25754b99a4ff9c47328f9a6e0ec897b7": {
             "en": "Hugh Baird College"
+        }, 
+        "d429b5bede90fa2f0948360e1af705df8edae170": {
+            "en": "University of Sussex: Development"
         }, 
         "d4821124de0b574b5adf66b03805c9f1639e55cf": {
             "en": "Strode College"
