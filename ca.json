@@ -107,6 +107,10 @@
         "en": "McGill University", 
         "fr": "Universit\u00e9 McGill"
     }, 
+    "8c8415d92678fa250621b59ebce0da58bd744654": {
+        "en": "Universit\u00e9 du Qu\u00e9bec en Outaouais", 
+        "fr": "Universit\u00e9 du Qu\u00e9bec en Outaouais"
+    }, 
     "91864a0c16b8073e41d1d7f521285e1869d3d2b7": {
         "en": "ACORN NS"
     }, 
@@ -143,6 +147,9 @@
     "bdd3fcf4a4af3d5cb5dc8a8e9e75f7409a968c34": {
         "en": "Concordia University"
     }, 
+    "bed5c1fd1c55a9ab15fbf2d0fd9efb5ba246b450": {
+        "en": "University of Toronto"
+    }, 
     "bee7d1ae3b02c6ff22a3c844122032541f097323": {
         "en": "University of Saskatchewan"
     }, 
@@ -151,7 +158,8 @@
         "fr": "UQAM | Universit\u00e9 du Qu\u00e9bec \u00e0 Montr\u00e9al"
     }, 
     "bfe967e88f7860dffe758f108fa0e3c3451ba822": {
-        "en": "Compute Canada Staff"
+        "en": "Compute Canada", 
+        "fr": "Calcul Canada"
     }, 
     "cc962b4b2c133f367945e7d58cf9a380dc58c4b8": {
         "en": "Laurentian University"
@@ -162,6 +170,10 @@
     }, 
     "e0059a4ecccbd6a2a41b743cb0231f334777e9de": {
         "en": "Ryerson University"
+    }, 
+    "e134e55981a86fbdb9ff1803b3b0774e00f5cd0f": {
+        "en": "HEC Montr\u00e9al", 
+        "fr": "HEC Montr\u00e9al"
     }, 
     "e1e893233dec5dcfc1b1897e69ae2549a70e8f78": {
         "en": "McMaster University"
@@ -187,6 +199,9 @@
     "f0934a66e81a659583d4497a19d7602834c008b4": {
         "en": "\u00c9cole de technologie sup\u00e9rieure", 
         "fr": "\u00c9cole de technologie sup\u00e9rieure"
+    }, 
+    "f3a3954defde26a103157276bda5335467ba28c9": {
+        "en": "zzzTest-UOttawa"
     }, 
     "f5f420ac81d9d8e1d38a2b783e0bfdd95d9d3ed7": {
         "en": "BCNET"

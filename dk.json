@@ -1,11 +1,7 @@
 {
     "0bcbbe777c55bd9627c3a052a1fd0ede7201e5e5": {
-        "da": "University College Nordjylland", 
-        "en": "University College of Northern Denmark (UCN)"
-    }, 
-    "12750c22ce31763366a0101c4fe6835518a20433": {
-        "da": "K\u00f8benhavn Nord", 
-        "en": "Knord Business College"
+        "da": "Professionsh\u00f8jskolen UCN", 
+        "en": "UCN"
     }, 
     "138efa9d194557679cdf7be6cb115d9570fcd6de": {
         "da": "Cphbusiness [OLD]", 
@@ -19,10 +15,6 @@
         "da": "Rungsted Gymnasium", 
         "en": "Rungsted Gymnasium"
     }, 
-    "2d0160cbfd0137c6b08451d25197ed1b3e4d1db7": {
-        "da": "University College Sj\u00e6lland", 
-        "en": "University College Zealand"
-    }, 
     "2d6e18a11a236789549f6023ba1e02a64213ad85": {
         "da": "ZBC \u2013 Zealand Business College", 
         "en": "ZBC \u2013 Zealand Business College"
@@ -32,8 +24,8 @@
         "en": "Danish Research Centre for Magnetic Resonance"
     }, 
     "35a243ae4efec96a55992ba512136f9a4a63d6f6": {
-        "da": "University College Lilleb\u00e6lt", 
-        "en": "University College Lillebaelt"
+        "da": "UCL Erhvervsakademi og Professionsh\u00f8jskole", 
+        "en": "UCL University College"
     }, 
     "35aa7d87dbbd1b09eda39fc8e35751cbf7977bb6": {
         "da": "Cphbusiness", 
@@ -66,6 +58,10 @@
     "44f312aa4979975b51dfd748b749cdf4eaa2d1c0": {
         "da": "Fredericia Maskinmesterskole", 
         "en": "Fredericia Maskinmesterskole"
+    }, 
+    "46447217852f04b3ff7955130889ea9117f678d3": {
+        "da": "Roskilde Universitet (RUC)", 
+        "en": "Roskilde University (RUC)"
     }, 
     "46bf3a3f0b814529edc62386ad996155932701f3": {
         "da": "Energimuseet", 
@@ -132,8 +128,8 @@
         "en": "Absalon University College"
     }, 
     "8249ec5ee2f5f1744762f49da6899c3e00811781": {
-        "da": "Knord [TEST]", 
-        "en": "Knord Business College [TEST]"
+        "da": "Knord", 
+        "en": "Knord Business College"
     }, 
     "86225082f343c966c7049d0dd5faaf5ef78a0bc9": {
         "da": "Forsvarets Bibliotekscenter", 
@@ -156,8 +152,8 @@
         "en": "National Gallery of Denmark \u2013 SMK"
     }, 
     "9ab9fe713cc667d95a11efbddfd67d06a2cea820": {
-        "da": "Kunstakademiets Arkitekt, Design og Konservatorskoler", 
-        "en": "Schools of Architecture, Design and Conservation"
+        "da": "Kunstakademiets skoler for Arkitektur, Design og Konservering", 
+        "en": "The Royal Danish Academy of Fine Arts Schools of Architecture, Design and Conservation"
     }, 
     "a415673ace85bf283fbbd2af58ba0890d890ebdb": {
         "da": "Erhvervsakademiet Lilleb\u00e6lt", 
@@ -186,10 +182,6 @@
     "c7cb795af9e97b1d9f71fbb1aea399e338b96df3": {
         "da": "Pharmakon", 
         "en": "Pharmakon"
-    }, 
-    "c977574c8bb28fbb9d0e8f8d75146ff12469017d": {
-        "da": "Roskilde Universitet (RUC)", 
-        "en": "Roskilde University (RUC)"
     }, 
     "ccfff7160d570163fbefcc72e008b31a3be09636": {
         "da": "KEA \u2013 K\u00f8benhavns Erhvervsakademi", 
@@ -223,6 +215,10 @@
         "da": "Syddansk Erhvervsskole", 
         "en": "SDE College"
     }, 
+    "dc7c1ae1d34167a23d68412bbde06f529ad5e5bf": {
+        "da": "WAYF Orphanage [for udviklere]", 
+        "en": "WAYF Orphanage [for developers]"
+    }, 
     "dfc38b59d38786df9a4f9980c21bdc936612cbdf": {
         "da": "Erhvervsakademi Aarhus", 
         "en": "Business Academy Aarhus"
@@ -240,16 +236,24 @@
         "en": "Grenaa Gymnasium"
     }, 
     "e4a120bb9d35e2c03d890d16e41290af303e152c": {
-        "da": "VIA University College", 
-        "en": "VIA University College"
+        "da": "VIA University College [GL]", 
+        "en": "VIA University College [OLD]"
     }, 
     "e645ec802465fe2006b023d7025802c1f69ee748": {
         "da": "Frederikshavn Gymnasium & HF-kursus", 
         "en": "Frederikshavn Gymnasium & HF-kursus"
     }, 
+    "e962eddcd81f6b3952a528739848f81589c17458": {
+        "da": "Erhvervsakademi Aarhus [TEST]", 
+        "en": "Business Academy Aarhus [TEST]"
+    }, 
     "eec8b6edb7561881516f97b00461cdb78c9de6ac": {
         "da": "Erhvervsakademi MidtVest", 
         "en": "Erhvervsakademi MidtVest"
+    }, 
+    "f199c865a38b7a96b492409dd525790a4ba6d4a1": {
+        "da": "VIA University College", 
+        "en": "VIA University College"
     }, 
     "f41160f312ff3e68c5553a328a7cfd5129089d5a": {
         "da": "Aalborg Universitet", 

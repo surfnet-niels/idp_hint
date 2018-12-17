@@ -3,6 +3,10 @@
         "cs": "\u00dastav p\u0159\u00edstrojov\u00e9 techniky AV \u010cR", 
         "en": "Institute of Scientific Instruments of the ASCR"
     }, 
+    "06163419d4212fd75266c8b5a56715868b487a35": {
+        "cs": "\u0160KODA AUTO Vysok\u00e1 \u0161kola", 
+        "en": "\u0160KODA AUTO University"
+    }, 
     "06374bd192ef914fe27b32f71b431360f1213948": {
         "cs": "M\u011bstsk\u00e1 knihovna \u010cesk\u00e1 T\u0159ebov\u00e1", 
         "en": "Municipal Library \u010cesk\u00e1 T\u0159ebov\u00e1"
@@ -19,9 +23,17 @@
         "cs": "N\u00e1rodn\u00ed l\u00e9ka\u0159sk\u00e1 knihovna - Medvik", 
         "en": "National Medical Library, Prague - Medvik"
     }, 
+    "10ff368a874e5ef80039607861399c78b31d61bf": {
+        "cs": "Knihovna T\u0159inec", 
+        "en": "Library in T\u0159inec"
+    }, 
     "120fd1b9d92b63da85b29fd627fbbbe1d7dfce3a": {
         "cs": "Univerzita Jana Evangelisty Purkyn\u011b v \u00dast\u00ed nad Labem", 
         "en": "Jan Evangelista Purkyne University in Usti nad Labem"
+    }, 
+    "139dfa7028bd43f2f66f1c552efdb12bc3f5d1b7": {
+        "cs": "St\u00e1tn\u00ed \u00fastav radia\u010dn\u00ed ochrany, v.v.i.", 
+        "en": "National Radiation Protection Institute"
     }, 
     "14cc92a6727f244e4fe210b371f7fa9513b5cb97": {
         "cs": "\u00dastav fyziky atmosf\u00e9ry AV \u010cR", 
@@ -38,6 +50,10 @@
     "19407e31a8808cf5e87e220024ae6c1851751515": {
         "cs": "Univerzita Obrany", 
         "en": "University of defence"
+    }, 
+    "1e5882ad31e9391dd8f8ba66dac802b7a145dfba": {
+        "cs": "M\u011bstsk\u00e1 knihovna v \u010cesk\u00e9m Krumlov\u011b", 
+        "en": "Municipal Library in Cesky Krumlov"
     }, 
     "1e8125124919eed991bdaeab32bf566e59437a56": {
         "cs": "Etnologick\u00fd \u00fastav AV \u010cR, v. v. i.", 
@@ -58,6 +74,10 @@
     "261f28a078d76efbfae25ae1e2eac1e39b6e8c41": {
         "cs": "Pedagogick\u00e1 knihovna J. A. Komensk\u00e9ho", 
         "en": "Comenius Library of Education"
+    }, 
+    "26e4d6a7b2be4d1aa32f6b0b24ad1d954a46dae1": {
+        "cs": "Knihovna Eduarda Peti\u0161ky", 
+        "en": "Eduard Petiska Library"
     }, 
     "277f1177ec95517b828ac876c4f7817d0fcc7a0c": {
         "cs": "Univerzita Karlova", 
@@ -115,9 +135,17 @@
         "cs": "Vysok\u00e1 \u0161kola um\u011bleckopr\u016fmyslov\u00e1 v Praze", 
         "en": "Academy of Arts, Architecture and Design in Prague"
     }, 
+    "4aa3904d09ae8092ea846cba9efef9da34a37fb4": {
+        "cs": "M\u011bstsk\u00e1 knihovna Znojmo", 
+        "en": "Municipal library in Znojmo"
+    }, 
     "4f79e4d8784a87062cfa420f224286e6ea2d283c": {
         "cs": "V\u011bdeck\u00e1 knihovna v Olomouci", 
         "en": "Research Library in Olomouc"
+    }, 
+    "4fe38b6c60319f0c18387d92ccbcab5cd3ea9133": {
+        "cs": "UVN Praha", 
+        "en": "UVN Prague"
     }, 
     "5073adfcd519ab6e103738ea9305078ea3c4762d": {
         "cs": "\u00dastav \u017eivo\u010di\u0161n\u00e9 fyziologie a genetiky AV \u010cR", 
@@ -126,6 +154,10 @@
     "51ee0e95adc01754944f6e571da550a5405b1c33": {
         "cs": "Geologick\u00fd \u00fastav AV \u010cR", 
         "en": "Institute of Geology AS CR"
+    }, 
+    "53081e0d5b7691d3e563704558292b317f856885": {
+        "cs": "M\u011bstsk\u00e1 knihovna Mari\u00e1nsk\u00e9 L\u00e1zn\u011b", 
+        "en": "Municipal Library Marianske Lazne"
     }, 
     "5408e7c5b4a7325a9bdc7ee906850c7970fab440": {
         "cs": "Slezsk\u00e1 univerzita v Opav\u011b", 
@@ -159,9 +191,17 @@
         "cs": "Moravskoslezsk\u00e1 v\u011bdeck\u00e1 knihovna v Ostrav\u011b", 
         "en": "Moravian-Silesian Research Library in Ostrava"
     }, 
+    "625d5bd4352fa688d33a8d9c877c2d134feb37a3": {
+        "cs": "M\u011bstsk\u00e1 knihovna Pelh\u0159imov", 
+        "en": "Municipal Library Pelhrimov"
+    }, 
     "66c9d469eaad46f0a24ba27cff0792121884e9f1": {
         "cs": "Krajsk\u00e1 knihovna Franti\u0161ka Barto\u0161e ve Zl\u00edn\u011b", 
         "en": "The Regional Library of Zl\u00edn"
+    }, 
+    "671062d7471dd40c51345a4c0fd003066b8e50b6": {
+        "cs": "\u00dastav pro jazyk \u010desk\u00fd AV \u010cR, v. v. i.", 
+        "en": "Czech Language Institute of the Czech Academy of Sciences"
     }, 
     "696fbb490edf2d0797308c295dc35dc794140abd": {
         "cs": "Knihovna Petra Bezru\u010de v Opav\u011b", 
@@ -181,7 +221,7 @@
     }, 
     "70e35172ed8e68d7964c62684f467bf68b92680f": {
         "cs": "Moravsk\u00e1 zemsk\u00e1 knihovna", 
-        "en": "The Moravian Library in Brno"
+        "en": "Moravian Library"
     }, 
     "719225fac2a34d2f4b97a9da67272319340ad277": {
         "cs": "Univerzita Palack\u00e9ho v Olomouci", 
@@ -335,6 +375,10 @@
         "cs": "\u00dastav archeologick\u00e9 pam\u00e1tkov\u00e9 p\u00e9\u010de Brno", 
         "en": "Institute of Archaeological Heritage Brno"
     }, 
+    "e43a4499fce213d7177f5c907e1fb1567d695f9b": {
+        "cs": "M\u011bstsk\u00e1 knihovna P\u00edsek", 
+        "en": "Municipal Library Pisek"
+    }, 
     "e5128dddf3eded95da44f96290619907997575fe": {
         "cs": "Univerzita Tom\u00e1\u0161e Bati ve Zl\u00edn\u011b", 
         "en": "Tomas Bata University in Zl\u00edn"
@@ -359,6 +403,10 @@
         "cs": "\u00dastav experiment\u00e1ln\u00ed medic\u00edny AV \u010cR", 
         "en": "Institute of Experimental Medicine CAS"
     }, 
+    "f0582d7a0301300c68c8fac89170bf67ea5d10b8": {
+        "cs": "Knihovna m\u011bsta Hradce Kr\u00e1lov\u00e9", 
+        "en": "Municipal Library of Hradec Kralove"
+    }, 
     "f0a47ecbab9ce1ea5513589355ca4fe996dd5346": {
         "cs": "M\u011bstsk\u00e1 knihovna T\u00e1bor", 
         "en": "The Municipal Library of T\u00e1bor"
@@ -370,5 +418,13 @@
     "f3f303f07ebe95492bddf2d47002ea23f9fcb686": {
         "cs": "\u00dastav jadern\u00e9 fyziky AV \u010cR", 
         "en": "Nuclear Physics Institute of the ASCR"
+    }, 
+    "f5e2da6657156bb9a34354f1edfdddccd57a2b93": {
+        "cs": "M\u011bstsk\u00e1 knihovna a informa\u010dn\u00ed centrum Hradec nad Moravic\u00ed", 
+        "en": "Municipal Library and Information centre of Hradec nad Moravic\u00ed"
+    }, 
+    "fb03b87810a26710bc1dc68b8d6c6ed351ddd2fe": {
+        "cs": "M\u011bstsk\u00e1 knihovna v Milevsku", 
+        "en": "Municipal Library in Milevsko"
     }
 }

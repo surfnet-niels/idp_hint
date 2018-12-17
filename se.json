@@ -20,8 +20,8 @@
         "sv": "Linn\u00e9universitetet"
     }, 
     "25ef03993c91e51df46fe3cfca76ff3f95794258": {
-        "en": "Stockholm School of Theology", 
-        "sv": "Teologiska h\u00f6gskolan Stockholm"
+        "en": "University College Stockholm", 
+        "sv": "Enskilda H\u00f6gskolan Stockholm"
     }, 
     "2b9df1b70d0187d3713c29884ff14039274fc0b9": {
         "en": "Swedish Defence University", 
@@ -79,10 +79,6 @@
         "en": "Mid Sweden University", 
         "sv": "Mittuniversitetet"
     }, 
-    "957ff4e597a0df45b3f2061c0c9ffa99b1be8e04": {
-        "en": "University West", 
-        "sv": "H\u00f6gskolan V\u00e4st"
-    }, 
     "a4fdcec05e1332f67fbd004873f8f7f7ab84ba1e": {
         "en": "Swedish University of Agricultural Science", 
         "sv": "Sveriges Lantbruksuniversitet"
@@ -107,6 +103,10 @@
         "en": "Malm\u00f6 University", 
         "sv": "Malm\u00f6 h\u00f6gskola"
     }, 
+    "af0106685475a3434bc4f580e9d75830e1853b1f": {
+        "en": "University West new", 
+        "sv": "H\u00f6gskolan V\u00e4st ny"
+    }, 
     "b330d17272594bb14f3780073eeb77e832873039": {
         "en": "eduID", 
         "sv": "eduID"
@@ -127,10 +127,6 @@
         "en": "NORDUnet", 
         "sv": "NORDUnet"
     }, 
-    "c7692f211a792bf662ff82c4e79be7290f366cac": {
-        "en": "Stockholm University of the Arts", 
-        "sv": "Stockholms konstn\u00e4rliga h\u00f6gskola"
-    }, 
     "cba2999348463bba47fd6a5d86632a06b4c24c49": {
         "en": "Swedish Red Cross University College", 
         "sv": "R\u00f6da Korsets H\u00f6gskola"
@@ -142,6 +138,10 @@
     "d3f167be21a5aede5077dfdc380620a69aae8be9": {
         "en": "Royal Institute of Art", 
         "sv": "Kungl. Konsth\u00f6gskolan"
+    }, 
+    "d4e02dc5334ec0f8abd6f5a4ba9d1fe3d123033b": {
+        "en": "University West new", 
+        "sv": "H\u00f6gskolan V\u00e4st ny"
     }, 
     "d7ccfccd6e0c36959010c46643b9352c246c2995": {
         "en": "Uppsala University", 

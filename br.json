@@ -63,6 +63,10 @@
         "en": "UNIFRAN - Universidade de Franca", 
         "pt-br": "UNIFRAN - Universidade de Franca"
     }, 
+    "0d8d2d37f408f4c533f1558072e52918ac99defc": {
+        "en": "FACOP - Faculdade Do Centro Oeste Paulista", 
+        "pt-br": "FACOP - Faculdade Do Centro Oeste Paulista"
+    }, 
     "0e1c3496695ab32ae2e847d22399d8b83abfaa05": {
         "en": "UFPB - Universidade Federal da Paraiba", 
         "pt-br": "UFPB - Universidade Federal da Paraiba"
@@ -219,6 +223,14 @@
         "en": "IFNMG - Instituto Federal do Norte de Minas Gerais", 
         "pt-br": "IFNMG - Instituto Federal do Norte de Minas Gerais"
     }, 
+    "37020350ae80ebbec2d6a8c29f3fc3b6c529c4da": {
+        "en": "UENF - Universidade Estadual do Norte Fluminense Darcy Ribeiro", 
+        "pt-br": "UENF - Universidade Estadual do Norte Fluminense Darcy Ribeiro"
+    }, 
+    "38acc62760ab4e958f5a1c2450ad26b966f00dcb": {
+        "en": "IDSM - Instituto de Desenvolvimento Sutentavel Mamiraua", 
+        "pt-br": "IDSM - Instituto de Desenvolvimento Sutentavel Mamiraua"
+    }, 
     "3927d9d4eb455c6ceceaeb947ae870313ac9a804": {
         "en": "UFS - Universidade Federal de Sergipe", 
         "pt-br": "UFS - Universidade Federal de Sergipe"
@@ -234,6 +246,10 @@
     "3f32e33a906545ca18e9c35791ca021d5ab0ae80": {
         "en": "CETENE - Centro de Tecnologias e Estrategicas do NE", 
         "pt-br": "CETENE - Centro de Tecnologias e Estrategicas do NE"
+    }, 
+    "4097a0a5f5f8a9f3fb684120abfcad359acc3da3": {
+        "en": "UNESC - Universidade do Extremo Sul Catarinense", 
+        "pt-br": "UNESC - Universidade do Extremo Sul Catarinense"
     }, 
     "430d976438bd6b8852965e9b8948f56d7d3eacec": {
         "en": "UNIFOR - Universidade de Fortaleza", 
@@ -431,6 +447,10 @@
         "en": "PUCSP - Pontificia Universidade Catolica de Sao Paulo", 
         "pt-br": "PUCSP - Pontificia Universidade Catolica de Sao Paulo"
     }, 
+    "810d27e627aa5a7328cddedfc09b478ab969bfda": {
+        "en": "CEITEC - Centro Nac.Tec.Elet.Avancada", 
+        "pt-br": "CEITEC - Centro Nac.Tec.Elet.Avancada"
+    }, 
     "81143501112321118b1d1fce8e2a4f40e22e0782": {
         "en": "PUC Minas - pontificia Universidade Catolica de Minas Gerais", 
         "pt-br": "PUC Minas - pontificia Universidade Catolica de Minas Gerais"
@@ -587,10 +607,6 @@
         "en": "UDESC - Universidade do Estado de Santa Catarina", 
         "pt-br": "UDESC - Universidade do Estado de Santa Catarina"
     }, 
-    "a9937fe5282ec56b644ec52f82f7b416612a6742": {
-        "en": "CEITEC - CEITEC SA SEMICONDUCTORS", 
-        "pt-br": "CEITEC - CEITEC SA SEMICONDUCTORS"
-    }, 
     "aab2058b61887c3de5b561c47983683b002b4183": {
         "en": "IFRS - Instituto Federal de Educacao Ciencia e Tecnologia do Rio Grande do Sul", 
         "pt-br": "IFRS - Instituto Federal de Educacao Ciencia e Tecnologia do Rio Grande do Sul"
@@ -620,8 +636,8 @@
         "pt-br": "IFPE - Instituto Federal de Pernambuco"
     }, 
     "ae394d742275e7ea5c132110e2e35c5d89cea38d": {
-        "en": "MCTIC - Ministerio da Ciencia Tecnologia e Inovacao", 
-        "pt-br": "MCTIC - Ministerio da Ciencia Tecnologia e Inovacao"
+        "en": "MCTIC - Ministerio da Ciencia Tecnologia Inovacao e Comunicacao", 
+        "pt-br": "MCTIC - Ministerio da Ciencia Tecnologia Inovacao e Comunicacao"
     }, 
     "ae7a5059384eeea0084d0c9bcc45b5ea71f5c203": {
         "en": "ESG - Escola Superior de Guerra", 
@@ -682,6 +698,10 @@
     "be96f45672d04cbc0326fadff748419100f3eedc": {
         "en": "ESPM - Escola Superior de Propaganda e Marketing", 
         "pt-br": "ESPM - Escola Superior de Propaganda e Marketing"
+    }, 
+    "bfd34d6762396001b42fecf4f468f83f86d1946c": {
+        "en": "FAPEG - Fundacao de Amparo a Pesquisa do Estado de Goias", 
+        "pt-br": "FAPEG - Fundacao de Amparo a Pesquisa do Estado de Goias"
     }, 
     "c0b57060863d28b0dcee818282abca0379fc4116": {
         "en": "IDP - Instituto Brasiliense de Direito Publico", 
@@ -750,6 +770,10 @@
     "d1597b50469d04b89026229f3df9aa1fecbb5d1f": {
         "en": "RNP - Rede Nacional de Ensino e Pesquisa", 
         "pt-br": "RNP - Rede Nacional de Ensino e Pesquisa"
+    }, 
+    "d1fbb30b755cdf522d6dd4030caedd42fd52a701": {
+        "en": "UnP - Universidade Potiguar", 
+        "pt-br": "UnP - Universidade Potiguar"
     }, 
     "d24c97d27e24cec09a8435223a1f340e65c62738": {
         "en": "UNIVAP - Universidade do Vale do Paraiba", 

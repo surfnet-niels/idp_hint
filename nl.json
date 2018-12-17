@@ -28,8 +28,8 @@
         "nl": "Drenthe College"
     }, 
     "0df4953bf887d99b61cb89fa59001cad617d91d7": {
-        "en": "Wageningen University & Research (WUR)", 
-        "nl": "Wageningen University & Research (WUR)"
+        "en": "Wageningen University & Research (WUR) (old)", 
+        "nl": "Wageningen University & Research (WUR) (Oud)"
     }, 
     "15a32e670790990251313c86755263019a747a12": {
         "en": "Nikhef", 
@@ -51,6 +51,9 @@
         "en": "TNO Innovation for life", 
         "nl": "TNO Innovation for life"
     }, 
+    "1e64320c27a6f96535a8deafdee50d9253b83850": {
+        "en": "http://idp.inholland.nl/adfs/services/trust"
+    }, 
     "1e6a1227398b72b7d615b067ed2fc7c522e1ab1e": {
         "en": "Leiden University", 
         "nl": "Universiteit Leiden"
@@ -68,8 +71,8 @@
         "nl": "Clusius College"
     }, 
     "22d41e67791e705dcda9b3513261feee260a4fdb": {
-        "en": "Zeeuwse Bibliotheek", 
-        "nl": "Zeeuwse Bibliotheek"
+        "en": "Zeeuwse Bibliotheek (old)", 
+        "nl": "Zeeuwse Bibliotheek (oud)"
     }, 
     "24ecd25a9db6ae233d7b546cb2daf79d4de6b19a": {
         "en": "FOM-bureau", 
@@ -200,8 +203,12 @@
         "nl": "Stichting Wetenschappelijk Onderzoek Verkeersveiligheid SWOV"
     }, 
     "600f3309e2d4808eda8cb9bd7cef7528005b2b27": {
-        "en": "Codarts", 
-        "nl": "Codarts"
+        "en": "Codarts University of the Arts", 
+        "nl": "Codarts Hogeschool voor de Kunsten"
+    }, 
+    "675a40cd00705ae5f249f9b192fa644b0f36d34c": {
+        "en": "VU medisch centrum", 
+        "nl": "VU medisch centrum"
     }, 
     "694121c5c3fbf1f36dad869acd457557e2e88b29": {
         "en": "Utrecht University", 
@@ -250,6 +257,10 @@
     "852a417caadd2225496b583962c432ec8b84212e": {
         "en": "SURFnet bv", 
         "nl": "SURFnet bv"
+    }, 
+    "85432a8ea72ea549693bc5d15f6e7887c3bf045b": {
+        "en": "Academisch Medisch Centrum", 
+        "nl": "Academisch Medisch Centrum"
     }, 
     "904950aef0dec600a608b8835927e52ff644647c": {
         "en": "The Hague University of Applied Science (THUAS)", 
@@ -301,7 +312,7 @@
     }, 
     "a5983b45c5bcaa2036e30fd79f90f2c1347c854f": {
         "en": "Saxion University of Applied Sciences", 
-        "nl": "Saxion Hogeschool"
+        "nl": "Hogeschool Saxion"
     }, 
     "a6bc247fe0518b561680c44aba618fb39761024e": {
         "en": "Avans University of Applied Sciences", 
@@ -327,6 +338,10 @@
         "en": "Spinoza Centre for Neuroimaging (KNAW)", 
         "nl": "Spinoza Centrum voor Neuroimaging (KNAW)"
     }, 
+    "b1a946f0fdd831881934bd65fc72474406ac7ee0": {
+        "en": "Zeeuwse Bibliotheek", 
+        "nl": "Zeeuwse Bibliotheek"
+    }, 
     "b23dd28d4b2af38bf258169c4eaf9eb4f6fb034f": {
         "en": "Openbare Bibliotheek Amsterdam (OBA)", 
         "nl": "Openbare Bibliotheek Amsterdam (OBA)"
@@ -334,6 +349,10 @@
     "b27876ceb1d42151421d528c5d4f0d740e4017ae": {
         "en": "Royal Netherlands Institute of Southeast Asian and Caribbean Studies (KNAW)", 
         "nl": "Royal Netherlands Institute of Southeast Asian and Caribbean Studies (KNAW)"
+    }, 
+    "b486f04a6c5505d708dd1729501b6d54bff0a3bd": {
+        "en": "Wageningen University & Research (WUR)", 
+        "nl": "Wageningen University & Research (WUR)"
     }, 
     "b4c4aeda51a50d89f442a1dddd8467467b4d15c5": {
         "en": "Koninklijke Bibliotheek", 
