@@ -36,8 +36,8 @@
         "nl": "Nikhef"
     }, 
     "18c2cd0d48c264b3524e2fd474857ef4fb1d0d79": {
-        "en": "Christian University of Applied Sciences (CHE)", 
-        "nl": "Christelijke Hogeschool Ede (CHE)"
+        "en": "Christian University of Applied Sciences (CHE) [old]", 
+        "nl": "Christelijke Hogeschool Ede (CHE) [oud]"
     }, 
     "1ab7b512cc4442fb6fe19a158b7de7d3799ab488": {
         "en": "EGI Foundation", 
@@ -52,7 +52,8 @@
         "nl": "TNO Innovation for life"
     }, 
     "1e64320c27a6f96535a8deafdee50d9253b83850": {
-        "en": "http://idp.inholland.nl/adfs/services/trust"
+        "en": "Hogeschool INHOLLAND (new)", 
+        "nl": "Hogeschool INHOLLAND (nieuw)"
     }, 
     "1e6a1227398b72b7d615b067ed2fc7c522e1ab1e": {
         "en": "Leiden University", 
@@ -190,6 +191,10 @@
         "en": "Inholland University of Applied Sciences", 
         "nl": "Hogeschool Inholland"
     }, 
+    "58f086da4d7c090533854c4b554c4e5f2a01e6ef": {
+        "en": "MBO Utrecht", 
+        "nl": "MBO Utrecht"
+    }, 
     "590e7a971535212047e0e818eff623cbb90487e4": {
         "en": "Deltion College", 
         "nl": "Deltion College"
@@ -273,6 +278,10 @@
     "965787526564644b0d52e650ff2efc461315691a": {
         "en": "Fryske Akademy (KNAW)", 
         "nl": "Fryske Akademy (KNAW)"
+    }, 
+    "9677108e1d1dbaafa73c87c529348506442ace77": {
+        "en": "Zone.College", 
+        "nl": "Zone.College"
     }, 
     "96cd05c24eb0712851a0fe8a01913506d733c937": {
         "en": "Academisch Ziekenhuis Maastricht", 
@@ -437,6 +446,10 @@
     "d443b095563aa2b1c5bcf1730422b3c247f3f9f0": {
         "en": "Internationaal Instituut voor Sociale Geschiedenis (KNAW)", 
         "nl": "Internationaal Instituut voor Sociale Geschiedenis (KNAW)"
+    }, 
+    "d62f3d33bc82f9bcda011cb960d2269609d02ea3": {
+        "en": "Christian University of Applied Sciences (CHE)", 
+        "nl": "Christelijke Hogeschool Ede (CHE)"
     }, 
     "d7c4dd907bd353494817d7c5da6c802a4be5a2a0": {
         "en": "Leids Universitair Medisch Centrum", 

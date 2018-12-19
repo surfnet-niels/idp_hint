@@ -4138,10 +4138,6 @@
             "en": "Universit\u00e9 de Lorraine", 
             "fr": "Universit\u00e9 de Lorraine"
         }, 
-        "b506abdcfbe97884d4d3def2a310ba860dc1a2b5": {
-            "en": "Universit\u00e9 Paris - Est", 
-            "fr": "Universit\u00e9 Paris - Est"
-        }, 
         "b5ad7cf52712dbac1e4e8255a92aca01c1045ff4": {
             "en": "Universit\u00e9 de Lille - Sciences et Technologies", 
             "fr": "Universit\u00e9 de Lille - Sciences et Technologies"
@@ -5370,8 +5366,8 @@
             "ja": "\u829d\u6d66\u5de5\u696d\u5927\u5b66"
         }, 
         "8efb45794264eb67e723a593f5b0d608f9c1008c": {
-            "en": "Kanazawa University(New)", 
-            "ja": "\u91d1\u6ca2\u5927\u5b66\uff08\u65b0\uff09"
+            "en": "Kanazawa University", 
+            "ja": "\u91d1\u6ca2\u5927\u5b66"
         }, 
         "9fa3faace0ecb65eee49afad29fa63c9eec306aa": {
             "en": "Kyoto Institute of Technology", 
@@ -5504,6 +5500,9 @@
         "e31f1aa675a784c40a6f4fab02ea9b5853883e08": {
             "en": "RESTENA Users", 
             "fr": "RESTENA Utilisateurs"
+        }, 
+        "ff57646bf746581a4be30b0b31e4af4f8e61ceb6": {
+            "en": "University of Luxembourg - Devel"
         }
     }, 
     "lv": {
@@ -5649,8 +5648,8 @@
             "nl": "Nikhef"
         }, 
         "18c2cd0d48c264b3524e2fd474857ef4fb1d0d79": {
-            "en": "Christian University of Applied Sciences (CHE)", 
-            "nl": "Christelijke Hogeschool Ede (CHE)"
+            "en": "Christian University of Applied Sciences (CHE) [old]", 
+            "nl": "Christelijke Hogeschool Ede (CHE) [oud]"
         }, 
         "1ab7b512cc4442fb6fe19a158b7de7d3799ab488": {
             "en": "EGI Foundation", 
@@ -5665,7 +5664,8 @@
             "nl": "TNO Innovation for life"
         }, 
         "1e64320c27a6f96535a8deafdee50d9253b83850": {
-            "en": "http://idp.inholland.nl/adfs/services/trust"
+            "en": "Hogeschool INHOLLAND (new)", 
+            "nl": "Hogeschool INHOLLAND (nieuw)"
         }, 
         "1e6a1227398b72b7d615b067ed2fc7c522e1ab1e": {
             "en": "Leiden University", 
@@ -5803,6 +5803,10 @@
             "en": "Inholland University of Applied Sciences", 
             "nl": "Hogeschool Inholland"
         }, 
+        "58f086da4d7c090533854c4b554c4e5f2a01e6ef": {
+            "en": "MBO Utrecht", 
+            "nl": "MBO Utrecht"
+        }, 
         "590e7a971535212047e0e818eff623cbb90487e4": {
             "en": "Deltion College", 
             "nl": "Deltion College"
@@ -5886,6 +5890,10 @@
         "965787526564644b0d52e650ff2efc461315691a": {
             "en": "Fryske Akademy (KNAW)", 
             "nl": "Fryske Akademy (KNAW)"
+        }, 
+        "9677108e1d1dbaafa73c87c529348506442ace77": {
+            "en": "Zone.College", 
+            "nl": "Zone.College"
         }, 
         "96cd05c24eb0712851a0fe8a01913506d733c937": {
             "en": "Academisch Ziekenhuis Maastricht", 
@@ -6050,6 +6058,10 @@
         "d443b095563aa2b1c5bcf1730422b3c247f3f9f0": {
             "en": "Internationaal Instituut voor Sociale Geschiedenis (KNAW)", 
             "nl": "Internationaal Instituut voor Sociale Geschiedenis (KNAW)"
+        }, 
+        "d62f3d33bc82f9bcda011cb960d2269609d02ea3": {
+            "en": "Christian University of Applied Sciences (CHE)", 
+            "nl": "Christelijke Hogeschool Ede (CHE)"
         }, 
         "d7c4dd907bd353494817d7c5da6c802a4be5a2a0": {
             "en": "Leids Universitair Medisch Centrum", 
@@ -6256,6 +6268,10 @@
         "1c18570edf49b40d6e0f5f2ac6289bcd32472a83": {
             "en": "Laborat\u00f3rio de Instrumenta\u00e7\u00e3o e F\u00edsica Experimental de Part\u00edculas", 
             "pt": "Laborat\u00f3rio de Instrumenta\u00e7\u00e3o e F\u00edsica Experimental de Part\u00edculas"
+        }, 
+        "1e96e4571aeaadafcf13bdcbb264408ede12a16a": {
+            "en": "Instituto Polit\u00e9cnico de Lisboa", 
+            "pt": "Instituto Polit\u00e9cnico de Lisboa"
         }, 
         "3186a28ff6f20fcb21dd2439064985694eea2133": {
             "en": "Escola Superior Agr\u00e1ria de Viseu", 
@@ -6622,10 +6638,6 @@
         "a74edeaf38afc774789ef62b189b01047c80cb29": {
             "en": "University of Nova Gorica", 
             "sl": "Univerza v Novi Gorici"
-        }, 
-        "c8958e088ba697aad85d669b770aa70db4c5d2e8": {
-            "en": "Gymnasium Piran", 
-            "sl": "Gimnazija, elektro in pomorska \u0161ola Piran"
         }, 
         "d15d36318d95e8fd2740c94950cc108e35cc2d4c": {
             "en": "University of Ljubljana, Faculty of Medicine", 
@@ -7376,6 +7388,9 @@
         "53e99c25fba9e1230ae70559755b6826c4cc4897": {
             "en": "Shipley College (Shibboleth)"
         }, 
+        "5485da2f0e9104abd834dae9b647839b9d4e33b0": {
+            "en": "Sandwell College"
+        }, 
         "548dbffee311c2c6549091b8512f4c03cf8ce1d0": {
             "en": "Trinity Laban Conservatoire of Music and Dance"
         }, 
@@ -7998,9 +8013,6 @@
         }, 
         "987a2987065d252021ff34d66fd1f44fdb48c8a7": {
             "en": "London Library"
-        }, 
-        "98bdaf6878c2ff072bd36c93105eca781c52fd77": {
-            "en": "Sandwell College"
         }, 
         "98f8934e7a7e41936b00ae0a86dc6b0b41fb2e37": {
             "en": "Solihull Libraries"
