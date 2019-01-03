@@ -51,6 +51,10 @@
         "en": "TNO Innovation for life", 
         "nl": "TNO Innovation for life"
     }, 
+    "1e5e486bff306e5beca174831cef9c5f088d9a83": {
+        "en": "Open Juridische hogeschool, Netwerk Open Hogeschool Informatica, SchakelZone OJH NOHI", 
+        "nl": "Open Juridische hogeschool, Netwerk Open Hogeschool Informatica, SchakelZone OJH NOHI"
+    }, 
     "1e64320c27a6f96535a8deafdee50d9253b83850": {
         "en": "Hogeschool INHOLLAND (new)", 
         "nl": "Hogeschool INHOLLAND (nieuw)"
@@ -70,10 +74,6 @@
     "1fe27e861886263bf04c2a4b01d2a0fca1c6864a": {
         "en": "Clusius College", 
         "nl": "Clusius College"
-    }, 
-    "22d41e67791e705dcda9b3513261feee260a4fdb": {
-        "en": "Zeeuwse Bibliotheek (old)", 
-        "nl": "Zeeuwse Bibliotheek (oud)"
     }, 
     "24ecd25a9db6ae233d7b546cb2daf79d4de6b19a": {
         "en": "FOM-bureau", 
@@ -264,8 +264,12 @@
         "nl": "SURFnet bv"
     }, 
     "85432a8ea72ea549693bc5d15f6e7887c3bf045b": {
-        "en": "Academisch Medisch Centrum", 
-        "nl": "Academisch Medisch Centrum"
+        "en": "Academisch Medisch Centrum (AMC)", 
+        "nl": "Academisch Medisch Centrum (AMC)"
+    }, 
+    "8fb7259d44b2b5a34ab222c87aa3eeb85e34c9be": {
+        "en": "Royal Tropical Institute", 
+        "nl": "Koninklijk Instituut voor de Tropen"
     }, 
     "904950aef0dec600a608b8835927e52ff644647c": {
         "en": "The Hague University of Applied Science (THUAS)", 
