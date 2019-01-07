@@ -96,8 +96,8 @@
         "fr": "IRD - Institut de Recherche pour le D\u00e9veloppement"
     }, 
     "116651a5a70f4feb030b070c48adb4803100d9e1": {
-        "en": "Institut Mines Telecom Business School & Telecom SudParis", 
-        "fr": "Institut Mines Telecom Business School & Telecom SudParis"
+        "en": "Institut Mines Telecom Business School & Telecom SudParis (new debug)", 
+        "fr": "Institut Mines Telecom Business School & Telecom SudParis (new debug)"
     }, 
     "116fc5daa9edc0c10dcec15727524608aa88d863": {
         "en": "Synchrotron SOLEIL", 
@@ -708,8 +708,8 @@
         "fr": "Universit\u00e9 de Franche-Comt\u00e9"
     }, 
     "9c7fe87fecdef22e9c0db8d638037775696c6c88": {
-        "en": "oldr3 Institut Mines Telecom Business School & Telecom SudParis oldr3", 
-        "fr": "Institut Mines Telecom Business School & Telecom SudParis oldr3"
+        "en": "oldr3 Institut Mines Telecom Business School & Telecom SudParis", 
+        "fr": "Institut Mines Telecom Business School & Telecom SudParis"
     }, 
     "9d85e3fba7c9c43d6839d7973228e18348a44ab6": {
         "en": "Bordeaux Montaigne University", 
@@ -1010,10 +1010,6 @@
     "e8a95971c1fae44997768fec82ce1530847629c9": {
         "en": "Universit\u00e9 de Nimes", 
         "fr": "Universit\u00e9 de Nimes"
-    }, 
-    "e8cefb91a09b364d989de8181bebddf6706ae6a8": {
-        "en": "CEA - Test Silab IDPOC", 
-        "fr": "CEA - Test Silab IDPOC"
     }, 
     "eaa182778cb18432e82014177f23ab3f8396363e": {
         "en": "Universit\u00e9 de Lyon - UDL", 

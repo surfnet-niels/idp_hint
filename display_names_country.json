@@ -723,6 +723,10 @@
             "en": "HCPA - Hospital de Clinicas de Porto Alegre", 
             "pt-br": "HCPA - Hospital de Clinicas de Porto Alegre"
         }, 
+        "8283099aa274c0786c73df2711a90ae5a29f51ef": {
+            "en": "UNICSUL - Universidade Cruzeiro do Sul", 
+            "pt-br": "UNICSUL - Universidade Cruzeiro do Sul"
+        }, 
         "8285e699eadc3473b003c81ac2e3f6d726d90893": {
             "en": "CAPES - Coordenacao de Aperfeicoamento de Pessoal de Nivel Superior", 
             "pt-br": "CAPES - Coordenacao de Aperfeicoamento de Pessoal de Nivel Superior"
@@ -1997,6 +2001,10 @@
             "cs": "Masaryk\u016fv \u00fastav a archiv AV \u010cR", 
             "en": "Masaryk Institute and Archives of the CAS"
         }, 
+        "c4d574d750ffe4ba2d572ebdf4ae553b5c8945ca": {
+            "cs": "M\u011bstsk\u00e1 knihovna Hodon\u00edn", 
+            "en": "Municipal Library in Hodonin"
+        }, 
         "d0b6de02ac7a5b166038a7f654510b13d8552910": {
             "cs": "\u00dastav fyzik\u00e1ln\u00ed chemie J. Heyrovsk\u00e9ho AV \u010cR, v.v.i.", 
             "en": "J. Heyrovsk\u00fd Institute of Physical Chemistry of the CAS, v.v.i"
@@ -2102,6 +2110,10 @@
         "055fdcaf5901c68fea338cc0b49dac3e79b64fb3": {
             "de": "Hochschule Ruhr West", 
             "en": "Hochschule Ruhr West"
+        }, 
+        "07978ae6982534e8deca8b362e38c061b0dd01c7": {
+            "de": "Wests\u00e4chsische Hochschule Zwickau", 
+            "en": "Wests\u00e4chsische Hochschule Zwickau"
         }, 
         "07f14224cdb46291aeb2157df1b0b5d0b30086ae": {
             "de": "TU Bergakademie Freiberg", 
@@ -3329,7 +3341,7 @@
         }, 
         "b84f837071807cffbb858548c761f5a936963d18": {
             "en": "University of Lapland", 
-            "fi": "Lapin yliopisto"
+            "sv": "Lapplands universitet"
         }, 
         "c2690ff4998ca4320f0f5e725420769a88aa15fd": {
             "en": "National Institute for Health and Welfare", 
@@ -3451,8 +3463,8 @@
             "fr": "IRD - Institut de Recherche pour le D\u00e9veloppement"
         }, 
         "116651a5a70f4feb030b070c48adb4803100d9e1": {
-            "en": "Institut Mines Telecom Business School & Telecom SudParis", 
-            "fr": "Institut Mines Telecom Business School & Telecom SudParis"
+            "en": "Institut Mines Telecom Business School & Telecom SudParis (new debug)", 
+            "fr": "Institut Mines Telecom Business School & Telecom SudParis (new debug)"
         }, 
         "116fc5daa9edc0c10dcec15727524608aa88d863": {
             "en": "Synchrotron SOLEIL", 
@@ -4063,8 +4075,8 @@
             "fr": "Universit\u00e9 de Franche-Comt\u00e9"
         }, 
         "9c7fe87fecdef22e9c0db8d638037775696c6c88": {
-            "en": "oldr3 Institut Mines Telecom Business School & Telecom SudParis oldr3", 
-            "fr": "Institut Mines Telecom Business School & Telecom SudParis oldr3"
+            "en": "oldr3 Institut Mines Telecom Business School & Telecom SudParis", 
+            "fr": "Institut Mines Telecom Business School & Telecom SudParis"
         }, 
         "9d85e3fba7c9c43d6839d7973228e18348a44ab6": {
             "en": "Bordeaux Montaigne University", 
@@ -4365,10 +4377,6 @@
         "e8a95971c1fae44997768fec82ce1530847629c9": {
             "en": "Universit\u00e9 de Nimes", 
             "fr": "Universit\u00e9 de Nimes"
-        }, 
-        "e8cefb91a09b364d989de8181bebddf6706ae6a8": {
-            "en": "CEA - Test Silab IDPOC", 
-            "fr": "CEA - Test Silab IDPOC"
         }, 
         "eaa182778cb18432e82014177f23ab3f8396363e": {
             "en": "Universit\u00e9 de Lyon - UDL", 
@@ -6185,7 +6193,7 @@
     }, 
     "om": {
         "082e2986de899a0577b9b015468026b7d5008240": {
-            "en": "OMREN"
+            "en": "Oman Research and Education Network (OMREN)"
         }, 
         "35606163087d3bc6d25bb6141b7f710246825bdd": {
             "en": "University of Nizwa"
@@ -6228,6 +6236,9 @@
         }, 
         "c6b752ddc7c5fe0b49dfd75f335ccc4a33fd4604": {
             "en": "A\u2019Sharqiyah University"
+        }, 
+        "c86ffb1de8b899d5efeccc445fee7b04f30e5ff8": {
+            "en": "Sur University College"
         }, 
         "c95ac85545e45041791b926a77430c22f445c294": {
             "en": "Middle East College"
