@@ -2208,6 +2208,10 @@
             "de": "DHBW Karlsruhe", 
             "en": "DHBW Karlsruhe"
         }, 
+        "27645271ebcd0cb5b8f0b919da638cc3adf6759a": {
+            "de": "Universit\u00e4tsmedizin der JoGu Mainz (Test)", 
+            "en": "University Medical Center of the Johannes Gutenberg University Mainz (V3)"
+        }, 
         "2b04ed51309abe620d6dd12824b44c4b4d5a3e26": {
             "de": "Hochschule Biberach", 
             "en": "Hochschule Biberach"
@@ -2567,10 +2571,6 @@
         "d39a62f97db1fe3a6eb62440a65936be653a25a5": {
             "de": "Universit\u00e4t des Saarlandes", 
             "en": "Saarland University"
-        }, 
-        "d4d86ee028ae4ff3f98ffd7e700a20709c026b12": {
-            "de": "Hochschule D\u00fcsseldorf", 
-            "en": "Hochschule D\u00fcsseldorf"
         }, 
         "d88fe7722d496e6ce00645e8b2a7ff56c8b5e33f": {
             "de": "Hochschule f\u00fcr Musik Freiburg", 
