@@ -1,8 +1,4 @@
 {
-    "00be6c36063ea4aeb82a60a4c0f31cd3d472e67a": {
-        "en": "ENSICAEN", 
-        "fr": "ENSICAEN"
-    }, 
     "00d535ed38877e778338a33de7b4a8ae8e7c2f38": {
         "en": "Universit\u00e9 de Montpellier 3", 
         "fr": "Universit\u00e9 de Montpellier 3"
@@ -14,10 +10,6 @@
     "03ebc1c58f860a7643e375984cef49260fda2738": {
         "en": "Agropolis International", 
         "fr": "Agropolis International"
-    }, 
-    "04688cbc8df4f8750b97dded344d32185917a56a": {
-        "en": "Rectorat Limoges shib", 
-        "fr": "Rectorat Limoges shib"
     }, 
     "053ce25d6102eb8beaf5260684bff52470c7143b": {
         "en": "IRSTEA - National Research Institute of Science and Technology for Environment and Agriculture", 
@@ -183,10 +175,6 @@
         "en": "CNRS", 
         "fr": "CNRS"
     }, 
-    "26ebb47fbfc5495bb5ba9213012625f8cec252d3": {
-        "en": "Rectorat Limoges Test shib3", 
-        "fr": "Rectorat Academie de  Limoges"
-    }, 
     "288f53f74f5847031022cc0f6817741aa7b1ebfa": {
         "en": "ENIT Ecole Nationale Ing\u00e9nieurs Tarbes", 
         "fr": "ENIT Ecole Nationale Ing\u00e9nieurs Tarbes"
@@ -282,10 +270,6 @@
     "48c6bee23c8a923f3dba14171304b03135297614": {
         "en": "Universit\u00e9 de Paris 6 - Pierre et Marie Curie", 
         "fr": "Universit\u00e9 de Paris 6 - Pierre et Marie Curie"
-    }, 
-    "4b18c24f6df44c47598ada8f70320b84081e22dc": {
-        "en": "Sorbonne University - Test", 
-        "fr": "Sorbonne Universit\u00e9 - Test"
     }, 
     "4b5c07c298fd46fdd9b7f6e6e8a4d845648fb175": {
         "en": "CROUS Normandie - Employees v3", 
@@ -391,10 +375,6 @@
         "en": "CAMPUS CONDORCET", 
         "fr": "CAMPUS CONDORCET"
     }, 
-    "644e3233501c925bfd64925345b6dc5f47877c23": {
-        "en": "CROUS Strasbourg", 
-        "fr": "CROUS Strasbourg"
-    }, 
     "66418d75725317f8a298311e55a28dc1c982084e": {
         "en": "University Grenoble Alpes - UGA", 
         "fr": "Universit\u00e9 Grenoble Alpes - UGA"
@@ -422,10 +402,6 @@
     "6d4ada5f4057add807d16de6eaf1a9ef291be572": {
         "en": "Universit\u00e9 de Cergy Pontoise", 
         "fr": "Universit\u00e9 de Cergy Pontoise"
-    }, 
-    "6d6e5b96ec7f2a0c1fa3169a69398f6ef579aed4": {
-        "en": "UJM - TEST", 
-        "fr": "UJM - TEST"
     }, 
     "6d91b71c71c6f17846bcc07ccec68cfa4594c08d": {
         "en": "AMUE - Agence de Mutualisation des Universit\u00e9s et Etablissements", 
@@ -784,8 +760,8 @@
         "fr": "Universit\u00e9 de Lorraine"
     }, 
     "b5ad7cf52712dbac1e4e8255a92aca01c1045ff4": {
-        "en": "Universit\u00e9 de Lille - Sciences et Technologies", 
-        "fr": "Universit\u00e9 de Lille - Sciences et Technologies"
+        "en": "Universit\u00e9 Lille 1 - Sciences et Technologies", 
+        "fr": "Universit\u00e9 Lille 1 - Sciences et Technologies"
     }, 
     "b6a627a3a1dc53bc4663d414ce3a984bb825beaa": {
         "en": "Ecole des Mines de Saint-Etienne", 
