@@ -1217,9 +1217,6 @@
         }
     }, 
     "ca": {
-        "07d7692ab706d4d06eade803c4437bc0ef33c66b": {
-            "en": "deprecated IdPv2 University of Toronto"
-        }, 
         "0e08c7c5d1dfb781c8ab40d00784c0414ed9f294": {
             "en": "University of Prince Edward Island"
         }, 
@@ -2150,10 +2147,6 @@
             "de": "Universit\u00e4t Koblenz-Landau", 
             "en": "University Koblenz-Landau"
         }, 
-        "11b87973279ca92164671a8c0534a181c3a6427d": {
-            "de": "MPI fuer Biochemie", 
-            "en": "MPI of Biochemistry"
-        }, 
         "136f6bb7bedeb0faae2f63d83437ad5fdcc192e0": {
             "de": "Hochschule Karlsruhe - Technik und Wirtschaft", 
             "en": "University of Applied Sciences Karlsruhe"
@@ -2549,6 +2542,10 @@
         "c845a8b9cd22fabd113c65a5d5fb49482cbd7f3a": {
             "de": "Universit\u00e4t zu K\u00f6ln", 
             "en": "Universit\u00e4t zu K\u00f6ln"
+        }, 
+        "c994e1f38ebc23e6f9e1092f801dcb1c6e32c52a": {
+            "de": "MPI fuer Biochemie", 
+            "en": "MPI of Biochemistry"
         }, 
         "cb9fc470544700fa387eb29786f17fe246d3e947": {
             "de": "Medizinische Hochschule Hannover", 
@@ -3457,10 +3454,6 @@
             "en": "IRD - French National Research Institute for Sustainable Development", 
             "fr": "IRD - Institut de Recherche pour le D\u00e9veloppement"
         }, 
-        "116651a5a70f4feb030b070c48adb4803100d9e1": {
-            "en": "Institut Mines Telecom Business School & Telecom SudParis (new debug)", 
-            "fr": "Institut Mines Telecom Business School & Telecom SudParis (new debug)"
-        }, 
         "116fc5daa9edc0c10dcec15727524608aa88d863": {
             "en": "Synchrotron SOLEIL", 
             "fr": "Synchrotron SOLEIL"
@@ -4120,10 +4113,6 @@
         "b2e43735b5581c9606336d12cee777cd4325cfea": {
             "en": "CROUS Reunion", 
             "fr": "CROUS Reunion"
-        }, 
-        "b4078e1eed3c4de339540fdba65cffe801c7eb2d": {
-            "en": "ENIM", 
-            "fr": "ENIM"
         }, 
         "b422880019cf2ea67b5b84cd2a80f71429714e8c": {
             "en": "Sciences Po Lille", 
@@ -6343,6 +6332,10 @@
         "cb4c01314e714293f640c9df7b00c49f1d8c97b1": {
             "en": "Universidade Aberta", 
             "pt": "Universidade Aberta"
+        }, 
+        "ce685fead2f8ced4610d0e0160a1b066608f7e76": {
+            "en": "University of Aveiro", 
+            "pt": "Universidade de Aveiro"
         }, 
         "cf6ad9b8483a8fca9d674c322f7cb9b4ebef4931": {
             "en": "ULisboa - Instituto Superior T\u00e9cnico", 
