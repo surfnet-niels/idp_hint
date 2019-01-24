@@ -3304,7 +3304,8 @@
             "fi": "Taideyliopisto"
         }, 
         "3d683fa556a285150fd9b0c6b22afb352ce51513": {
-            "en": "University of Helsinki", 
+            "en": "https://login.helsinki.fi/shibboleth", 
+            "fi": "Helsingin yliopisto", 
             "sv": "Helsingfors universitet"
         }, 
         "4671dbc5c5c0b28551925eded3155a21ea9ca928": {
@@ -4835,6 +4836,9 @@
         }
     }, 
     "in": {
+        "024579af3991627b14be603cb0c9ef0ce6ade26a": {
+            "en": "National Institute of Technology, Hamirpur"
+        }, 
         "0f987bef17e243e2b58a8b1bb3099aa7f06e8ffe": {
             "en": "Vidyasagar University"
         }, 
@@ -5563,6 +5567,16 @@
             "en": "CNRST's IDP"
         }
     }, 
+    "md": {
+        "719798f000c7b16dfc90cb2e9345bbb4c0531ade": {
+            "en": "Academy of Economic Studies of Moldova", 
+            "ro": "Academia de Studii Economice a Moldovei"
+        }, 
+        "d6089bd572861e945148bba4d4b6f1c1bcb43329": {
+            "en": "GIDP-RENAM", 
+            "ro": "GIDP-RENAM"
+        }
+    }, 
     "mk": {
         "ee31f7cb86d7f992dc46db9c3b6ba020eb6a2159": {
             "en": "Ss. Cyril and Methodius University in Skopje"
@@ -5710,6 +5724,10 @@
         "30abd48f32e382e36ae6d4781d3462a8839fbfd4": {
             "en": "Radboud University", 
             "nl": "Radboud Universiteit"
+        }, 
+        "324762450e8ae3034664c727acb8ecba7ccc76d3": {
+            "en": "University of Humanistic Studies", 
+            "nl": "Universiteit voor Humanistiek"
         }, 
         "3336e754881c2350e257c7d6bafd13918b96c56a": {
             "en": "ZonMw", 
@@ -5970,6 +5988,9 @@
         "b1a946f0fdd831881934bd65fc72474406ac7ee0": {
             "en": "Zeeuwse Bibliotheek", 
             "nl": "Zeeuwse Bibliotheek"
+        }, 
+        "b1d5f96052d60524ae0b2f89b1692bc3dbe228b1": {
+            "en": "https://login.loi.nl/saml2/idp/metadata.php"
         }, 
         "b23dd28d4b2af38bf258169c4eaf9eb4f6fb034f": {
             "en": "Openbare Bibliotheek Amsterdam (OBA)", 
@@ -9498,9 +9519,6 @@
         }, 
         "69297543fb024e54994076720a4159794a1dafee": {
             "en": "Baylor College of Medicine"
-        }, 
-        "692b26e589ace30e6d35a79dcf52c223fd991b3d": {
-            "en": "American University of Sharjah (old)"
         }, 
         "694a8aa12c0cbb1d6d9caeb3c7e55f84ed449229": {
             "en": "Elon University"
