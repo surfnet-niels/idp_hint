@@ -3345,6 +3345,10 @@
             "en": "Tampere Universities", 
             "sv": "Tampere Universities"
         }, 
+        "b29ef7e6916c2736075f0a40212e17f2ff36c478": {
+            "en": "Jyv\u00e4skyl\u00e4 University of Applied Sciences", 
+            "fi": "Jyv\u00e4skyl\u00e4n ammattikorkeakoulu"
+        }, 
         "b84f837071807cffbb858548c761f5a936963d18": {
             "en": "University of Lapland", 
             "sv": "Lapplands universitet"
@@ -3352,6 +3356,10 @@
         "c2690ff4998ca4320f0f5e725420769a88aa15fd": {
             "en": "National Institute for Health and Welfare", 
             "fi": "Terveyden ja hyvinvoinnin laitos"
+        }, 
+        "c6b42afe569df474e5c77282025ad7f35ad0545e": {
+            "en": "Satakunta University of Applied Sciences", 
+            "sv": "Satakunnan ammattikorkeakoulu"
         }, 
         "d8f0491fcae6c4b096e46547bedf9f25635e8521": {
             "en": "https://idp.aalto.fi/idp/shibboleth", 
@@ -4657,6 +4665,10 @@
         "8529ce7362e38a99ba71685ea6153716663cb3a3": {
             "en": "Hungarian Academy Database (AAT)", 
             "hu": "MTA Akad\u00e9miai Adatt\u00e1r (AAT)"
+        }, 
+        "9bfdd23f2aca26ecd346e3728664989ce3e5b6b9": {
+            "en": "MTA, Institutes of Hungarian Academy of Sciences", 
+            "hu": "MTA, Magyar Tudom\u00e1nyos Akad\u00e9miai Int\u00e9zetei"
         }, 
         "a956686b8aa8558cfb8e129897765cb3771ebc7e": {
             "en": "Semmelweis University Central Authentication", 
