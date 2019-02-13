@@ -254,6 +254,10 @@
         "e7b9826ed0722ea3339071c1451b14874e35fde0": {
             "en": "Hogeschool West-Vlaanderen"
         }, 
+        "f6e1eca35af9af0854155db349e1a092abf6f034": {
+            "en": "University of Mons (UMONS)", 
+            "fr": "Universite de Mons (UMONS)"
+        }, 
         "fdb14e60cd120f40bb0d651c2fb9e70122c840cb": {
             "en": "HEPH-Condorcet", 
             "fr": "HEPH-Condorcet"
@@ -1641,15 +1645,6 @@
         "e460d5415d5d526d73cc2c1ce24877d2099fe39d": {
             "en": "RedCLARA", 
             "es": "RedCLARA"
-        }
-    }, 
-    "co": {
-        "3e812dec1cafe5fb9c3656c65e488131057ca363": {
-            "en": "idp RENATA"
-        }, 
-        "b51eef76d4f7285905ae1c70c394123e96ccbe32": {
-            "en": "CORPORACION RED NACIONAL ACADEMICA DE TECNOLOGIA AVANZADA RENATA", 
-            "es": "CORPORACION RED NACIONAL ACADEMICA DE TECNOLOGIA AVANZADA RENATA"
         }
     }, 
     "cy": {
