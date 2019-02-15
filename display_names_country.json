@@ -387,6 +387,10 @@
             "en": "CGEE - Centro de Gestao e Estudos Estrategicos", 
             "pt-br": "CGEE - Centro de Gestao e Estudos Estrategicos"
         }, 
+        "1a032ab7e6bd90f229e102400578da3b83a728f9": {
+            "en": "UNOCHAPECO - Universidade Comunitaria da Regiao de Chapeco", 
+            "pt-br": "UNOCHAPECO - Universidade Comunitaria da Regiao de Chapeco"
+        }, 
         "20868bd5b7764816ad554949343dd8d39f62007d": {
             "en": "MACKENZIE - Instituto Presbiteriano Mackenzie", 
             "pt-br": "MACKENZIE - Instituto Presbiteriano Mackenzie"
@@ -1331,6 +1335,10 @@
         "91864a0c16b8073e41d1d7f521285e1869d3d2b7": {
             "en": "ACORN NS"
         }, 
+        "930746a7a3b9c85bfc572a258df60d62fadee084": {
+            "en": "\u00c9cole Polytechnique de Montr\u00e9al", 
+            "fr": "\u00c9cole Polytechnique de Montr\u00e9al"
+        }, 
         "939a44ba0311473b62fef6b9b47d9b03f5027b03": {
             "en": "University of Alberta"
         }, 
@@ -1647,6 +1655,15 @@
             "es": "RedCLARA"
         }
     }, 
+    "co": {
+        "3e812dec1cafe5fb9c3656c65e488131057ca363": {
+            "en": "idp RENATA"
+        }, 
+        "b51eef76d4f7285905ae1c70c394123e96ccbe32": {
+            "en": "CORPORACION RED NACIONAL ACADEMICA DE TECNOLOGIA AVANZADA RENATA", 
+            "es": "CORPORACION RED NACIONAL ACADEMICA DE TECNOLOGIA AVANZADA RENATA"
+        }
+    }, 
     "cy": {
         "0dc962d01e782a1c851a2c7968dd0801abbf4803": {
             "el": "\u039a\u0395\u0391\u0394", 
@@ -1837,6 +1854,10 @@
         "5db882bce4530ae44ad9fd9dc02c2de4660c82e7": {
             "cs": "Geofyzik\u00e1ln\u00ed \u00fastav AV \u010cR, v.v.i.", 
             "en": "Institute of Geophysics of the CAS, v.v.i."
+        }, 
+        "5dfb51ded9d0bd087ff763601cc148797bd68af5": {
+            "cs": "N\u00e1rodn\u00ed knihovna \u010cesk\u00e9 republiky", 
+            "en": "The National Library of the Czech Republic"
         }, 
         "6058c8e608d8d09205a36cd44b1c9b7531831c5a": {
             "cs": "\u00dastav organick\u00e9 chemie a biochemie AV \u010cR", 
@@ -3304,6 +3325,10 @@
             "fi": "Turun yliopisto", 
             "sv": "\u00c5bo universitet"
         }, 
+        "30e114a13d19da8187936dc9ded46e25584dccf9": {
+            "en": "Finnish Environment Institute", 
+            "fi": "Suomen ymp\u00e4rist\u00f6keskus"
+        }, 
         "310f86a35affa32a4db17ca838a448d6c7131530": {
             "en": "University of the Arts Helsinki", 
             "fi": "Taideyliopisto"
@@ -4538,10 +4563,6 @@
             "el": "\u0395\u03b8\u03bd\u03b9\u03ba\u03cc \u03ba\u03b1\u03b9 \u039a\u03b1\u03c0\u03bf\u03b4\u03b9\u03c3\u03c4\u03c1\u03b9\u03b1\u03ba\u03cc \u03a0\u03b1\u03bd\u03b5\u03c0\u03b9\u03c3\u03c4\u03b7\u03bc\u03af\u03bf \u0391\u03b8\u03b7\u03bd\u03ce\u03bd", 
             "en": "National and Kapodistrian University of Athens"
         }, 
-        "96bf9766992b9da8c8cc379d0271ca8166d7abd1": {
-            "el": "\u0391\u03bd\u03ce\u03c4\u03b1\u03c4\u03bf \u0395\u03ba\u03c0\u03b1\u03b9\u03b4\u03b5\u03c5\u03c4\u03b9\u03ba\u03cc \u038a\u03b4\u03c1\u03c5\u03bc\u03b1 \u03a0\u03b5\u03b9\u03c1\u03b1\u03b9\u03ac \u03a4\u03b5\u03c7\u03bd\u03bf\u03bb\u03bf\u03b3\u03b9\u03ba\u03bf\u03cd \u03a4\u03bf\u03bc\u03ad\u03b1", 
-            "en": "Piraeus University of Applied Sciences"
-        }, 
         "9bf89d022d0cc64db250d0b44d95874adbb43ddd": {
             "el": "\u0395\u03b8\u03bd\u03b9\u03ba\u03cc \u0391\u03c3\u03c4\u03b5\u03c1\u03bf\u03c3\u03ba\u03bf\u03c0\u03b5\u03af\u03bf \u0391\u03b8\u03b7\u03bd\u03ce\u03bd", 
             "en": "National Observatory Athens"
@@ -5403,6 +5424,10 @@
         "8efb45794264eb67e723a593f5b0d608f9c1008c": {
             "en": "Kanazawa University", 
             "ja": "\u91d1\u6ca2\u5927\u5b66"
+        }, 
+        "97c24f13ff185fb7e6265a05abd5bec371f5f7c0": {
+            "en": "The University of Tokyo", 
+            "ja": "\u6771\u4eac\u5927\u5b66"
         }, 
         "9fa3faace0ecb65eee49afad29fa63c9eec306aa": {
             "en": "Kyoto Institute of Technology", 
