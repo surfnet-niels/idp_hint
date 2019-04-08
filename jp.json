@@ -31,6 +31,10 @@
         "en": "Kyushu Institute of Technology", 
         "ja": "\u4e5d\u5dde\u5de5\u696d\u5927\u5b66"
     }, 
+    "5eb1a56a029f8052ec3cb9a630533895a2c639b1": {
+        "en": "Rikkyo University", 
+        "ja": "\u7acb\u6559\u5927\u5b66"
+    }, 
     "680dc7bc32f1c7c65f261380c48e79d8b0793ce4": {
         "en": "Ibaraki University", 
         "ja": "\u8328\u57ce\u5927\u5b66"
@@ -59,9 +63,29 @@
         "en": "The University of Electro-Communications", 
         "ja": "\u96fb\u6c17\u901a\u4fe1\u5927\u5b66"
     }, 
+    "a3129259d56638d3e03c265f493c779ea8749322": {
+        "en": "Okinawa International University", 
+        "ja": "\u6c96\u7e04\u56fd\u969b\u5927\u5b66"
+    }, 
     "aee2411925142e26ebaedf4d9ce85446ff06be1a": {
         "en": "Yamagata University", 
         "ja": "\u5c71\u5f62\u5927\u5b66"
+    }, 
+    "bf5a96e2f21f7791c504b7b22b8b9fb5fc454038": {
+        "en": "National Institute of Technology,Ibaraki College", 
+        "ja": "\u8328\u57ce\u5de5\u696d\u9ad8\u7b49\u5c02\u9580\u5b66\u6821"
+    }, 
+    "d085575e1ba3134d5d871371b8f8a8b6f22f2c9d": {
+        "en": "Kochi University of Technology", 
+        "ja": "\u9ad8\u77e5\u5de5\u79d1\u5927\u5b66"
+    }, 
+    "f5f0e9ff48df5fa8987d322ca3a35d69e3a2c192": {
+        "en": "Obihiro University of Agriculture and Veterinary Medicine", 
+        "ja": "\u5e2f\u5e83\u755c\u7523\u5927\u5b66"
+    }, 
+    "f748ce712a404c22a32cac5965284c9446c96332": {
+        "en": "National Institute of Technology,Sasebo College", 
+        "ja": "\u4f50\u4e16\u4fdd\u5de5\u696d\u9ad8\u7b49\u5c02\u9580\u5b66\u6821"
     }, 
     "f7a295bcd5a9b8eb1530ce6ae9eae6cd5e710134": {
         "en": "Chuo University", 

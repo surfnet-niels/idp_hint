@@ -407,6 +407,9 @@
     "3538b9090dd08dd14bc1aaf9f4c2f488699954bb": {
         "en": "Royal College of Art"
     }, 
+    "35578b2115445bf8179844e8f76018cff763b89a": {
+        "en": "London School of Theology (Shibboleth)"
+    }, 
     "357797a2c82c0c09ab15f90684f9531523350ad2": {
         "en": "Associated Community Training Limited"
     }, 
@@ -987,7 +990,7 @@
         "en": "Queen Margaret University, Edinburgh"
     }, 
     "77e31ea76f618a340f78d870444324410ed8f832": {
-        "en": "Higher Education Funding Council for England"
+        "en": "Office For Students"
     }, 
     "786a153391185682b051e3a8f754f69be527f333": {
         "en": "Stockton Riverside College"
@@ -1209,9 +1212,6 @@
     }, 
     "92af0cb220825b2e9b26b0758135dc0355bd8199": {
         "en": "Royal College of Music - OLD"
-    }, 
-    "932928eb7a449296c848da826efea7a51d25c575": {
-        "en": "Macclesfield College (Test)"
     }, 
     "934d4e46cdb7ac3433acdecd168c111df32c3d84": {
         "en": "Central College Nottingham"
@@ -1654,9 +1654,6 @@
     }, 
     "c097d49c05836be2e8f5a29df58eb5455990fba7": {
         "en": "University of Liverpool - Test"
-    }, 
-    "c0e796dada84ae462030e3f9b67bfc42c448677f": {
-        "en": "London School of Theology (OLD)"
     }, 
     "c13b6051f0f644900eb2281c142bf3cc761491bb": {
         "en": "York College"

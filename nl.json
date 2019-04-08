@@ -8,8 +8,8 @@
         "nl": "Hogeschool Rotterdam"
     }, 
     "04b9ff27b8397d3e68c67011ace967f596eda404": {
-        "en": "Viaa Gereformeerde Hogeschool Zwolle", 
-        "nl": "Viaa Gereformeerde Hogeschool Zwolle"
+        "en": "Hogeschool Viaa", 
+        "nl": "Hogeschool Viaa"
     }, 
     "04c0e9369575adb49867f1019948c9aaf05876b5": {
         "en": "ROC van Twente", 
@@ -30,10 +30,6 @@
     "0c08f35d45005b4a180cedc11ae12d3ee4782107": {
         "en": "Drenthe College", 
         "nl": "Drenthe College"
-    }, 
-    "0df4953bf887d99b61cb89fa59001cad617d91d7": {
-        "en": "Wageningen University & Research (WUR) (old)", 
-        "nl": "Wageningen University & Research (WUR) (Oud)"
     }, 
     "15a32e670790990251313c86755263019a747a12": {
         "en": "Nikhef", 
@@ -128,8 +124,8 @@
         "nl": "Driestar Educatief"
     }, 
     "3847d6e5a4022c8a1f5516ba8b2930782c379825": {
-        "en": "ROC Albeda College", 
-        "nl": "ROC Albeda College"
+        "en": "ROC Albeda", 
+        "nl": "ROC Albeda"
     }, 
     "3ae2721c7505f508d0db41d324c76e35c0d8e2d9": {
         "en": "SRON Netherlands Institute for Space Research", 
@@ -219,6 +215,10 @@
         "en": "Codarts University of the Arts", 
         "nl": "Codarts Hogeschool voor de Kunsten"
     }, 
+    "6627828a089062a296860c58c5d210f19d5ef15f": {
+        "en": "Hogeschool van Amsterdam", 
+        "nl": "Hogeschool van Amsterdam"
+    }, 
     "675a40cd00705ae5f249f9b192fa644b0f36d34c": {
         "en": "VU medisch centrum", 
         "nl": "VU medisch centrum"
@@ -266,6 +266,10 @@
     "7d8542dc0398b4cd49c2ec9f94294641088ebda2": {
         "en": "Rijn IJssel", 
         "nl": "Rijn IJssel"
+    }, 
+    "7fdea49dc898233add47a1bfd1e1589eb28bb2bd": {
+        "en": "Cibap Vocational College for the Creative Arts", 
+        "nl": "Cibap vakschool voor verbeelding"
     }, 
     "81bb795e603f0b3a1214a7aa354eb95d911c065d": {
         "en": "Katholieke Pabo Zwolle", 
@@ -355,6 +359,10 @@
         "en": "ROC Midden Nederland", 
         "nl": "ROC Midden Nederland"
     }, 
+    "abbc11e179e62c7f29143b4ac4522f28df8ce0d1": {
+        "en": "Design Academy Eindhoven", 
+        "nl": "Design Academy Eindhoven"
+    }, 
     "ac67893e1775c4afe9e604fd7c3ebd642d0f7ac0": {
         "en": "Has Hogeschool", 
         "nl": "Has Hogeschool"
@@ -423,10 +431,6 @@
         "en": "Helicon Opleidingen", 
         "nl": "Helicon Opleidingen"
     }, 
-    "bd779b3f64abf21f3b0ea9ffb806e6828c87062e": {
-        "en": "Westerdijk Fungal Biodiversity Institute (CBS - KNAW)", 
-        "nl": "Westerdijk Fungal Biodiversity Institute (CBS - KNAW)"
-    }, 
     "be1c81df5bf9310fe64f72c27039821973504039": {
         "en": "mboRijnland", 
         "nl": "mboRijnland"
@@ -491,10 +495,6 @@
         "en": "HAN University of Applied Sciences", 
         "nl": "Hogeschool van Arnhem en Nijmegen"
     }, 
-    "da14bad7387af80c0215924324bf8c811c639bed": {
-        "en": "Hogeschool van Amsterdam", 
-        "nl": "Hogeschool van Amsterdam"
-    }, 
     "dd9874fe61e87c82fb1daeab63165a4a389a8cca": {
         "en": "M\u00e1xima Medisch Centrum", 
         "nl": "M\u00e1xima Medisch Centrum"
@@ -524,8 +524,8 @@
         "nl": "KNMI"
     }, 
     "e6e6fc3a42588bdec230748f61548b06555207a5": {
-        "en": "Bureau (KNAW)", 
-        "nl": "Bureau (KNAW)"
+        "en": "Koninklijke Nederlandse Akademie van  Wetenschappen (KNAW)", 
+        "nl": "Koninklijke Nederlandse Akademie van  Wetenschappen (KNAW)"
     }, 
     "e7b1aac22990f6c909aa22faa692c615bc5e72fb": {
         "en": "SaNS Expertisecentrum", 
@@ -538,6 +538,10 @@
     "ea60a70333383ef236a465b84180c4c6408c0e4a": {
         "en": "Amsterdam University of the Arts", 
         "nl": "Amsterdamse Hogeschool voor de Kunsten"
+    }, 
+    "ed92ad43f783d70678b9c405edcd6b802ec05e0d": {
+        "en": "Summa College", 
+        "nl": "Summa College"
     }, 
     "eefc5360a7a0fb2df0fa4236af1a3a6f8cde196f": {
         "en": "Nuclear Research and Consultancy Group", 

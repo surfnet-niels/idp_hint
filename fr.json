@@ -151,10 +151,6 @@
         "en": "ENSAI - Ecole Nationale de la Statistique et de l'Analyse de l'Information", 
         "fr": "ENSAI - Ecole Nationale de la Statistique et de l'Analyse de l'Information"
     }, 
-    "24efe18a7d296c5fb22812295ea2b4d94dde2a26": {
-        "en": "Universit\u00e9 de Clermont Ferrand 1 - Auvergne", 
-        "fr": "Universit\u00e9 de Clermont Ferrand 1 - Auvergne"
-    }, 
     "25245bd36362c12c2e6846295fd7f082f7a389ea": {
         "en": "Ecole navale", 
         "fr": "Ecole navale"
@@ -323,9 +319,9 @@
         "en": "Universit\u00e9 de Paris 8 (old)", 
         "fr": "Universit\u00e9 de Paris 8 (old)"
     }, 
-    "55ab14d37335eb1cb57a26f476803f886be4ba4e": {
-        "en": "Sciences Po Grenoble", 
-        "fr": "Sciences Po Grenoble"
+    "558d82dd020994bc343cba575fd75b97715a9082": {
+        "en": "Esigelec", 
+        "fr": "Esigelec"
     }, 
     "5887d750a32bba54c8ee435f37c379a7c5a574df": {
         "en": "Universit\u00e9 d'Artois", 
@@ -426,10 +422,6 @@
     "71f6510f327655f92d0a61c2e7e45f13dc84b36b": {
         "en": "University of Saint-Etienne - Jean Monnet", 
         "fr": "Universit\u00e9 de Saint-Etienne - Jean Monnet"
-    }, 
-    "73772b513356f4c67f371928b33d9d96b831bbf4": {
-        "en": "Montpellier Business School", 
-        "fr": "Montpellier Business School"
     }, 
     "738cdead3453724160e7733d9bb36ddb2c4865be": {
         "en": "Montpellier SupAgro", 
@@ -555,6 +547,10 @@
         "en": "CROUS Besan\u00e7on V3", 
         "fr": "CROUS Besan\u00e7on V3"
     }, 
+    "88b615efac57bf1b44797789a6e84932aae9739d": {
+        "en": "Universit\u00e9 de Lorraine", 
+        "fr": "Universit\u00e9 de Lorraine"
+    }, 
     "88f26cb4538069b4050e493be245c7a410e51b0b": {
         "en": "CROUS Clermont Auvergne V3", 
         "fr": "CROUS Clermont Auvergne V3"
@@ -576,8 +572,8 @@
         "fr": "Universit\u00e9 Paris 13"
     }, 
     "8cfe0b5909b8521ffaa1464c0e11fe2bd911016f": {
-        "en": "ENSTA Paristech - Ecole Nationale Sup\u00e9rieure de Techniques Avanc\u00e9es (v3)", 
-        "fr": "ENSTA Paristech - Ecole Nationale Sup\u00e9rieure de Techniques Avanc\u00e9es  (v3)"
+        "en": "ENSTA Paristech - Ecole Nationale Sup\u00e9rieure de Techniques Avanc\u00e9es", 
+        "fr": "ENSTA Paristech - Ecole Nationale Sup\u00e9rieure de Techniques Avanc\u00e9es"
     }, 
     "8d5d5caaf3adbf2e241c3b735c1a87b538ec6d2a": {
         "en": "Ecole Centrale de Lyon", 
@@ -699,6 +695,10 @@
         "en": "ESRF - European Synchrotron Radiation Facility", 
         "fr": "ESRF - European Synchrotron Radiation Facility"
     }, 
+    "a6ab640200358e2cea00e994e3871a43c1347305": {
+        "en": "MBS - Production", 
+        "fr": "MBS - Production"
+    }, 
     "a6ec480839a7e7f04e7bf9c7ac3356807cf64ef8": {
         "en": "Normandie Universit\u00e9", 
         "fr": "Normandie Universit\u00e9"
@@ -706,6 +706,10 @@
     "a71cd62ce51862056fb8c77bb580a7afbac0cb24": {
         "en": "ENSA Strasbourg", 
         "fr": "Ecole Nationale Sup\u00e9rieure d'Architecture de Strasbourg"
+    }, 
+    "a7d2a255784d558eb95f2341d166d5b274252b33": {
+        "en": "ENSAE - \u00c9cole Nationale de la Statistique et de l'Administration \u00c9conomique", 
+        "fr": "ENSAE - \u00c9cole Nationale de la Statistique et de l'Administration \u00c9conomique"
     }, 
     "a9a6d115ef220a2947a5f73685695154dbc3b85f": {
         "en": "CROUS Toulouse - Personnels", 
@@ -756,8 +760,12 @@
         "fr": "Sciences Po Lille"
     }, 
     "b424b70463ccf713b53fe5e9da21a0bc05281270": {
-        "en": "Universit\u00e9 de Lorraine", 
-        "fr": "Universit\u00e9 de Lorraine"
+        "en": "Universit\u00e9 de Lorraine (old version)", 
+        "fr": "Universit\u00e9 de Lorraine (ancienne version)"
+    }, 
+    "b4a23e9fbe88925e725cb707997093bd7134a7a2": {
+        "en": "Universit\u00e9 Clermont Auvergne - SATOSA proxy", 
+        "fr": "Universit\u00e9 Clermont Auvergne - SATOSA proxy"
     }, 
     "b5ad7cf52712dbac1e4e8255a92aca01c1045ff4": {
         "en": "Universit\u00e9 Lille 1 - Sciences et Technologies", 
@@ -766,6 +774,10 @@
     "b6a627a3a1dc53bc4663d414ce3a984bb825beaa": {
         "en": "Ecole des Mines de Saint-Etienne", 
         "fr": "Ecole des Mines de Saint-Etienne"
+    }, 
+    "b7bd3ca515ed3974d8d7a746295ce7347767f8e1": {
+        "en": "IDP Campus Condorcet - Test", 
+        "fr": "IDP Campus Condorcet - Test"
     }, 
     "b8d767d6b1a6e7ae57f84f2bd25b6f7c06fc237f": {
         "en": "University of Angers", 
@@ -831,9 +843,9 @@
         "en": "Universit\u00e9 de Technologie de Belfort-Montb\u00e9liard", 
         "fr": "Universit\u00e9 de Technologie de Belfort-Montb\u00e9liard"
     }, 
-    "cd8b31d63ece4e37f1288ce83c73a8bfa0342a82": {
-        "en": "Universit\u00e9 de Clermont-Ferrand 2 - Blaise Pascal", 
-        "fr": "Universit\u00e9 de Clermont-Ferrand 2 - Blaise Pascal"
+    "cd134f2289382c2257e78d4c89f422c3664a6301": {
+        "en": "Sciences Po Grenoble", 
+        "fr": "Sciences Po Grenoble"
     }, 
     "cf3b78687a4f8b1b74b641245a0919bf3ac240ae": {
         "en": "CIRAD", 
@@ -883,10 +895,6 @@
         "en": "Bordeaux INP", 
         "fr": "Bordeaux INP"
     }, 
-    "dd583f2e23ffdb142b57a26698c20d580f6b40a4": {
-        "en": "Sorbonne University", 
-        "fr": "Sorbonne Universit\u00e9s"
-    }, 
     "de087cb52447b3ad52673f0afb4383ef2aaaa2a4": {
         "en": "INSERM", 
         "fr": "INSERM"
@@ -906,6 +914,10 @@
     "dfa354b9ce577a7f71441d5af473525ea3b12dd8": {
         "en": "eduGAIN Access Check", 
         "fr": "eduGAIN Access Check"
+    }, 
+    "dfb8312500c906ac1a62d45c1f58484842cc6b57": {
+        "en": "Ecole Nationale Sup\u00e9rieur de Paysage", 
+        "fr": "Ecole Nationale Sup\u00e9rieur de Paysage"
     }, 
     "e07528713d9c77972d1e2f966980754945781eae": {
         "en": "Mus\u00e9um National d'Histoire Naturelle (MNHN)", 
@@ -1006,10 +1018,6 @@
     "f79e1ab2c0897da8d26b4fe72428396f1efafdd3": {
         "en": "Agence Universitaire de la Francophonie (AUF)", 
         "fr": "Agence universitaire de la Francophonie (AUF)"
-    }, 
-    "fa7e37404f26aeb64616d9d67c849837d5575678": {
-        "en": "AUTOSIGNED", 
-        "fr": "PELICAN Identity Provider"
     }, 
     "fc7b21dd77f9eba35d2382ff2b02ab76a971909f": {
         "en": "T\u00e9l\u00e9com ParisTech", 

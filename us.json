@@ -86,6 +86,9 @@
     "0f4a0a1750ef457538e5dcd494874a3524fb3a17": {
         "en": "University of St. Thomas"
     }, 
+    "0fbdb7506d1eb6fd9f29366c03d3445ca7fb391e": {
+        "en": "University of Wisconsin-Superior Login Portal"
+    }, 
     "100561bc006f0b8b060cd86c0baea3ce0e7ed84a": {
         "en": "Moss Landing Marine Laboratories"
     }, 
@@ -152,9 +155,6 @@
     "1a6d8325c1315033db53448f3e721e1c6df1b470": {
         "en": "University of Texas Rio Grande Valley"
     }, 
-    "1bc630222d28578bc92dcfdab9ee6a9167923e3d": {
-        "en": "Comodo CA Ltd."
-    }, 
     "1c893ce43e36d21cc24d987c9c970707152c59c2": {
         "en": "South Dakota State University"
     }, 
@@ -204,7 +204,7 @@
         "en": "Brown University"
     }, 
     "2578379b2fd07eda19dbb7aa301db173070f3240": {
-        "en": "University of Denver"
+        "en": "Denver University"
     }, 
     "258343d74a4e9bcb2220c10f89797eab093aa44f": {
         "en": "Cedar Crest College"
@@ -298,6 +298,9 @@
     }, 
     "31566efb55269317dd88f258c4ab0305e18dcb84": {
         "en": "Gettysburg College"
+    }, 
+    "3229a92e8d1916526237d3ec36ed79dfa9ba8926": {
+        "en": "Western Nebraska Community College"
     }, 
     "32c165fcd25f9f08eb537264a08ba24da5b0204c": {
         "en": "National Institutes of Health"
@@ -397,9 +400,6 @@
     }, 
     "450db9100934f70e96e8a22a230fe271897e79b3": {
         "en": "University of Texas System"
-    }, 
-    "45d01f139d3768adfff6abe51da64a0a96e6a696": {
-        "en": "Mott Community College (old)"
     }, 
     "46d0a1250ad36e246a1d06814e4862a5a2735e87": {
         "en": "Pomona College"
@@ -512,6 +512,9 @@
     "5888e898159509ee242c74ef4798fe779f146e84": {
         "en": "Coast Community College District"
     }, 
+    "58c98daac745b6bdcdb3f5e8a222e7cec622f99e": {
+        "en": "Manhattan College"
+    }, 
     "58dec47c4978c58cc61880e4f7ab741f630a27b5": {
         "en": "Stevenson University"
     }, 
@@ -532,6 +535,9 @@
     }, 
     "5b7ab0d6cf2fb3caaa8d6d5c609d3683db0ae9e5": {
         "en": "Stony Brook University"
+    }, 
+    "5c08c19fa0cfd92f15022e81d67a9435f064bbd7": {
+        "en": "Ventura County Comm College District"
     }, 
     "5c9fad0a776cf1d0ebbc6480509a3b33892c836b": {
         "en": "University of Oklahoma"
@@ -645,7 +651,7 @@
         "en": "University of Kansas"
     }, 
     "6e5bd2d9509cdbc2ca64bc64de3deff5d6ea28fe": {
-        "en": "zTest_University of Miami"
+        "en": "University of Miami - Non-production"
     }, 
     "6e5c843d4419e73759366ac23ced524b30be2acb": {
         "en": "University of Houston Libraries"
@@ -763,9 +769,6 @@
     }, 
     "812be03891e1341b85b1109d9ff247d1da57806b": {
         "en": "Central Washington University"
-    }, 
-    "8130143a024efb8937e2a0924bb8c1f0d403d241": {
-        "en": "Durham Public Schools"
     }, 
     "818d168c6c737c5e1fe9e9fe2c9f894c55f6325b": {
         "en": "Mott Community College"
@@ -926,9 +929,6 @@
     "9dcbc4a238c020a9ffe04417252d462356c5eeda": {
         "en": "Lock Haven University"
     }, 
-    "9e7a601f596039f962c9a7bedb07ed15cfa59373": {
-        "en": "Fairleigh Dickinson University"
-    }, 
     "9e884baf750f8880cec29a26a1896aae5d03a58d": {
         "en": "California Polytechnic State University-San Luis Obispo"
     }, 
@@ -951,7 +951,7 @@
         "en": "Eastern Washington University"
     }, 
     "a355f7b15c12e8acdc15983b6ab945350ba0449b": {
-        "en": "University of California - Office of the President"
+        "en": "University of California, Office of the President"
     }, 
     "a3fb2fc38422855a65925d1cdbf96c1e2f654b22": {
         "en": "California State Polytechnic University, Pomona"
@@ -973,9 +973,6 @@
     }, 
     "a70c9f761ad1ee95c3db6e6e5197951cae657fe4": {
         "en": "Colorado State University"
-    }, 
-    "a7c74d7c3f48bf6b753a3dd450fcadf2cfdc3d48": {
-        "en": "University of Texas-Pan American"
     }, 
     "a7f1ca1d50bf0c6232be1bff5bdce705a2489d98": {
         "en": "Liberty University"
@@ -1220,6 +1217,9 @@
     "ce2f537876d5194bb694188bb5af8225dee76978": {
         "en": "University of Pennsylvania"
     }, 
+    "ce3f97596456511f2f57ffe9f576b69642680b1f": {
+        "en": "University of North Florida"
+    }, 
     "cee40b177c8484a834798de1320b32e18f83c259": {
         "en": "University of Massachusetts Amherst"
     }, 
@@ -1249,9 +1249,6 @@
     }, 
     "d504c32eb6421a163241dda71152b76847df3714": {
         "en": "Hamilton College"
-    }, 
-    "d556dacd8cc0eb175de9e60936d5d2fb4f962450": {
-        "en": "University of Texas At Brownsville"
     }, 
     "d76fd0405ce5d459de4c4e968801f4792110e30f": {
         "en": "Malone University"
@@ -1375,9 +1372,6 @@
     }, 
     "edd00000ffe53b95fc5251e868a39009fe041372": {
         "en": "Western Carolina University"
-    }, 
-    "edd6d8b17431864364a034217a1497d1ac053708": {
-        "en": "Ventura County Community College District"
     }, 
     "eddfa5948ebd82f1c849a9a4c5cc3237b2874e01": {
         "en": "West Chester University of Pennsylvania"

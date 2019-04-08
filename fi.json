@@ -37,6 +37,11 @@
         "en": "University of the Arts Helsinki", 
         "fi": "Taideyliopisto"
     }, 
+    "32132432197788f15e07fc5058b2de52da45d587": {
+        "en": "https://xidp.xamk.fi/idp/shibboleth", 
+        "fi": "Kaakkois-Suomen ammattikorkeakoulu", 
+        "sv": "Kaakkois-Suomen ammattikorkeakoulu"
+    }, 
     "3d683fa556a285150fd9b0c6b22afb352ce51513": {
         "en": "University of Helsinki", 
         "sv": "Helsingfors universitet"
@@ -83,7 +88,8 @@
         "sv": "Hanken Svenska handelsh\u00f6gskolan"
     }, 
     "a26be58d6d9a3f89f0f2bed57549a2bb4d1ff36d": {
-        "en": "Tampere Universities", 
+        "en": "https://idp.tuni.fi/idp/shibboleth", 
+        "fi": "Tampereen korkeakoulut", 
         "sv": "Tampere Universities"
     }, 
     "b29ef7e6916c2736075f0a40212e17f2ff36c478": {
@@ -91,7 +97,8 @@
         "sv": "JAMK"
     }, 
     "b84f837071807cffbb858548c761f5a936963d18": {
-        "en": "University of Lapland", 
+        "en": "https://idp.ulapland.fi/idp/shibboleth", 
+        "fi": "Lapin yliopisto", 
         "sv": "Lapplands universitet"
     }, 
     "c2690ff4998ca4320f0f5e725420769a88aa15fd": {
