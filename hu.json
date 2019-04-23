@@ -11,10 +11,6 @@
         "en": "Library and Information Centre of the Hungarian Academy of Sciences", 
         "hu": "Magyar Tudom\u00e1nyos Akad\u00e9mia K\u00f6nyvt\u00e1r \u00e9s Inform\u00e1ci\u00f3s K\u00f6zpont"
     }, 
-    "1ce465181b866fa5b5d005db229f0463bbb7ea5a": {
-        "en": "Governmental Information Technology Development Agency (KIF\u00dc), Hungary", 
-        "hu": "Korm\u00e1nyzati Informatikai Fejleszt\u00e9si \u00dcgyn\u00f6ks\u00e9g (KIF\u00dc)"
-    }, 
     "24edae40596648fd5c9e5ed7a46648c400c8cbad": {
         "en": "Budapest University of Technology and Economics", 
         "hu": "Budapesti M\u0171szaki \u00e9s Gazdas\u00e1gtudom\u00e1nyi Egyetem"
@@ -22,6 +18,10 @@
     "2a5471a5d79711fa0dd3e973c9014c963a94556d": {
         "en": "Eszterh\u00e1zy K\u00e1roly University, Eger", 
         "hu": "Eszterh\u00e1zy K\u00e1roly Egyetem, Eger"
+    }, 
+    "3d2150b54838bb3fc444d9aa7d4d46d78f5fcaaf": {
+        "en": "\u00d3buda University", 
+        "hu": "\u00d3budai Egyetem"
     }, 
     "41b19fd6ee9648a55038e4499b876e4d03a75dd4": {
         "en": "Kaposv\u00e1r University", 

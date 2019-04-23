@@ -31,10 +31,6 @@
         "de": "Philipps-Universit\u00e4t Marburg", 
         "en": "Philipps-Universit\u00e4t Marburg"
     }, 
-    "0d3f9b8d005abfe4f847f5908cf044c0a85b3230": {
-        "de": "Hochschule f\u00fcr Gesundheit", 
-        "en": "Hochschule f\u00fcr Gesundheit"
-    }, 
     "0dbf9c91f744335030551f5da2fb176dcb029173": {
         "de": "ESO - European Southern Observatory", 
         "en": "ESO - European Southern Observatory"
@@ -79,6 +75,10 @@
         "de": "Ostbayerische Technische Hochschule Regensburg", 
         "en": "Ostbayerische Technische Hochschule Regensburg"
     }, 
+    "1d3a0e76c6992c6215dd73864f9328978ef50316": {
+        "de": "ESMT Berlin", 
+        "en": "ESMT Berlin"
+    }, 
     "1faab767dcc9c246538700395a7cb5f27c68c64e": {
         "de": "Charit\u00e9 - Universit\u00e4tsmedizin Berlin", 
         "en": "Charit\u00e9 - Universit\u00e4tsmedizin Berlin"
@@ -119,10 +119,6 @@
         "de": "Europa-Universit\u00e4t Viadrina", 
         "en": "European University Viadrina"
     }, 
-    "26aaa185842ce15da7af013a83677dea9988d559": {
-        "de": "Staatliche Studienakademie Bautzen", 
-        "en": "Staatliche Studienakademie Bautzen"
-    }, 
     "270ea905968070367b8b2f23fbb0b69c63c1d74d": {
         "de": "Hochschule Albstadt-Sigmaringen", 
         "en": "Albstadt-Sigmaringen University of Applied Sciences"
@@ -154,6 +150,10 @@
     "3b7fa51bdf82f2d2be55bd5339bd409a433e81b9": {
         "de": "Universit\u00e4t Frankfurt", 
         "en": "Universit\u00e4t Frankfurt"
+    }, 
+    "3ba10a83803360ee5fe947e8ab8817ec87c6839c": {
+        "de": "Hochschule Flensburg", 
+        "en": "Flensburg University of Applied Sciences"
     }, 
     "3c94ff9daaaa3740934a8ab1a78c7da6542d20e2": {
         "de": "Hochschule Mittweida", 
@@ -345,7 +345,7 @@
     }, 
     "7ce9f252cc6d484beac5eece85cf2b3bf4195d62": {
         "de": "Hochschule W\u00fcrzburg-Schweinfurt", 
-        "en": "University of Applied Sciences W\u00fcrzburg-Schweinfurt"
+        "en": "Hochschule W\u00fcrzburg-Schweinfurt"
     }, 
     "80467052f20cb9a6230748c4ef459921c9399a63": {
         "de": "Otto-Friedrich-Universit\u00e4t Bamberg", 
@@ -631,17 +631,17 @@
         "de": "DFN-CERT Services GmbH", 
         "en": "DFN-CERT Services GmbH"
     }, 
-    "f8a93a999e3a0e445c5acdf5fa2f20eacdc6cbba": {
-        "de": "DFN AAI Integration + Test IdP", 
-        "en": "DFN AAI Integration + Test IdP"
+    "f5abf64ed6a6aabb3323d58d7b8019cb7fb7430d": {
+        "de": "THGA Bochum", 
+        "en": "THGA Bochum"
     }, 
     "f9fd13fe84a4e2128ce0102b3c5aed4576d24c3c": {
         "de": "Universit\u00e4t Greifswald", 
         "en": "University of Greifswald"
     }, 
     "fafd9615d10712ce36522078978b78ab85586a12": {
-        "de": "Technische Hochschule Ingolstadt - LIVE", 
-        "en": "Technische Hochschule Ingolstadt - LIVE"
+        "de": "Technische Hochschule Ingolstadt", 
+        "en": "Technische Hochschule Ingolstadt"
     }, 
     "fe2821e8d6a88c5b48aec2add29fad84a86c5feb": {
         "de": "Hochschule Bremen", 

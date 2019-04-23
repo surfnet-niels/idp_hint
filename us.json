@@ -248,9 +248,6 @@
     "2b8e2a22781fd09e608a0ca0b11f1b505196382d": {
         "en": "University of Alaska Statewide System"
     }, 
-    "2b8f58364aed84e38b10d2fff49585e8bb90bcef": {
-        "en": "zTest - University of Pittsburgh Test IdP"
-    }, 
     "2bee8b0f0d1ffd5d3be4b2f74ed50c7312918240": {
         "en": "MiraCosta Community College District"
     }, 
@@ -259,9 +256,6 @@
     }, 
     "2c29cb2ba7e9fc5b2e19cabcb9a78ce4d7071a70": {
         "en": "XSEDE"
-    }, 
-    "2c6f5188a3cb6ab042442ffa4c06e535af61c7fc": {
-        "en": "Test IDP - Rutgers, The State University of New Jersey"
     }, 
     "2c6fde350cfdf2cd9994e42ad783ab5d8f9e86c8": {
         "en": "University of Akron, Main Campus, The"
@@ -297,7 +291,7 @@
         "en": "ServiceNow"
     }, 
     "31566efb55269317dd88f258c4ab0305e18dcb84": {
-        "en": "Gettysburg College"
+        "en": "Gettysburg College SSO"
     }, 
     "3229a92e8d1916526237d3ec36ed79dfa9ba8926": {
         "en": "Western Nebraska Community College"
@@ -349,6 +343,9 @@
     }, 
     "3ac98c13ce0943e227e0da7f2439181114ab1ea0": {
         "en": "California State University, Fullerton"
+    }, 
+    "3bae72abbf486e33fa324069241fded48890dc92": {
+        "en": "Fordham University"
     }, 
     "3c4386864e237f27a1fa08386ee4f6c4cfd8a74c": {
         "en": "A. T. Still University"
@@ -818,9 +815,6 @@
     "87c646b7c487409a2d4406d3dc881a809b64360c": {
         "en": "Naval Postgraduate School"
     }, 
-    "88402f4e9d69f6eeabf3865b704bcb4152ce229d": {
-        "en": "zTest_Washington University in St. Louis"
-    }, 
     "88a4832d4ce2049823a09f71d724398ec0b95e5b": {
         "en": "University of Wisconsin-Platteville"
     }, 
@@ -910,9 +904,6 @@
     }, 
     "9a8eb7629dec469c75f35c0d734e6d745b4e4f0f": {
         "en": "Hampshire College"
-    }, 
-    "9bef89b4be20ef5d57726a0400e6870baf8d8e00": {
-        "en": "zTEST_VTIdP"
     }, 
     "9c41cd91b044e0dc485db8024dfafe5de6dfb3d5": {
         "en": "Loyola University of Chicago"
