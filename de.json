@@ -587,6 +587,10 @@
         "de": "Max-Planck Institute (im MetaDir der GWDG)", 
         "en": "Max-Planck Institutes (in MetaDir of GWDG)"
     }, 
+    "dc393a3f3d7565368a0a5e71af273e6b8ade24d4": {
+        "de": "Fachhochschule Kiel", 
+        "en": "Kiel University of Applied Sciences"
+    }, 
     "dc7b36c46147a4fb43cc922e09982c1826c88ca2": {
         "de": "OVGU Magdeburg", 
         "en": "OVGU Magdeburg"
@@ -634,6 +638,10 @@
     "f5abf64ed6a6aabb3323d58d7b8019cb7fb7430d": {
         "de": "THGA Bochum", 
         "en": "THGA Bochum"
+    }, 
+    "f8a93a999e3a0e445c5acdf5fa2f20eacdc6cbba": {
+        "de": "DFN AAI Integration + Test IdP", 
+        "en": "DFN AAI Integration + Test IdP"
     }, 
     "f9fd13fe84a4e2128ce0102b3c5aed4576d24c3c": {
         "de": "Universit\u00e4t Greifswald", 
