@@ -1,11 +1,23 @@
 {
+    "026381bb68bc3b2b46bf8d8c989fd7ae7cd02459": {
+        "de": "Hochschule f\u00fcr \u00f6ffentliche Verwaltung und Finanzen Ludwigsburg", 
+        "en": "University of Applied Sciences Ludwigsburg"
+    }, 
     "02668fed66a35503b378621577a56501b83b02cf": {
         "de": "Universit\u00e4t Duisburg-Essen", 
         "en": "Universit\u00e4t Duisburg-Essen"
     }, 
+    "02715f615813a67d904e40ab2ca70112c8798ec1": {
+        "de": "Hochschule Heilbronn", 
+        "en": "Heilbronn University"
+    }, 
     "02fa424abde272a8abdc6d792082584c8b25b34e": {
         "de": "Technische Hochschule N\u00fcrnberg Georg Simon Ohm", 
         "en": "Technische Hochschule N\u00fcrnberg Georg Simon Ohm"
+    }, 
+    "030a0e2d1c5757f7eff015938ba4d5a8f70abdf1": {
+        "de": "Berufsakademie Sachsen", 
+        "en": "Berufsakademie Sachsen"
     }, 
     "03ab4bea848cb1e8cd7bd50cc5e0f450950959e4": {
         "de": "Hochschule f\u00fcr Forstwirtschaft Rottenburg (HFR)", 
@@ -31,6 +43,10 @@
         "de": "Philipps-Universit\u00e4t Marburg", 
         "en": "Philipps-Universit\u00e4t Marburg"
     }, 
+    "0d3f9b8d005abfe4f847f5908cf044c0a85b3230": {
+        "de": "Hochschule f\u00fcr Gesundheit", 
+        "en": "Hochschule f\u00fcr Gesundheit"
+    }, 
     "0dbf9c91f744335030551f5da2fb176dcb029173": {
         "de": "ESO - European Southern Observatory", 
         "en": "ESO - European Southern Observatory"
@@ -50,6 +66,14 @@
     "11ae91e82b83501ffb2f1d64e2820db70348b4c2": {
         "de": "Universit\u00e4t Koblenz-Landau", 
         "en": "University Koblenz-Landau"
+    }, 
+    "122965c8389f17c321673cce9718b5f7bfce346a": {
+        "de": "FernUniversit\u00e4t in Hagen", 
+        "en": "University in Hagen"
+    }, 
+    "12b1daebe605845eb890680b9a1583959b51115e": {
+        "de": "Ostfalia", 
+        "en": "Ostfalia"
     }, 
     "136f6bb7bedeb0faae2f63d83437ad5fdcc192e0": {
         "de": "Hochschule Karlsruhe - Technik und Wirtschaft", 
@@ -71,9 +95,21 @@
         "de": "Ostbayerische Technische Hochschule Amberg-Weiden", 
         "en": "Ostbayerische Technische Hochschule Amberg-Weiden"
     }, 
+    "1640bdc5200bb4dcf90079e7ba28c3c10e16e885": {
+        "de": "PH Ludwigsburg", 
+        "en": "PH Ludwigsburg"
+    }, 
+    "17c1c4bf225993b37a30489f67a12ab37ebd5348": {
+        "de": "Deutscher Akademischer Austauschdienst", 
+        "en": "german academic exchange service"
+    }, 
     "18b433b40e4b752fb07fe216eb1e1e7a22b5cb03": {
         "de": "Ostbayerische Technische Hochschule Regensburg", 
         "en": "Ostbayerische Technische Hochschule Regensburg"
+    }, 
+    "1cee774d9a3938fad439becbca8e7d085ceace1a": {
+        "de": "Technische Hochschule L\u00fcbeck", 
+        "en": "Technische Hochschule L\u00fcbeck - University of Applied Sciences"
     }, 
     "1d3a0e76c6992c6215dd73864f9328978ef50316": {
         "de": "ESMT Berlin", 
@@ -94,6 +130,10 @@
     "221fcfd776d12286e17d0de97075233a9940a37a": {
         "de": "Europa-Universit\u00e4t Flensburg", 
         "en": "Europa-Universit\u00e4t Flensburg"
+    }, 
+    "2319920ab1fabab0579e388c035660d1347e9e89": {
+        "de": "Hochschule f\u00fcr Angewandte Wissenschaften Hamburg", 
+        "en": "Hamburg University of Applied Sciences"
     }, 
     "243381f74f4beb187d43edbd974b6bc91e760033": {
         "de": "Hochschule Ravensburg-Weingarten", 
@@ -119,6 +159,14 @@
         "de": "Europa-Universit\u00e4t Viadrina", 
         "en": "European University Viadrina"
     }, 
+    "26aaa185842ce15da7af013a83677dea9988d559": {
+        "de": "Staatliche Studienakademie Bautzen", 
+        "en": "Staatliche Studienakademie Bautzen"
+    }, 
+    "26e92223f78c352a1f02f04a8c27e4b16e0ecbaf": {
+        "de": "Technische Hochschule Ostwestfalen-Lippe IDP", 
+        "en": "Technische Hochschule Ostwestfalen-Lippe IDP"
+    }, 
     "270ea905968070367b8b2f23fbb0b69c63c1d74d": {
         "de": "Hochschule Albstadt-Sigmaringen", 
         "en": "Albstadt-Sigmaringen University of Applied Sciences"
@@ -126,6 +174,10 @@
     "2731090c506fedf7af76686662c5f98caab177e2": {
         "de": "DHBW Karlsruhe", 
         "en": "DHBW Karlsruhe"
+    }, 
+    "2a0b92fbff3d34050f0c8f9ca65e2cea8d1fc0b5": {
+        "de": "Universit\u00e4t Witten/Herdecke", 
+        "en": "Witten/Herdecke University"
     }, 
     "2b04ed51309abe620d6dd12824b44c4b4d5a3e26": {
         "de": "Hochschule Biberach", 
@@ -139,6 +191,10 @@
         "de": "Rheinische Fachhochschule K\u00f6ln gGmbH", 
         "en": "Rheinische Fachhochschule K\u00f6ln gGmbH"
     }, 
+    "2ef41718376218579901accc8b977800332aa313": {
+        "de": "PH Karlsruhe", 
+        "en": "University of Education Karlsruhe"
+    }, 
     "328e832fb93f12d14b54dfe9332391f2b9f10825": {
         "de": "Technische Universit\u00e4t Ilmenau", 
         "en": "Technische Universit\u00e4t Ilmenau"
@@ -146,6 +202,14 @@
     "32e8804f2db377e6872002d264d7d5285bf0fcae": {
         "de": "Hochschule Esslingen", 
         "en": "Esslingen University of Applied Sciences"
+    }, 
+    "35b5f9f538e222c4f92ec25c4dcabb419c25924e": {
+        "de": "Technische Universit\u00e4t Darmstadt", 
+        "en": "Technische Universit\u00e4t Darmstadt"
+    }, 
+    "3b4868fa918a74f704586cbb16c588f6c33978cd": {
+        "de": "DIPF | Leibniz-Institut f\u00fcr Bildungsforschung und Bildungsinformation", 
+        "en": "DIPF | Leibniz Institute for Research and Information in Education"
     }, 
     "3b7fa51bdf82f2d2be55bd5339bd409a433e81b9": {
         "de": "Universit\u00e4t Frankfurt", 
@@ -179,9 +243,17 @@
         "de": "Universit\u00e4t Mainz", 
         "en": "Universit\u00e4t Mainz"
     }, 
+    "41ac440f6da95b6261401113c07d7107ca17fb4e": {
+        "de": "Universit\u00e4t Bonn", 
+        "en": "Universit\u00e4t Bonn"
+    }, 
     "41c16274415cbaf6defb76e3c8d02347e3ea2793": {
         "de": "DHBW Heidenheim", 
         "en": "DHBW Heidenheim"
+    }, 
+    "44317b7a3cf2ddc7e99b6fc21e504c2b12fefd97": {
+        "de": "Christian-Albrechts-Universit\u00e4t zu Kiel", 
+        "en": "Christian-Albrechts-Universit\u00e4t zu Kiel"
     }, 
     "447a66794d80acadceefcdb2a9d668142e24ce69": {
         "de": "Universit\u00e4t Erfurt", 
@@ -231,13 +303,17 @@
         "de": "Commerzbibliothek Hamburg", 
         "en": "Commerzbibliothek Hamburg"
     }, 
-    "4d726991c2f1c71820c595b458948620e4b87a9f": {
-        "de": "Hochschule Fulda University of Applied Sciences", 
-        "en": "Hochschule Fulda University of Applied Sciences"
+    "4dac066102297b8765ec5362c5cb7b941b190b9a": {
+        "de": "Hochschule Koblenz", 
+        "en": "Hochschule Koblenz"
     }, 
     "4ecfab82c97fb1d7a1fb50498b0dc87b2a25c3fd": {
         "de": "Deutsches Klimarechenzentrum GmbH (DKRZ)", 
         "en": "Deutsches Klimarechenzentrum GmbH (DKRZ)"
+    }, 
+    "4eff848663687547b316ff28036012abd96bd70b": {
+        "de": "Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)", 
+        "en": "Berlin-Brandenburg Academy of Sciences and Humanities (BBAW)"
     }, 
     "50370e46d7f6302fef5ebb1fbad8a15c76e1ee14": {
         "de": "Reutlingen University / Hochschule Reutlingen", 
@@ -246,6 +322,10 @@
     "53db7bbeff887f8190cf95308f70846ecf3f7f22": {
         "de": "Hochschule Darmstadt, University of Applied Sciences", 
         "en": "Hochschule Darmstadt, University of Applied Sciences"
+    }, 
+    "54d990b5502d179617dc8242754fb56a1d59e8e0": {
+        "de": "Universit\u00e4t der K\u00fcnste Berlin", 
+        "en": "The Berlin University of the Arts"
     }, 
     "56cd82700fc3ec4674d1e5d6ef6160a27239ba80": {
         "de": "Hochschule Hamm-Lippstadt", 
@@ -260,8 +340,8 @@
         "en": "Herzog August Bibliothek Wolfenbuettel"
     }, 
     "6051f495c3179a2cc6949f84137b6381acc00b92": {
-        "de": "Hochschule Rosenheim", 
-        "en": "University of Applied Sciences Rosenheim"
+        "de": "Technische Hochschule Rosenheim", 
+        "en": "Technical University of Applied Sciences Rosenheim"
     }, 
     "606723402f108d04e71a675d7d054dd2af88d80d": {
         "de": "TU Kaiserslautern", 
@@ -274,6 +354,10 @@
     "6143711abba8f01a7a98ebb7a0897116301a6b62": {
         "de": "Jacobs University Bremen gGmbH", 
         "en": "Jacobs University Bremen gGmbH"
+    }, 
+    "617a97b0e1b44d8bccae2cb7e42ba2b7260ab08d": {
+        "de": "Universit\u00e4t Oldenburg", 
+        "en": "Universit\u00e4t Oldenburg"
     }, 
     "61ff796049173161642d34df73d794e4251f88a2": {
         "de": "IPK Gatersleben", 
@@ -303,9 +387,21 @@
         "de": "Helmut-Schmidt-Universit\u00e4t Hamburg", 
         "en": "Helmut-Schmidt-Universit\u00e4t Hamburg"
     }, 
+    "6adfa150207a3c7ee19ea2d2e49d498a4329fd44": {
+        "de": "CrossAsia.org (VHO)", 
+        "en": "CrossAsia.org (VHO)"
+    }, 
     "6cc96992a1ee93682a06b32af570a91e6bc706f1": {
         "de": "Universit\u00e4t W\u00fcrzburg", 
         "en": "Universit\u00e4t W\u00fcrzburg"
+    }, 
+    "6e60fa87bbe3dc19e19be653e0d9ca30c3691f5c": {
+        "de": "Hochschule Bremerhaven", 
+        "en": "Hochschule Bremerhaven University of Applied Sciences"
+    }, 
+    "6fa3bacb990fee9b87f422ac38183cdada619cae": {
+        "de": "HafenCity Universit\u00e4t Hamburg", 
+        "en": "HafenCity Universit\u00e4t Hamburg"
     }, 
     "707950e282705e5ee091156e56d30bd214d09a22": {
         "de": "Universit\u00e4t Heidelberg", 
@@ -327,6 +423,10 @@
         "de": "RWTH Aachen University", 
         "en": "RWTH Aachen University"
     }, 
+    "738f7981106208a4b13781a456cd3f6e8e2fa32c": {
+        "de": "Hochschule f\u00fcr Technik Stuttgart", 
+        "en": "Hochschule f\u00fcr Technik Stuttgart"
+    }, 
     "741c5fc2a23dbae47fdc60f52fdd6d881c350ad4": {
         "de": "Ministerium f\u00fcr Bildung, Wissenschaft und Kultur Mecklenburg-Vorpommern", 
         "en": "Ministry of Education, Science and Culture Mecklenburg-Vorpommern"
@@ -345,7 +445,7 @@
     }, 
     "7a679b160646eaae5fd94c3f957dd57bf3aeda73": {
         "de": "Universit\u00e4t Trier", 
-        "en": "University of Trier"
+        "en": "Trier University"
     }, 
     "7ce0429606d40d1621facee45e9e56f8ebfb3d55": {
         "de": "Hochschule f\u00fcr Technik und Wirtschaft Dresden", 
@@ -367,6 +467,10 @@
         "de": "Fachhochschule Potsdam", 
         "en": "Fachhochschule Potsdam, University of Applied Scienes"
     }, 
+    "866a05bb78140a285fd5b3c13b84e41661131b00": {
+        "de": "Hochschule f\u00fcr Wirtschaft und Gesellschaft Ludwigshafen", 
+        "en": "Ludwigshafen University of Business and Society"
+    }, 
     "897baead243ed5a5f576aa728c3dc132cf70fb65": {
         "de": "Freie Universit\u00e4t Berlin", 
         "en": "Freie Universit\u00e4t Berlin"
@@ -374,6 +478,10 @@
     "899a584a4f44677cb2a3df4ddbf12f81f1eed59a": {
         "de": "Frankfurt University of Applied Sciences", 
         "en": "Frankfurt University of Applied Sciences"
+    }, 
+    "89a7032f8f828dd6ea18ce067026633c457b0cdd": {
+        "de": "Martin-Luther-Universit\u00e4t Halle-Wittenberg", 
+        "en": "Martin-Luther-Universit\u00e4t Halle-Wittenberg"
     }, 
     "8a0eea3ee7ecec415920cb6ffaf7413d8960c03f": {
         "de": "Universit\u00e4t Hohenheim", 
@@ -384,8 +492,8 @@
         "en": "Hamburg University of Technology (TUHH)"
     }, 
     "8d70561492434cb1c78908123c524bbd51898446": {
-        "de": "Hochschule Ostwestfalen-Lippe", 
-        "en": "Hochschule Ostwestfalen-Lippe"
+        "de": "Technische Hochschule Ostwestfalen-Lippe", 
+        "en": "Technische Hochschule Ostwestfalen-Lippe"
     }, 
     "8d90a2f90f0e63be3fd6c1b42d570ca5c2b22015": {
         "de": "Hochschule Emden/Leer", 
@@ -402,6 +510,10 @@
     "8ec907d0214dca5838f9a569f9a2600bfd28f8af": {
         "de": "Technische Hochschule Mittelhessen", 
         "en": "Technische Hochschule Mittelhessen"
+    }, 
+    "915b5e10497eb970bb97f5551064017062225dc1": {
+        "de": "Universit\u00e4t Vechta", 
+        "en": "University of Vechta"
     }, 
     "91f04415773938cb619e12d3601af9153bb1cf99": {
         "de": "Universit\u00e4t Leipzig", 
@@ -431,6 +543,10 @@
         "de": "Georg-August Universit\u00e4t G\u00f6ttingen", 
         "en": "Georg-August University G\u00f6ttingen"
     }, 
+    "986f0891a552dbe7b2c48095d912dc942630c862": {
+        "de": "DHBW L\u00f6rrach", 
+        "en": "DHBW L\u00f6rrach"
+    }, 
     "9882f931b3b1a9c90b36ef524b42fc10c4a20250": {
         "de": "Heinrich-Heine-Universit\u00e4t D\u00fcsseldorf", 
         "en": "Heinrich Heine University Duesseldorf"
@@ -442,6 +558,14 @@
     "9aa8c31c26b556d63d70905aae937a9be49d8d11": {
         "de": "San-Netz.de", 
         "en": "San-Netz.de"
+    }, 
+    "9c5be3326c384c4d389e95d7257824fe07b74aa6": {
+        "de": "Staatliche Studienakademie Leipzig", 
+        "en": "Staatliche Studienakademie Leipzig"
+    }, 
+    "9d6ecd3ca0f30dac5f77c1b34174974464c19cbd": {
+        "de": "DHBW Mannheim", 
+        "en": "DHBW Mannheim"
     }, 
     "9eab55f659a2483493b0fbf30c30b53212c59493": {
         "de": "PH Freiburg", 
@@ -475,9 +599,21 @@
         "de": "Hochschule Bochum", 
         "en": "Bochum University Of Applied Sciences"
     }, 
+    "a666f9c9e5a2bbed464a2db58089853b8bb46375": {
+        "de": "Hochschule f\u00fcr Wirtschaft und Recht Berlin", 
+        "en": "Berlin School of Economics and Law (HWR)"
+    }, 
+    "a771048188ca045e3f5a4b9c9b11bac00faff3f6": {
+        "de": "Max-Delbr\u00fcck-Centrum f\u00fcr molekulare Medizin", 
+        "en": "Max Delbr\u00fcck Center for Molecular Medicine"
+    }, 
     "a803492ba72efe864619e23fccef5a62ac36156a": {
         "de": "Technische Universit\u00e4t Berlin", 
         "en": "Technische Universit\u00e4t Berlin"
+    }, 
+    "aa3e883d09e7553dd6f7806cf642eabc73ee1554": {
+        "de": "Kunsthochschule fuer Medien Koeln", 
+        "en": "Academy of Media Arts Cologne"
     }, 
     "aa5349741ce827c0692ba14e0518e99d653852bd": {
         "de": "Universit\u00e4t Paderborn", 
@@ -486,6 +622,10 @@
     "ab78bb1a9832ffd7b9769fd516623ecdd83c3af5": {
         "de": "Universit\u00e4t Konstanz", 
         "en": "University of Konstanz"
+    }, 
+    "afff6fc2daf7ea4e13f1ba4ab44c16dcf5678a83": {
+        "de": "Hochschule Kaiserslautern", 
+        "en": "University of Applied Science Kaiserslautern"
     }, 
     "b191ead5e90b859d31f3909c92afcbca5f52e46b": {
         "de": "Universit\u00e4t Passau", 
@@ -496,8 +636,8 @@
         "en": "University of Applied Sciences Munich (HM)"
     }, 
     "b449744abeb6ca5a71f5e20bb1db210bbcb30fa0": {
-        "de": "Alfred-Wegener-Institut f\u00fcr Polar- und Meeresforschung IdP", 
-        "en": "Alfred-Wegener-Institut f\u00fcr Polar- und Meeresforschung IdP"
+        "de": "Alfred-Wegener-Institut, Helmholtz-Zentrum f\u00fcr Polar- und Meeresforschung (AWI)", 
+        "en": "Alfred Wegener Institute, Helmholtz Centre for Polar and Marine Research (AWI)"
     }, 
     "b56df8d2bf11016c2903c1e1b2b2471fd0929dad": {
         "de": "Deutsches Krebsforschungszentrum (DKFZ)", 
@@ -511,9 +651,25 @@
         "de": "Technische Universit\u00e4t M\u00fcnchen (TUM)", 
         "en": "Technical University of Munich (TUM)"
     }, 
+    "b7be0ae7904627ec23261785340a7754f1978dd5": {
+        "de": "Max-Planck-Institut f\u00fcr Informatik", 
+        "en": "Max Planck Institute for Informatics"
+    }, 
+    "b8607e86ae023c6271ba4ce14de6e8d7c588661c": {
+        "de": "Deutsches Elektronen-Synchrotron DESY", 
+        "en": "Deutsches Elektronen-Synchrotron DESY"
+    }, 
     "be2c3f705d7acc79d001625539b703da424ba76a": {
         "de": "Albert-Ludwigs-Universit\u00e4t Freiburg", 
         "en": "Albert-Ludwigs-Universit\u00e4t Freiburg"
+    }, 
+    "c1b86635a05e43c7f9b888c9e56fc40e74efd3f6": {
+        "de": "Ernst-Abbe-Hochschule Jena", 
+        "en": "Ernst-Abbe-Hochschule Jena"
+    }, 
+    "c23b3882d18f52f48b2aa0f56dd1528b9ba9d8ad": {
+        "de": "Zeppelin Universit\u00e4t", 
+        "en": "Zeppelin University"
     }, 
     "c556cae865df243c78a4ce2fd94989d82005cffd": {
         "de": "Universit\u00e4t M\u00fcnchen (LMU)", 
@@ -531,6 +687,10 @@
         "de": "MPI fuer Biochemie", 
         "en": "MPI of Biochemistry"
     }, 
+    "c9bf6dff73dc84262a525e393ef7c69fb07f62d2": {
+        "de": "Universit\u00e4t Bayreuth", 
+        "en": "University of Bayreuth"
+    }, 
     "ca537a9a93a23188c632741d736264b47e3c3291": {
         "de": "TU Chemnitz", 
         "en": "TU Chemnitz"
@@ -546,10 +706,6 @@
     "cde49614010a113a82c557e5efeb26c9e2a8edd8": {
         "de": "Humboldt-Universit\u00e4t zu Berlin", 
         "en": "Humboldt-Universit\u00e4t zu Berlin"
-    }, 
-    "ce8e03cf529ff383b17c1ab9b11573cb8aa394f2": {
-        "de": "Hochschule Aschaffenburg IDP3", 
-        "en": "Hochschule Aschaffenburg IDP3 - University of Applied Sciences"
     }, 
     "cf00c56ffe7a31fd58c9ae62e5ecb0df279aea4b": {
         "de": "SLUB Dresden", 
@@ -579,21 +735,17 @@
         "de": "Universit\u00e4t des Saarlandes", 
         "en": "Saarland University"
     }, 
-    "d6a9b6f6e5d10f8dcb34f01c153560fd3c04fc86": {
-        "de": "(do not yet use) Hochschule Karlsruhe - Technik und Wirtschaft", 
-        "en": "(do not yet use) University of Applied Sciences Karlsruhe, Germany"
-    }, 
     "d88fe7722d496e6ce00645e8b2a7ff56c8b5e33f": {
         "de": "Hochschule f\u00fcr Musik Freiburg", 
         "en": "University of Music Freiburg"
     }, 
-    "d97dcc12601c6baf6ffdf95418f154170204bd17": {
-        "de": "Deutsches Elektronen-Synchrotron DESY", 
-        "en": "Deutsches Elektronen-Synchrotron DESY"
-    }, 
     "d9d5e25332a8272a02a6e6c93d88100f2a5c4c26": {
         "de": "Universit\u00e4t Stuttgart", 
-        "en": "Universit\u00e4t Stuttgart"
+        "en": "University of Stuttgart"
+    }, 
+    "da101b02ec5553f199b2a2e5c3ecd1d7074fb31c": {
+        "de": "Deutsches Schifffahrtsmuseum (DSM)", 
+        "en": "Deutsches Schifffahrtsmuseum (DSM)"
     }, 
     "da458f9b6790181e14fb4839e4ea83893d586952": {
         "de": "Hochschule Furtwangen", 
@@ -619,6 +771,10 @@
         "de": "Fraunhofer-Gesellschaft", 
         "en": "Fraunhofer-Gesellschaft"
     }, 
+    "e2f9501ca86fa75f40979049ad3f08274cb17a0e": {
+        "de": "PH Schw\u00e4bisch Gm\u00fcnd", 
+        "en": "University of Education Gmuend"
+    }, 
     "e6056d3882745dd76a6163e4c05fba9c5f372731": {
         "de": "Leibniz-Institut f\u00fcr Plasmaforschung und Technologie e.V.", 
         "en": "Leibniz Institute for Plasma Science and Technology"
@@ -626,6 +782,14 @@
     "e7ed33c2da0554ade36795ac1875fb516fd1bac5": {
         "de": "Gesellschaft f\u00fcr wissenschaftliche Datenverarbeitung mbH G\u00f6ttingen", 
         "en": "Gesellschaft f\u00fcr wissenschaftliche Datenverarbeitung mbH G\u00f6ttingen"
+    }, 
+    "e90c2397f5847932ceea1e7e607ce02a0df78b33": {
+        "de": "Universit\u00e4t zu L\u00fcbeck", 
+        "en": "University of Luebeck"
+    }, 
+    "e955340b628821b295aa480438b72bdcc5881f8c": {
+        "de": "Katholische Stiftungsfachhochschule M\u00fcnchen", 
+        "en": "Katholische Stiftungsfachhochschule M\u00fcnchen."
     }, 
     "ee710b553fdb8b3c040ffcc6da66c0f2630eccdd": {
         "de": "Hochschule Trier", 
@@ -643,6 +807,10 @@
         "de": "Leibniz-Rechenzentrum (LRZ)", 
         "en": "Leibniz Supercomputing Centre (LRZ)"
     }, 
+    "f4050fb8792620170c801de2b6f6869a05f177d1": {
+        "de": "Jade Hochschule", 
+        "en": "Jade Hochschule"
+    }, 
     "f55cf2d5e567e00a1492bd22c47e90b94a0ec3ba": {
         "de": "DFN-Verein Gesch\u00e4ftsstelle", 
         "en": "DFN Office"
@@ -654,6 +822,18 @@
     "f5abf64ed6a6aabb3323d58d7b8019cb7fb7430d": {
         "de": "THGA Bochum", 
         "en": "THGA Bochum"
+    }, 
+    "f5f1373f0c8fec65a2fc9b26b946cdba1946a52c": {
+        "de": "Hochschule f\u00fcr Angewandte Wissenschaften Hof", 
+        "en": "University of Applied Sciences Hof"
+    }, 
+    "f7eac9d4f9a1d051e1fcd139befe2a4f6e87da42": {
+        "de": "HfWU N\u00fcrtingen-Geislingen", 
+        "en": "HfWU Nuertingen-Geislingen"
+    }, 
+    "f8a93a999e3a0e445c5acdf5fa2f20eacdc6cbba": {
+        "de": "DFN AAI Integration + Test IdP", 
+        "en": "DFN AAI Integration + Test IdP"
     }, 
     "f9fd13fe84a4e2128ce0102b3c5aed4576d24c3c": {
         "de": "Universit\u00e4t Greifswald", 

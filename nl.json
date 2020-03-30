@@ -35,6 +35,10 @@
         "en": "Nikhef", 
         "nl": "Nikhef"
     }, 
+    "172f93721b1022995478b1fd145bb6694d4b2e2c": {
+        "en": "National Institute for Public Health and the Environment", 
+        "nl": "Rijksinstituut voor Volksgezondheid en Milieu"
+    }, 
     "1ab7b512cc4442fb6fe19a158b7de7d3799ab488": {
         "en": "EGI Foundation", 
         "nl": "EGI Foundation"
@@ -52,8 +56,8 @@
         "nl": "Open Juridische hogeschool, Netwerk Open Hogeschool Informatica, SchakelZone OJH NOHI"
     }, 
     "1e64320c27a6f96535a8deafdee50d9253b83850": {
-        "en": "Hogeschool INHOLLAND (new)", 
-        "nl": "Hogeschool INHOLLAND (nieuw)"
+        "en": "Hogeschool INHOLLAND", 
+        "nl": "Hogeschool INHOLLAND"
     }, 
     "1e6a1227398b72b7d615b067ed2fc7c522e1ab1e": {
         "en": "Leiden University", 
@@ -66,14 +70,6 @@
     "1fb5b3c2c8a541525d2da732c0969e441c9f89f4": {
         "en": "Rathenau Institute (KNAW)", 
         "nl": "Rathenau Instituut (KNAW)"
-    }, 
-    "1fe27e861886263bf04c2a4b01d2a0fca1c6864a": {
-        "en": "Clusius College", 
-        "nl": "Clusius College"
-    }, 
-    "24ecd25a9db6ae233d7b546cb2daf79d4de6b19a": {
-        "en": "FOM-bureau", 
-        "nl": "FOM-bureau"
     }, 
     "25262fb42b940f45e3078995266c00732e7df190": {
         "en": "Fontys University of Applied Sciences", 
@@ -107,9 +103,9 @@
         "en": "Radboud University", 
         "nl": "Radboud Universiteit"
     }, 
-    "324762450e8ae3034664c727acb8ecba7ccc76d3": {
-        "en": "University of Humanistic Studies", 
-        "nl": "Universiteit voor Humanistiek"
+    "33203ab51dcbe321fa4bcdc8878ce8ed5315b719": {
+        "en": "Clusius College", 
+        "nl": "Clusius College"
     }, 
     "3336e754881c2350e257c7d6bafd13918b96c56a": {
         "en": "ZonMw", 
@@ -135,6 +131,10 @@
         "en": "AMOLF", 
         "nl": "AMOLF"
     }, 
+    "3e076816c9924312ee91d9f0c04e24fd1370fe95": {
+        "en": "Max Planck Institute for Psycholinguistics", 
+        "nl": "Max Planck Instituut voor Psycholinguistiek"
+    }, 
     "3e479a40d2ba3584a2e6a07f43f20b6819af1528": {
         "en": "Digital Humanities HumanitiesCluster (KNAW)", 
         "nl": "Digital Humanities HumanitiesCluster (KNAW)"
@@ -142,10 +142,6 @@
     "3fb00090cfdbd59b9982907b15933b71ef7fb5ea": {
         "en": "Hubrecht Institute & Westerdijk Fungal Biodiversity Institute (KNAW)", 
         "nl": "Hubrecht Institute & Westerdijk Fungal Biodiversity Institute (KNAW)"
-    }, 
-    "3fda7343b98a83a6fde72b59bdaf56d5cdebe7e1": {
-        "en": "NWO", 
-        "nl": "NWO"
     }, 
     "4325794a7b3f6357fb3b438ca2c6b13a03fb664f": {
         "en": "Koninklijk Nederlands Instituut voor Onderzoek der Zee (NIOZ)", 
@@ -158,10 +154,6 @@
     "4833b892d2f75d3f878fc3b0c82e2ea70d6e1c0a": {
         "en": "SintLucas", 
         "nl": "SintLucas"
-    }, 
-    "494cdaf2bc78847402b40fdcfc1b6021ac123b4d": {
-        "en": "Erasmus University Rotterdam", 
-        "nl": "Erasmus Universiteit Rotterdam"
     }, 
     "4bf3b1cf21e14c7815edecd3893b0d4dc34272f8": {
         "en": "ROC Aventus", 
@@ -188,20 +180,20 @@
         "nl": "Nederlands Instituut voor Ecologie NIOO (KNAW)"
     }, 
     "50ef41bb23cfce2d5ac8c5507440f977c06fafd7": {
-        "en": "SURFmarket (new)", 
-        "nl": "SURFmarket (nieuw)"
+        "en": "SURFmarket", 
+        "nl": "SURFmarket"
     }, 
     "51678ae1e544b76b1b3e298a7e8b66241acfcb01": {
         "en": "Open Universiteit", 
         "nl": "Open Universiteit"
     }, 
-    "53350e095c3ece6ee764a124fd1379b034371bef": {
-        "en": "Inholland University of Applied Sciences", 
-        "nl": "Hogeschool Inholland"
-    }, 
     "58f086da4d7c090533854c4b554c4e5f2a01e6ef": {
         "en": "MBO Utrecht", 
         "nl": "MBO Utrecht"
+    }, 
+    "58f44eb4100a4c6520f2631ae2f6002131d23649": {
+        "en": "Netherlands eScience Center", 
+        "nl": "Netherlands eScience Center"
     }, 
     "590e7a971535212047e0e818eff623cbb90487e4": {
         "en": "Deltion College", 
@@ -246,10 +238,6 @@
     "717c2b105cb420aab4d02dc2f998e45da3e1c2fe": {
         "en": "HZ University of Applied Sciences", 
         "nl": "HZ University of Applied Sciences"
-    }, 
-    "759a1da70fc48db4d2e4045117ba2c13589010ba": {
-        "en": "ROC Nijmegen", 
-        "nl": "ROC Nijmegen"
     }, 
     "7665617eb3a6b0c41f992aacf1e43c48a29031fe": {
         "en": "Eindhoven University of Technology", 
@@ -304,8 +292,8 @@
         "nl": "De Haagse Hogeschool (HHS)"
     }, 
     "9399c60e2ce9b0800605ccb328525d95db914f30": {
-        "en": "SURF", 
-        "nl": "SURF"
+        "en": "SURF-bureau", 
+        "nl": "SURF-bureau"
     }, 
     "9601dd87ccbed673ad79e6efdd3266d9241c05af": {
         "en": "Royal Academy of Art", 
@@ -339,10 +327,6 @@
         "en": "University of Twente", 
         "nl": "Universiteit Twente"
     }, 
-    "9f27813ce2a13bf7a7101d7b744bcbf2074f21e8": {
-        "en": "Hogeschool Utrecht", 
-        "nl": "Hogeschool Utrecht"
-    }, 
     "9f38fbc4b61c8f266efeecdbf2efa61d5c273d5e": {
         "en": "Naturalis Biodiversity Center", 
         "nl": "Naturalis Biodiversity Center"
@@ -367,13 +351,9 @@
         "en": "ROC Midden Nederland", 
         "nl": "ROC Midden Nederland"
     }, 
-    "abbc11e179e62c7f29143b4ac4522f28df8ce0d1": {
-        "en": "Design Academy Eindhoven", 
-        "nl": "Design Academy Eindhoven"
-    }, 
     "ac67893e1775c4afe9e604fd7c3ebd642d0f7ac0": {
-        "en": "Has Hogeschool", 
-        "nl": "Has Hogeschool"
+        "en": "HAS Hogeschool", 
+        "nl": "HAS Hogeschool"
     }, 
     "ad4e461d2f0f3c36bd907cc087e0568c2a133475": {
         "en": "IHE Delft Institute for Water Education", 
@@ -388,8 +368,8 @@
         "nl": "Spinoza Centrum voor Neuroimaging (KNAW)"
     }, 
     "b1a946f0fdd831881934bd65fc72474406ac7ee0": {
-        "en": "Zeeuwse Bibliotheek", 
-        "nl": "Zeeuwse Bibliotheek"
+        "en": "ZB Planbureau en bibliotheek van Zeeland", 
+        "nl": "ZB Planbureau en bibliotheek van Zeeland"
     }, 
     "b1d5f96052d60524ae0b2f89b1692bc3dbe228b1": {
         "en": "Leidse Onderwijsinstellingen", 
@@ -412,20 +392,24 @@
         "nl": "Koninklijke Bibliotheek"
     }, 
     "b54275d830ea04b3f3cbcbcbc8cfd15cb2f7eb15": {
-        "en": "Zuyd Hogeschool", 
-        "nl": "Zuyd Hogeschool"
+        "en": "Zuyd Hogeschool (old)", 
+        "nl": "Zuyd Hogeschool (oud)"
     }, 
     "b5e8f888cfa2395c04d2e36722089988fda6abd6": {
         "en": "University of Groningen", 
         "nl": "Rijksuniversiteit Groningen"
+    }, 
+    "b6de89c397c4cd83b7c59e8ad98944a7e5917e63": {
+        "en": "Nederlands instituut voor onderzoek van de gezondheidszorg (NIVEL)", 
+        "nl": "Nederlands instituut voor onderzoek van de gezondheidszorg (NIVEL)"
     }, 
     "b7c6ecd229b5b0cad5e355cd690d5e0abd367309": {
         "en": "SURFsara", 
         "nl": "SURFsara"
     }, 
     "b7d09f9f2392698df89808c75e267dd1488d771c": {
-        "en": "Nuffic", 
-        "nl": "Nuffic"
+        "en": "Stichting Nuffic", 
+        "nl": "Stichting Nuffic"
     }, 
     "b7efc8cb051baef2e403c0b02959a9cf51e64510": {
         "en": "NHTV Breda University of Applied Sciences", 
@@ -471,21 +455,37 @@
         "en": "Netherlands Interdisciplinary Demographic Institute (KNAW)", 
         "nl": "Nederlands Interdisciplinair Demografisch Instituut (KNAW)"
     }, 
+    "c94cae987643a227de40b6ea2f46a6bc85ed0a37": {
+        "en": "ROC Nijmegen", 
+        "nl": "ROC Nijmegen"
+    }, 
     "caa4034d3784cd10ec72b9c7cf290ed5ed759f1c": {
         "en": "G\u00c9ANT Staff Identity Provider", 
         "nl": "G\u00c9ANT Staff Identity Provider"
     }, 
-    "ce749a5908bd3618bedb75a08ccf374261a31ade": {
-        "en": "SURFmarket", 
-        "nl": "SURFmarket"
+    "cb38f9f8d380d430a45e4148013c8d05011fba9a": {
+        "en": "Erasmus University Rotterdam", 
+        "nl": "Erasmus Universiteit Rotterdam"
+    }, 
+    "cd8fc1fcac6f018335fa341218ada39f62bb6012": {
+        "en": "SOMT University (Stichting Opleidingen Musculoskeletale Therapie)", 
+        "nl": "SOMT University (Stichting Opleidingen Musculoskeletale Therapie)"
     }, 
     "d02f15fddbd32fdc149d3564d278e8964672d065": {
         "en": "Maastricht School of Management", 
         "nl": "Maastricht School of Management"
     }, 
+    "d15416db3ea00d254a412b1262369a4bd4e76e67": {
+        "en": "Design Academy Eindhoven", 
+        "nl": "Design Academy Eindhoven"
+    }, 
     "d160dd8199477096885759da7e07f11cac87d731": {
         "en": "University of Applied Sciences Leiden", 
         "nl": "Hogeschool Leiden"
+    }, 
+    "d29d21bb2a1249c63c8d7fe902fe0f44143c75a6": {
+        "en": "Thomas More Hogeschool", 
+        "nl": "Thomas More Hogeschool"
     }, 
     "d443b095563aa2b1c5bcf1730422b3c247f3f9f0": {
         "en": "Internationaal Instituut voor Sociale Geschiedenis (KNAW)", 
@@ -501,15 +501,19 @@
     }, 
     "d974854f3119871ca8a6588047164d7219c50211": {
         "en": "HAN University of Applied Sciences", 
-        "nl": "Hogeschool van Arnhem en Nijmegen"
+        "nl": "HAN University of Applied Sciences"
     }, 
     "dd9874fe61e87c82fb1daeab63165a4a389a8cca": {
-        "en": "M\u00e1xima Medisch Centrum", 
-        "nl": "M\u00e1xima Medisch Centrum"
+        "en": "M\u00e1xima MC", 
+        "nl": "M\u00e1xima MC"
     }, 
     "ddd8c34a270a6ec5f91af3fc82d743ecb18ec138": {
         "en": "Trimbos Instituut", 
         "nl": "Trimbos Instituut"
+    }, 
+    "e002b02d0a38d7271472c63a29dbb2ade7c3521f": {
+        "en": "Lentiz Onderwijsgroep", 
+        "nl": "Lentiz Onderwijsgroep"
     }, 
     "e05d29eb4ac2948089ce1c0b206550f1b9e16dcc": {
         "en": "Centrum Wiskunde & Informatica", 
@@ -527,7 +531,7 @@
         "en": "Delft University of Technology", 
         "nl": "Technische Universiteit Delft"
     }, 
-    "e4d32de77b7b1389107a34e7e9005e3bd49a09a6": {
+    "e6e6407b9384401b571ac50428a0ee77292acdab": {
         "en": "KNMI", 
         "nl": "KNMI"
     }, 
@@ -547,6 +551,10 @@
         "en": "Amsterdam University of the Arts", 
         "nl": "Amsterdamse Hogeschool voor de Kunsten"
     }, 
+    "ecf58424b1ab9ef5bf798534ca9189132077e2b4": {
+        "en": "Hogeschool Utrecht", 
+        "nl": "Hogeschool Utrecht"
+    }, 
     "ed92ad43f783d70678b9c405edcd6b802ec05e0d": {
         "en": "Summa College", 
         "nl": "Summa College"
@@ -554,10 +562,6 @@
     "eefc5360a7a0fb2df0fa4236af1a3a6f8cde196f": {
         "en": "Nuclear Research and Consultancy Group", 
         "nl": "Nuclear Research and Consultancy Group"
-    }, 
-    "efcd8f8a52c5e759531863e506b26c765fa59bc6": {
-        "en": "Hubrecht Institute (KNAW)", 
-        "nl": "Hubrecht Institute (KNAW)"
     }, 
     "f50d1f9b1ca599b5c99920c35d98082ff4c8f967": {
         "en": "Netherlands Institute for Advanced Study in the Humanities and Social Sciences (KNAW)", 
@@ -571,12 +575,12 @@
         "en": "Windesheim University of Applied Sciences", 
         "nl": "Hogeschool Windesheim"
     }, 
-    "f9918750071c968024b36d141d99be7b86a9d13a": {
-        "en": "National Institute for Public Health and the Environment", 
-        "nl": "Rijksinstituut voor Volksgezondheid en Milieu"
-    }, 
     "fd1ae264d0ad04edaafe5198eb509b094ccee22e": {
         "en": "ASTRON", 
         "nl": "ASTRON"
+    }, 
+    "fedb08d89b392e919185e5b171fd137e303848b7": {
+        "en": "Zuyd Hogeschool", 
+        "nl": "Zuyd Hogeschool"
     }
 }

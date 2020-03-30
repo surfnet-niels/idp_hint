@@ -15,9 +15,21 @@
         "en": "Chiba Institute of Technology", 
         "ja": "\u5343\u8449\u5de5\u696d\u5927\u5b66"
     }, 
+    "396e920a9d077ad804655c7e969223fc46a5ff91": {
+        "en": "Tokyo Metropolitan Institute of Medical Science", 
+        "ja": "\u6771\u4eac\u90fd\u533b\u5b66\u7dcf\u5408\u7814\u7a76\u6240"
+    }, 
     "49b9da81fd5fa408e3b0dd941933b064c6f2827b": {
         "en": "GakuNin IdP", 
         "ja": "\u5b66\u8a8dIdP"
+    }, 
+    "4d7a597cdb8aeadf444d8a161a9257f67d2ee7ee": {
+        "en": "Kyoto Prefectural University of Medicine", 
+        "ja": "\u4eac\u90fd\u5e9c\u7acb\u533b\u79d1\u5927\u5b66"
+    }, 
+    "50b9a4cdad65644f3d5d57698c0840a798b240a2": {
+        "en": "Asahi University", 
+        "ja": "\u671d\u65e5\u5927\u5b66"
     }, 
     "599c1b30ee71f662364ed261121bf116233494b2": {
         "en": "Keio University", 
@@ -42,6 +54,10 @@
     "6c08e8a92eb34a329139a0d6ace7327f999d89e1": {
         "en": "Shibaura Institute of Technology", 
         "ja": "\u829d\u6d66\u5de5\u696d\u5927\u5b66"
+    }, 
+    "860f03a8cb4d8e943d6137f3d251f1bbf25239e4": {
+        "en": "Fukuoka Institute of Technology", 
+        "ja": "\u798f\u5ca1\u5de5\u696d\u5927\u5b66"
     }, 
     "8a41ed433018f6373f05aca62b32566648a573fd": {
         "en": "Sapporo Gakuin University", 
@@ -71,21 +87,41 @@
         "en": "Okinawa International University", 
         "ja": "\u6c96\u7e04\u56fd\u969b\u5927\u5b66"
     }, 
+    "a8ebe96a43e05e62a04dcdd4a2e73f09d77e9a83": {
+        "en": "SHIGA UNIVERSITY", 
+        "ja": "\u6ecb\u8cc0\u5927\u5b66"
+    }, 
+    "abcd2fb214fb892698af75e020cd6c0124fdf936": {
+        "en": "Tokyo University of Foreign Studies", 
+        "ja": "\u6771\u4eac\u5916\u56fd\u8a9e\u5927\u5b66"
+    }, 
     "aee2411925142e26ebaedf4d9ce85446ff06be1a": {
         "en": "Yamagata University", 
         "ja": "\u5c71\u5f62\u5927\u5b66"
     }, 
-    "bf5a96e2f21f7791c504b7b22b8b9fb5fc454038": {
-        "en": "National Institute of Technology,Ibaraki College", 
-        "ja": "\u8328\u57ce\u5de5\u696d\u9ad8\u7b49\u5c02\u9580\u5b66\u6821"
+    "b4b624de6fa807a32b14bcdb0c3c1f23d46c3eae": {
+        "en": "Otaru University of Commerce", 
+        "ja": "\u2f29\u6a3d\u5546\u79d1\u2f24\u5b66"
+    }, 
+    "c24878218fd7873becb1ef44c68b513c69d168e5": {
+        "en": "KAGRA", 
+        "ja": "KAGRA"
     }, 
     "d085575e1ba3134d5d871371b8f8a8b6f22f2c9d": {
         "en": "Kochi University of Technology", 
         "ja": "\u9ad8\u77e5\u5de5\u79d1\u5927\u5b66"
     }, 
+    "ec5efd12b808e1e4c831890bb417e7dbcd2386a1": {
+        "en": "Waseda University", 
+        "ja": "\u65e9\u7a32\u7530\u5927\u5b66"
+    }, 
     "f39b434aecfe30d713ecfec70c94ce53de7e5c9a": {
         "en": "Kurume Institute of Technology", 
         "ja": "\u4e45\u7559\u7c73\u5de5\u696d\u5927\u5b66"
+    }, 
+    "f3e4c2af7248d30a547f36861791613e68f9c7a7": {
+        "en": "Meiji Pharmaceutical University", 
+        "ja": "\u660e\u6cbb\u85ac\u79d1\u5927\u5b66"
     }, 
     "f569cf1816aca3bf650310343d55bba03539f127": {
         "en": "Tokyo Ariake University of Medical and Health Sciences", 

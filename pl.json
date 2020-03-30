@@ -15,6 +15,10 @@
         "en": "University of Science and Technology in Bydgoszcz", 
         "pl": "Uniwersytet Technologiczno-Przyrodniczy w Bydgoszczy"
     }, 
+    "480540b08910e258ae0acf9d11ac04e96ed7f927": {
+        "en": "Jagiellonian University in Krak\u00f3w", 
+        "pl": "Uniwersytet Jagiello\u0144ski w Krakowie"
+    }, 
     "4d2819f461dc74e59d3f8d54a024a174d107c5e0": {
         "en": "PSNC - Poznan Supercomputing and Networking Center", 
         "pl": "PCSS - Pozna\u0144skie Centrum Superkomputerowo-Sieciowe"
@@ -37,6 +41,10 @@
     "7f10a3ef517cf557d303b8022b40111c268e3a60": {
         "en": "Nicolaus Copernicus University in Torun", 
         "pl": "Uniwersytet Miko\u0142aja Kopernika w Toruniu"
+    }, 
+    "8e59511486579039eb7463e4bbfcc7aebe7b28c5": {
+        "en": "University of Wroclaw", 
+        "pl": "Uniwersytet Wroc\u0142awski"
     }, 
     "90c4b953f8af7f26eaeee0d3a67d12a5ba42aedf": {
         "en": "Lodz University of Technology", 

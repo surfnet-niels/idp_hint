@@ -8,8 +8,14 @@
     "102b02e4984a85ebb04c11a6b590ca5e218068b3": {
         "en": "Holland College"
     }, 
+    "14558c6e8f041deb9bd5f1d397eb11b2041c99ab": {
+        "en": "Langara College"
+    }, 
     "181f47988f5019b0c16be80a3f03a3558f2f26da": {
         "en": "Thompson Rivers University"
+    }, 
+    "21945dc111120263c3eb88151fb7aa7d58be81d3": {
+        "en": "College of the Rockies"
     }, 
     "22f47254950c65028660baaf5913da7e65fe9ea1": {
         "en": "Tele-Universite (TELUQ) (du Quebec)"
@@ -33,8 +39,15 @@
     "3572780a6580908187fecb276f89f5706cf64008": {
         "en": "University of New Brunswick"
     }, 
+    "3804148ac2367a5e3c9ea8a6af0f21447df3269b": {
+        "en": "University of Manitoba"
+    }, 
     "38af542868d0d7fc06d5d76b0253a9c5228b8229": {
         "en": "Carleton University"
+    }, 
+    "397ae542ba411e2d90611fffd93e9f79f478b0d7": {
+        "en": "Universit\u00e9 du Qu\u00e9bec en Abitibi-T\u00e9miscamingue", 
+        "fr": "Universit\u00e9 du Qu\u00e9bec en Abitibi-T\u00e9miscamingue"
     }, 
     "3f6b3ebf100d127736e8fe5c695351f5f540f306": {
         "en": "University of British Columbia"
@@ -76,9 +89,6 @@
     "5cda5ff45d646ad5b05c0eab2688d2e0057aa61a": {
         "en": "CANARIE"
     }, 
-    "6181d158f951137ad2d3b051993583942bc57c8f": {
-        "en": "University of Manitoba"
-    }, 
     "646571848d79912579c7399e11666abc2b256cdf": {
         "en": "Niagara College Canada"
     }, 
@@ -89,6 +99,10 @@
     "68e65ff2b107249b708cd8df1301e9a48d063abf": {
         "en": "Simon Fraser University"
     }, 
+    "6cad1b996b64fdb14bd365e5fe2dc0b0c698517f": {
+        "en": "Universit\u00e9 du Qu\u00e9bec \u00e0 Rimouski (UQAR)", 
+        "fr": "Universit\u00e9 du Qu\u00e9bec \u00e0 Rimouski (UQAR)"
+    }, 
     "726a17714ab6e4aa5e1d4cec415569ad6d69f665": {
         "en": "University of Quebec at Trois-Rivieres", 
         "fr": "Universit\u00e9 du Qu\u00e9bec \u00e0 Trois-Rivi\u00e8res"
@@ -96,6 +110,10 @@
     "7413a8bc311ba96ec7e693ae4b698828660b8a34": {
         "en": "La Cit\u00e9", 
         "fr": "La Cit\u00e9"
+    }, 
+    "7a9cafe3681fcd32ff41ec441f877cf3e73f9781": {
+        "en": "HEC Montreal", 
+        "fr": "HEC Montreal"
     }, 
     "7af75d2d41f70692130b926d5fcfe39d251d55ff": {
         "en": "Queen's University"
@@ -107,6 +125,9 @@
         "en": "McGill University", 
         "fr": "Universit\u00e9 McGill"
     }, 
+    "8493f2bba24ece13bb8323983d341ef038d97130": {
+        "en": "Mohawk College of Applied Arts and Technology"
+    }, 
     "8c8415d92678fa250621b59ebce0da58bd744654": {
         "en": "Universit\u00e9 du Qu\u00e9bec en Outaouais", 
         "fr": "Universit\u00e9 du Qu\u00e9bec en Outaouais"
@@ -114,9 +135,12 @@
     "91864a0c16b8073e41d1d7f521285e1869d3d2b7": {
         "en": "ACORN NS"
     }, 
+    "92a93b6c3dba3f3073d276a57eb29a124cb07809": {
+        "en": "Universit\u00e9 T\u00c9LUQ"
+    }, 
     "930746a7a3b9c85bfc572a258df60d62fadee084": {
-        "en": "\u00c9cole Polytechnique de Montr\u00e9al", 
-        "fr": "\u00c9cole Polytechnique de Montr\u00e9al"
+        "en": "Polytechnique Montr\u00e9al - CAS", 
+        "fr": "Polytechnique Montr\u00e9al - CAS"
     }, 
     "939a44ba0311473b62fef6b9b47d9b03f5027b03": {
         "en": "University of Alberta"
@@ -128,8 +152,17 @@
     "9a4c6e5fe29fb69cb19dc2576d11fb60e46a6544": {
         "en": "University of Waterloo"
     }, 
+    "9a8356c9daf15ce2f4ec644bc48c2d4bb075b207": {
+        "en": "MacEwan University"
+    }, 
     "9b81da3f8824426e040d8a78dc8da15ef3f5d8fa": {
         "en": "St. Thomas University"
+    }, 
+    "a51050a4efa50180d42ab16ac839f7cc3c5647d5": {
+        "en": "Capilano University"
+    }, 
+    "a58abafc671cfe407ffe393f1b4f92d3b2162df7": {
+        "en": "Institut national de la recherche scientifique (INRS - Universite du Quebec)"
     }, 
     "b07dfe47f4ac5cf08f7c0e89c53fae0561c72f92": {
         "en": "Concordia University of Edmonton"
@@ -165,6 +198,10 @@
         "en": "Compute Canada", 
         "fr": "Calcul Canada"
     }, 
+    "ca6717974db3d7c06c651cc865b297825010b860": {
+        "en": "Concordia University - BCI", 
+        "fr": "Universit\u00e9 Concordia - BCI"
+    }, 
     "cc962b4b2c133f367945e7d58cf9a380dc58c4b8": {
         "en": "Laurentian University"
     }, 
@@ -174,10 +211,6 @@
     }, 
     "e0059a4ecccbd6a2a41b743cb0231f334777e9de": {
         "en": "Ryerson University"
-    }, 
-    "e134e55981a86fbdb9ff1803b3b0774e00f5cd0f": {
-        "en": "HEC Montr\u00e9al", 
-        "fr": "HEC Montr\u00e9al"
     }, 
     "e1e893233dec5dcfc1b1897e69ae2549a70e8f78": {
         "en": "McMaster University"
@@ -190,8 +223,12 @@
         "en": "Sheridan College"
     }, 
     "e81d040228ff859c731e88460e6bfc5e08c62432": {
-        "en": "Bishop&#039;s University", 
-        "fr": "Universit\u00e9 Bishop&#039;s"
+        "en": "Bishops University", 
+        "fr": "Universit\u00e9 Bishops"
+    }, 
+    "eb7f03b312bccc5576a583d408323923980386e8": {
+        "en": "\u00c9cole nationale d'administration publique", 
+        "fr": "\u00c9cole nationale d'administration publique"
     }, 
     "ec6dd20af20d47166579d1ac64b9b044860ca325": {
         "en": "Cybera", 

@@ -31,12 +31,19 @@
         "en": "Hainaut-PromSoc", 
         "fr": "Hainaut-PromSoc"
     }, 
+    "8c98f0ec804a3bb8cb0b8d3576f3ce481be7acbf": {
+        "en": "Haute Ecole en Hainaut"
+    }, 
     "9688cbb6dd0b4641a42e85d89f2ac87b8ee61753": {
         "en": "Enseignement Secondaire de la Province de Hainaut (eduHainaut)", 
         "fr": "Enseignement Secondaire de la Province de Hainaut (eduHainaut)"
     }, 
     "9b636c3c664df96755a411ac1f6d6e51706866b2": {
         "en": "Belnet"
+    }, 
+    "9e6251258ca7f3e5b4b5cc6d07653c5e74595f24": {
+        "en": "University of Mons (UMONS)", 
+        "fr": "Universite de Mons (UMONS)"
     }, 
     "ab27f4b85570cb4cadad16be94e2a7006dbdc65a": {
         "en": "University of Liege - ULG", 
@@ -52,15 +59,18 @@
     "cde249b90a700ea9d3deca4988c02a681048b2db": {
         "en": "VIB"
     }, 
+    "d5fa5196ae0fe5ac054f69ea457b343584d8a8fe": {
+        "en": "Universite Saint-Louis - Bruxelles", 
+        "fr": "Universite Saint-Louis - Bruxelles"
+    }, 
     "e38bc446feb3480e6bfff4767e374e0ade9f8b9b": {
         "en": "Hogent"
     }, 
+    "e6b6ad5fc7835c64690c6e109f22d6c37d56052e": {
+        "en": "Flanders Marine Institute (VLIZ)"
+    }, 
     "e7b9826ed0722ea3339071c1451b14874e35fde0": {
         "en": "Hogeschool West-Vlaanderen"
-    }, 
-    "f6e1eca35af9af0854155db349e1a092abf6f034": {
-        "en": "University of Mons (UMONS)", 
-        "fr": "Universite de Mons (UMONS)"
     }, 
     "fdb14e60cd120f40bb0d651c2fb9e70122c840cb": {
         "en": "HEPH-Condorcet", 

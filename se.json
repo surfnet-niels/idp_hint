@@ -28,8 +28,8 @@
         "sv": "F\u00f6rsvarsh\u00f6gskolan"
     }, 
     "2f260e8b792a91db581bb3833731ade6773c56e9": {
-        "en": "SUNET Employees", 
-        "sv": "SUNET Anst\u00e4llda"
+        "en": "SUNET", 
+        "sv": "SUNET"
     }, 
     "2f83c56d2cb0d8d8619b57f40b1b8abe7fa5885e": {
         "en": "M\u00e4lardalen University", 
@@ -67,6 +67,10 @@
         "en": "Karlstad University", 
         "sv": "Karlstads universitet"
     }, 
+    "6da16d5fd9477fd053ea59abba46b14c5f6f1d92": {
+        "en": "SMHI", 
+        "sv": "SMHI"
+    }, 
     "717bc1a2e4a094c9ebe6db60add698a1979451f7": {
         "en": "Ersta Sk\u00f6ndal University College", 
         "sv": "Ersta Sk\u00f6ndal H\u00f6gskola"
@@ -78,6 +82,10 @@
     "8af9cc7876688e5ed6cf9e91248edb95c798adc1": {
         "en": "Mid Sweden University", 
         "sv": "Mittuniversitetet"
+    }, 
+    "957ff4e597a0df45b3f2061c0c9ffa99b1be8e04": {
+        "en": "University West", 
+        "sv": "H\u00f6gskolan V\u00e4st"
     }, 
     "a4fdcec05e1332f67fbd004873f8f7f7ab84ba1e": {
         "en": "Swedish University of Agricultural Science", 
@@ -108,8 +116,8 @@
         "sv": "Naturhistoriska riksmuseet"
     }, 
     "b330d17272594bb14f3780073eeb77e832873039": {
-        "en": "eduID", 
-        "sv": "eduID"
+        "en": "eduID Sweden", 
+        "sv": "eduID Sverige"
     }, 
     "b42d710c65e8309042866363f7a9d3cbbea49dd7": {
         "en": "Link\u00f6ping University", 
@@ -142,10 +150,6 @@
     "d3f167be21a5aede5077dfdc380620a69aae8be9": {
         "en": "Royal Institute of Art", 
         "sv": "Kungl. Konsth\u00f6gskolan"
-    }, 
-    "d4e02dc5334ec0f8abd6f5a4ba9d1fe3d123033b": {
-        "en": "University West new", 
-        "sv": "H\u00f6gskolan V\u00e4st ny"
     }, 
     "d7ccfccd6e0c36959010c46643b9352c246c2995": {
         "en": "Uppsala University", 
