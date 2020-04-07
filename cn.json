@@ -243,6 +243,10 @@
         "en": "South China University of Technology", 
         "zh": "\u534e\u5357\u7406\u5de5\u5927\u5b66(South China University of Technology)"
     }, 
+    "302ca110e9b7e4c484eae5b9c6569f5e2893c376": {
+        "en": "Beijing University of Posts and Telecommunications", 
+        "zh": "\u5317\u4eac\u90ae\u7535\u5927\u5b66(Beijing University of Posts and Telecommunications)"
+    }, 
     "30e4729faf6238d0f2091b521abc14e27c37fd0c": {
         "en": "Anhui Business and Technology College", 
         "zh": "\u5b89\u5fbd\u5de5\u5546\u804c\u4e1a\u5b66\u9662(Anhui Business and Technology College)"
@@ -278,6 +282,10 @@
     "34b19c8a15613b564db3c9be9342c0aca24ac2f1": {
         "en": "Sichuan University", 
         "zh": "\u56db\u5ddd\u5927\u5b66(Sichuan University)"
+    }, 
+    "36c0cb67574ecd69fc7dcc7c6e55ca27a86c66fd": {
+        "en": "Zhejiang Wanli University", 
+        "zh": "\u6d59\u6c5f\u4e07\u91cc\u5b66\u9662(Zhejiang Wanli University)"
     }, 
     "36d99bf4aba97f58780c1cbb89055aef240dc86b": {
         "en": "ZhengZhouShengDaUniversity Of Economics Business Management", 
@@ -347,6 +355,10 @@
         "en": "Wuhan Polytechnic", 
         "zh": "\u6b66\u6c49\u804c\u4e1a\u6280\u672f\u5b66\u9662(Wuhan Polytechnic)"
     }, 
+    "4187d2e0f4395eeb2be10ab3a348983d677e0205": {
+        "en": "Sichuan Agricultural University", 
+        "zh": "\u56db\u5ddd\u519c\u4e1a\u5927\u5b66(Sichuan Agricultural University)"
+    }, 
     "418994b78c2f8ab9dfb0c7b07ff407a1188b9127": {
         "en": "Huaqiao University", 
         "zh": "\u534e\u4fa8\u5927\u5b66(Huaqiao University)"
@@ -402,6 +414,10 @@
     "48da0a49997e3fb21b88294c8192aed54b9998b9": {
         "en": "Changchun Automobile Industry Institute", 
         "zh": "\u957f\u6625\u6c7d\u8f66\u5de5\u4e1a\u9ad8\u7b49\u4e13\u79d1\u5b66\u6821(Changchun Automobile Industry Institute)"
+    }, 
+    "48e457968bc2a6c38a55beac6c888d628e38a6b7": {
+        "en": "Gansu Agricultural University", 
+        "zh": "\u7518\u8083\u519c\u4e1a\u5927\u5b66(Gansu Agricultural University)"
     }, 
     "4996e2d398a55781068b58e643ab8e682747f3f8": {
         "en": "Zhengzhou University of Light Industry", 
@@ -739,6 +755,10 @@
         "en": "Harbin Engineering University", 
         "zh": "\u54c8\u5c14\u6ee8\u5de5\u7a0b\u5927\u5b66(Harbin Engineering University)"
     }, 
+    "891486051ed40586e51afced9b24b490f6003961": {
+        "en": "Xiangtan University", 
+        "zh": "\u6e58\u6f6d\u5927\u5b66(Xiangtan University)"
+    }, 
     "8e7e184bfc5a958bb3bfb3bc798a08dd3355b215": {
         "en": "Hunan Normal University", 
         "zh": "\u6e56\u5357\u5e08\u8303\u5927\u5b66(Hunan Normal University)"
@@ -842,6 +862,10 @@
     "a347c153e9b7fb31a1c1889cbeec9e6eb72f0d01": {
         "en": "CADAL", 
         "zh": "\u5927\u5b66\u6570\u5b57\u56fe\u4e66\u9986\u56fd\u9645\u5408\u4f5c\u8ba1\u5212(CADAL)"
+    }, 
+    "a7627a95ef2521a966fcde92f9ee7c70ec292620": {
+        "en": "Harbin University of Science and Technology", 
+        "zh": "\u54c8\u5c14\u6ee8\u7406\u5de5\u5927\u5b66(Harbin University of Science and Technology)"
     }, 
     "a7ccbb7781b60986fab11dc4e73220fd2d005b81": {
         "en": "Qufu Normal University", 
@@ -995,6 +1019,10 @@
         "en": "Jinzhou Medical University", 
         "zh": "\u9526\u5dde\u533b\u79d1\u5927\u5b66(Jinzhou Medical University)"
     }, 
+    "bb4c502c5c41d103df980cc3f6d2e22f583df3f7": {
+        "en": "Anhui Vocational And Technical College", 
+        "zh": "\u5b89\u5fbd\u804c\u4e1a\u6280\u672f\u5b66\u9662(Anhui Vocational And Technical College)"
+    }, 
     "bb9620fe085fa997d8b0347ae3def57d3ee03f90": {
         "en": "Liaoning University of Technology", 
         "zh": "\u8fbd\u5b81\u5de5\u4e1a\u5927\u5b66(Liaoning University of Technology)"
@@ -1064,8 +1092,8 @@
         "zh": "\u6d77\u519b\u519b\u533b\u5927\u5b66(The Second Military Medical University)"
     }, 
     "c624b6992f5f91e94a931c82209677d49e2784ea": {
-        "en": "Beijing  University  of Technology", 
-        "zh": "\u5317\u4eac\u5de5\u4e1a\u5927\u5b66(Beijing  University  of Technology)"
+        "en": "Beijing University of Technology", 
+        "zh": "\u5317\u4eac\u5de5\u4e1a\u5927\u5b66(Beijing University of Technology)"
     }, 
     "c7308b10d954f10627b298f5e6fd2c272bb40cf1": {
         "en": "Northeast Forestry University", 
