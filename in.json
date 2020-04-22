@@ -23,8 +23,11 @@
     "1d6f18b573e76cb8e1fed14b1ec06b22c417a421": {
         "en": "INFLIBNET Staff [Parichay Identity Service]"
     }, 
+    "267daf764835df4c6160ea2aa9ac7f01ba9f5d59": {
+        "en": "Indian Institute of Science, Bengaluru"
+    }, 
     "2692f0dc37b4281763e69f9cc35e51200daae487": {
-        "en": "Shiv Nadar Univesrity IdP"
+        "en": "Shiv Nadar University"
     }, 
     "296c1713c7a04cdb1e9bf4931800050101506461": {
         "en": "Ambedkar University Delhi"
@@ -56,6 +59,9 @@
     "5352ed7d6936324ebfa3982d8285873d4509e5ad": {
         "en": "INFLIBNET Test"
     }, 
+    "5e762db705aed08074ec8a4230e1b1876f334ff4": {
+        "en": "Babasaheb Bhimrao Ambedkar University"
+    }, 
     "61f53629939bef20966a282abe74e7b41ec75911": {
         "en": "Thapar Institute of Engineering and Technology"
     }, 
@@ -64,6 +70,12 @@
     }, 
     "67caa09e5931bb455fbff5a8a71f41916d86c23b": {
         "en": "National Institute for Research in Tuberculosis"
+    }, 
+    "6c1d5a864f02d02457326e787d4706318dbaf200": {
+        "en": "Banaras Hindu University"
+    }, 
+    "6cb08209802dd43f6bbbcc7526652dc1d7e055dc": {
+        "en": "Indian Institute of Technology Palakkad"
     }, 
     "76d4b33e2bccc88764fdec56e2305d7526666ce4": {
         "en": "Central University of Punjab"
@@ -88,6 +100,9 @@
     }, 
     "8cad5501fe116d5dd2d45658deaac52fb3997770": {
         "en": "Avinashilingam University, Tamil Nadu"
+    }, 
+    "8cb191774679cda5d429a3a55aa91c1c3eea6da8": {
+        "en": "Nagaland University"
     }, 
     "941ce891b0422f6bd20259835d0ced0f4fb2e503": {
         "en": "Alagappa University, Tamil Nadu"
@@ -140,6 +155,9 @@
     "d001e4e2648d0c35e1ebf0587d191df9ae890187": {
         "en": "VIGNAN's Foundation for Science, Technology and Research"
     }, 
+    "d0ff4616bfd8c45931a2041dacffc2d63a36c967": {
+        "en": "National Institute of Technology Tiruchirappalli"
+    }, 
     "d11363fbc3ce98b1b12d6b20907f7ab866b3dd57": {
         "en": "Regional Centre for Biotechnology"
     }, 
@@ -160,5 +178,8 @@
     }, 
     "fdd0d10c3f3213033d29d0d13ac3244bc8e202be": {
         "en": "Central University of Haryana"
+    }, 
+    "fef50eec5681c7970ff3838c12e484f6a718c8bb": {
+        "en": "Goa University"
     }
 }

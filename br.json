@@ -307,6 +307,10 @@
         "en": "UNICEUB - Centro Universitario de Brasilia", 
         "pt-br": "UNICEUB - Centro Universitario de Brasilia"
     }, 
+    "7bf661c4b90bf41a0f0f9b7f819830e3230ee503": {
+        "en": "PUCRS - Pontificia Universidade Catolica do Rio Grande do Sul", 
+        "pt-br": "PUCRS - Pontificia Universidade Catolica do Rio Grande do Sul"
+    }, 
     "7c9728316b7f4ef735a198233da4d93d89ee7e1a": {
         "en": "UFTM - Universidade Federal do Triangulo Mineiro", 
         "pt-br": "UFTM - Universidade Federal do Triangulo Mineiro"
@@ -347,10 +351,6 @@
         "en": "FEI - Fundacao Educacional Inaciana Pe. Saboia de Medeiros", 
         "pt-br": "FEI - Fundacao Educacional Inaciana Pe. Saboia de Medeiros"
     }, 
-    "8376d048790e3c549c1a1d69b6ee90988b3a8bfe": {
-        "en": "IFMS - Instituto Federal de Mato Grosso do Sul", 
-        "pt-br": "IFMS - Instituto Federal de Mato Grosso do Sul"
-    }, 
     "837f325edbd001d7fd517409d176fe23671a0993": {
         "en": "FAMPECT - Fundacao Wilson Picler de Amparo a Educacao, Ciencia e Tecnologia.", 
         "pt-br": "FAMPECT - Fundacao Wilson Picler de Amparo a Educacao, Ciencia e Tecnologia."
@@ -378,6 +378,10 @@
     "974361c9c7d08b45b904d4ae665d1ec53dcb4c7c": {
         "en": "FESFSUS - Fundacao Estatal Saude da Familia", 
         "pt-br": "FESFSUS - Fundacao Estatal Saude da Familia"
+    }, 
+    "98172d44e665a65e1d321195a8367802657b8b53": {
+        "en": "FEPESMIG - Fundacao de Ensino e Pesquisa do Sul de Minas", 
+        "pt-br": "FEPESMIG - Fundacao de Ensino e Pesquisa do Sul de Minas"
     }, 
     "9eeded1cb9475d95255df79449a889939bebfeeb": {
         "en": "UEMG - Universidade do Estado de Minas Gerais", 
@@ -598,10 +602,6 @@
     "f569edcfafd4fd03e0473b6e1a4c574e975be205": {
         "en": "IPEN - Instituto de Pesquisas Energeticas e Nucleares - IPEN", 
         "pt-br": "IPEN - Instituto de Pesquisas Energeticas e Nucleares - IPEN"
-    }, 
-    "f70f1a8d6c024fdd548353f10619cd7bd13efc9c": {
-        "en": "COPPE - Coord. Pos Grad. e Pesquisa em Engenharia", 
-        "pt-br": "COPPE - Coord. Pos Grad. e Pesquisa em Engenharia"
     }, 
     "f7a7bd1d75db7b10370d15c0c5d29b78223cc73d": {
         "en": "UNISINOS - Universidade do Vale do Rio dos Sinos", 
