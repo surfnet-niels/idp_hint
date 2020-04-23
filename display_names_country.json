@@ -67,6 +67,10 @@
             "de": "P\u00e4dagogische Hochschule Steiermark", 
             "en": "University College of Teacher Education Styria"
         }, 
+        "5f15e3380dca403eddc4dd0316018d730b81455a": {
+            "de": "Bundesministerium f\u00fcr Bildung, Wissenschaft, Forschung", 
+            "en": "Austrian Federal Ministry of Education, Science and Research"
+        }, 
         "620291d0522a5708f6eeb6df682ec0aa9548bffc": {
             "de": "Universit\u00e4t f\u00fcr Musik und darstellende Kunst Graz", 
             "en": "University of Music and Performing Arts Graz"
@@ -598,6 +602,10 @@
         "5d03bcade875678156b475773b128af450b925e7": {
             "en": "AEB - Agencia Espacial Brasileira", 
             "pt-br": "AEB - Agencia Espacial Brasileira"
+        }, 
+        "62efe0515e16b0f86cd1f626fe9586e61b2ff878": {
+            "en": "CITTA - Centro de Inovacao e Tecnologia Telmo Araujo", 
+            "pt-br": "CITTA - Centro de Inovacao e Tecnologia Telmo Araujo"
         }, 
         "63ff94eb2cda6c39fb1c72ca0fa20242eea3aaff": {
             "en": "UNEMAT - Universidade do Estado de Mato Grosso", 
@@ -1508,6 +1516,10 @@
         "068735646dadc0125c61e749a08ead1a65a5c60f": {
             "en": "Chongqing University of Posts and Telecommunications", 
             "zh": "\u91cd\u5e86\u90ae\u7535\u5927\u5b66(Chongqing University of Posts and Telecommunications)"
+        }, 
+        "0743ff5fad584cd4777bb7c86b3f7313ea36631c": {
+            "en": "Hunan Institute of Technology", 
+            "zh": "\u6e56\u5357\u5de5\u5b66\u9662(Hunan Institute of Technology)"
         }, 
         "07645b794ac60cecd842033a4b6ea57f498c7f72": {
             "en": "Shanghai International Studies University", 
@@ -2660,6 +2672,10 @@
         "c9b1ba741c7aaf188f18fce49de36984965a7839": {
             "en": "Shanghai Publishing And Printing College", 
             "zh": "\u4e0a\u6d77\u51fa\u7248\u5370\u5237\u9ad8\u7b49\u4e13\u79d1\u5b66\u6821(Shanghai Publishing And Printing College)"
+        }, 
+        "ca3926d334077e5c83f0fde59919b379cd4413fb": {
+            "en": "Guangdong Polytechnic of Industry and Commerce", 
+            "zh": "\u5e7f\u4e1c\u5de5\u8d38\u804c\u4e1a\u6280\u672f\u5b66\u9662(Guangdong Polytechnic of Industry and Commerce)"
         }, 
         "caf6c2887b0b2299baeac2ec45b4c48107651b2f": {
             "en": "Tianjin Vocational Institute", 
@@ -7477,6 +7493,10 @@
             "en": "The University of Tokyo", 
             "ja": "\u6771\u4eac\u5927\u5b66"
         }, 
+        "9f3e85eee25403cc2be2acd8bf205809cdee8263": {
+            "en": "Sapporo City University", 
+            "ja": "\u672d\u5e4c\u5e02\u7acb\u5927\u5b66"
+        }, 
         "9fa3faace0ecb65eee49afad29fa63c9eec306aa": {
             "en": "Kyoto Institute of Technology", 
             "ja": "\u4eac\u90fd\u5de5\u82b8\u7e4a\u7dad\u5927\u5b66"
@@ -7496,6 +7516,10 @@
         "abcd2fb214fb892698af75e020cd6c0124fdf936": {
             "en": "Tokyo University of Foreign Studies", 
             "ja": "\u6771\u4eac\u5916\u56fd\u8a9e\u5927\u5b66"
+        }, 
+        "ac3f7a4dd63f589a85f85c64b1389536ae37b2af": {
+            "en": "Akita International University", 
+            "ja": "\u56fd\u969b\u6559\u990a\u5927\u5b66"
         }, 
         "aee2411925142e26ebaedf4d9ce85446ff06be1a": {
             "en": "Yamagata University", 
