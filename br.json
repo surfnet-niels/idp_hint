@@ -27,10 +27,6 @@
         "en": "UNOESTE - Universidade do Oeste Paulista", 
         "pt-br": "UNOESTE - Universidade do Oeste Paulista"
     }, 
-    "0aeddca2b72720dae8dbc0cc01404436640ccb32": {
-        "en": "UNIFESP - Universidade Federal de Sao Paulo", 
-        "pt-br": "UNIFESP - Universidade Federal de Sao Paulo"
-    }, 
     "0aeed5c0de335da2d1c0449ac5cc7654ab1d0ce8": {
         "en": "FSCBH - Faculdade Santa Casa BH", 
         "pt-br": "FSCBH - Faculdade Santa Casa BH"
@@ -38,6 +34,10 @@
     "0ba3f7363048136d4272f377130cefb267e6ee7c": {
         "en": "FAPESP - Fundacao de Amparo a Pesquisa", 
         "pt-br": "FAPESP - Fundacao de Amparo a Pesquisa"
+    }, 
+    "0c8298cfe0a1dda1a6bf679c3a26c1b734cf8b5c": {
+        "en": "BIOTIC - Biotic SA", 
+        "pt-br": "BIOTIC - Biotic SA"
     }, 
     "0d0a7367ea60f25ec3b9283e2f88ac790f61491a": {
         "en": "IFES - Instituto Federal do Espirito Santo", 
@@ -58,10 +58,6 @@
     "1200e1d819829e5bb99669d058b8cb2d6b557f69": {
         "en": "UFCSPA - Univ. Fed. de Ciencias da Saude de Porto Alegre", 
         "pt-br": "UFCSPA - Univ. Fed. de Ciencias da Saude de Porto Alegre"
-    }, 
-    "12d1d0a618351fb23d6177fb65e9541a4de996ea": {
-        "en": "UNIUBE - Universidade de Uberaba", 
-        "pt-br": "UNIUBE - Universidade de Uberaba"
     }, 
     "1a032ab7e6bd90f229e102400578da3b83a728f9": {
         "en": "UNOCHAPECO - Universidade Comunitaria da Regiao de Chapeco", 
@@ -135,10 +131,6 @@
         "en": "UEA - Universidade do Estado do Amazonas", 
         "pt-br": "UEA - Universidade do Estado do Amazonas"
     }, 
-    "32654f05dc1676f4fe2efd00fa81e46ac1d00663": {
-        "en": "UMSP - Universidade Metodista de Sao Paulo", 
-        "pt-br": "UMSP - Universidade Metodista de Sao Paulo"
-    }, 
     "33af2f3fb53c2625352f7657672e1ec2e0ae86d1": {
         "en": "UFRGS - Universidade Federal do Rio Grande do Sul", 
         "pt-br": "UFRGS - Universidade Federal do Rio Grande do Sul"
@@ -207,6 +199,10 @@
         "en": "UESPI - Universidade Estadual do Piau", 
         "pt-br": "UESPI - Universidade Estadual do Piau"
     }, 
+    "44c7194930cd8150334466c8f7d7e410e5ed0122": {
+        "en": "MODAL - Instituto Modal de Ciencia, Tecnologia e Inovacao", 
+        "pt-br": "MODAL - Instituto Modal de Ciencia, Tecnologia e Inovacao"
+    }, 
     "463769814a2862188c14b0614e0967f6fc517e75": {
         "en": "IFSUDESTEMG - Inst Fed de Educ Ciencia e Tec do Sudeste de MG", 
         "pt-br": "IFSUDESTEMG - Inst Fed de Educ Ciencia e Tec do Sudeste de MG"
@@ -214,6 +210,10 @@
     "47a3043f5063497337688f17271a52458f524778": {
         "en": "UNILA - Universidade Federal da Integracao Latino-Americana", 
         "pt-br": "UNILA - Universidade Federal da Integracao Latino-Americana"
+    }, 
+    "48bca463a6f58d91bc386ba8dd331eb6afc2fa5f": {
+        "en": "GUAMA - Fundacao Parque de Ciencia e Tecnologia Guama", 
+        "pt-br": "GUAMA - Fundacao Parque de Ciencia e Tecnologia Guama"
     }, 
     "49aa36c71c26803c83515d7c73a89d294075ba4b": {
         "en": "UFRN - Universidade Federal do Rio Grande do Norte", 
@@ -315,10 +315,6 @@
         "en": "PUCRS - Pontificia Universidade Catolica do Rio Grande do Sul", 
         "pt-br": "PUCRS - Pontificia Universidade Catolica do Rio Grande do Sul"
     }, 
-    "7c9728316b7f4ef735a198233da4d93d89ee7e1a": {
-        "en": "UFTM - Universidade Federal do Triangulo Mineiro", 
-        "pt-br": "UFTM - Universidade Federal do Triangulo Mineiro"
-    }, 
     "7cc20f511e193fb926a63f89723ab60180d83e69": {
         "en": "SECTI/BA - Secretaria de Ciencia, Tecnologia e Inovacao do Estado da Bahia", 
         "pt-br": "SECTI/BA - Secretaria de Ciencia, Tecnologia e Inovacao do Estado da Bahia"
@@ -384,8 +380,8 @@
         "pt-br": "FESFSUS - Fundacao Estatal Saude da Familia"
     }, 
     "98172d44e665a65e1d321195a8367802657b8b53": {
-        "en": "FEPESMIG - Fundacao de Ensino e Pesquisa do Sul de Minas", 
-        "pt-br": "FEPESMIG - Fundacao de Ensino e Pesquisa do Sul de Minas"
+        "en": "UNIS - Centro Universitario do Sul de Minas", 
+        "pt-br": "UNIS - Centro Universitario do Sul de Minas"
     }, 
     "9eeded1cb9475d95255df79449a889939bebfeeb": {
         "en": "UEMG - Universidade do Estado de Minas Gerais", 
@@ -486,6 +482,10 @@
     "c248556e16bc06cbb1e4a2746d3553173628936e": {
         "en": "FCMSCSP - Faculdade de Ciencia Medicas Santa Casa", 
         "pt-br": "FCMSCSP - Faculdade de Ciencia Medicas Santa Casa"
+    }, 
+    "c35bf644658adf85b220428d4de461fab0e237f4": {
+        "en": "IFAM - Instituto Federal de Ciencia e Tecnologia do Amazonas", 
+        "pt-br": "IFAM - Instituto Federal de Ciencia e Tecnologia do Amazonas"
     }, 
     "c37811dbb0d1070a06b6019b8df08f2744115e9b": {
         "en": "UFOP - Universidade Federal de Ouro Preto", 
@@ -614,10 +614,6 @@
     "f86dec42bf57ea1d509a9108271702fbff767006": {
         "en": "USP - UNIVERSIDADE DE SAO PAULO", 
         "pt-br": "USP - UNIVERSIDADE DE SAO PAULO"
-    }, 
-    "fc45fd2740add909feb31731669367deadb9583e": {
-        "en": "CPRM - Servico Geologico do Brasil", 
-        "pt-br": "CPRM - Servico Geologico do Brasil"
     }, 
     "fce22911ef1837b93d6963ae2c6b57f41d29a589": {
         "en": "SETREM - Sociedade Educacional Tres de Maio", 

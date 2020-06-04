@@ -8,11 +8,17 @@
     "03b957048590471d92b238175f740b29997de571": {
         "en": "Tamil Nadu Physical Education and Sports University"
     }, 
+    "07fc69748600dcb0f926f79575533c605be0ea2e": {
+        "en": "Central University of Odisha"
+    }, 
     "0ed380e2de17ab4c5ecaae73c5e03207ff6930c1": {
         "en": "Tumkur University"
     }, 
     "0f987bef17e243e2b58a8b1bb3099aa7f06e8ffe": {
         "en": "Vidyasagar University"
+    }, 
+    "10bf81a155f041eb773d21bd07c2a0e004eeca99": {
+        "en": "Sant Longowal Institute of Engineering and Technology"
     }, 
     "15c93f41bd06e9b7296ea77c5fd52b6ffd928a82": {
         "en": "Mahatma Gandhi University, Kerala"
@@ -32,6 +38,9 @@
     "296c1713c7a04cdb1e9bf4931800050101506461": {
         "en": "Ambedkar University Delhi"
     }, 
+    "2e2d01e59df39258de682173761e29e70f5d1f42": {
+        "en": "Central University of South Bihar"
+    }, 
     "2ee49a09e9641f2d8eaa042e9a24275d10773f00": {
         "en": "Gandhigram Rural Institute, Tamil Nadu"
     }, 
@@ -41,8 +50,14 @@
     "32a1db57edeff30716e59c00fd6e7ee203f5d4e1": {
         "en": "National Institute of Technology Goa"
     }, 
+    "35413a195708dd13af126fb7a55a786354bfb27c": {
+        "en": "Gulbarga University"
+    }, 
     "3e130d4dcc2fb39a29f2e8db204135aa5dda16f0": {
         "en": "Zeal College of Engineering and Research"
+    }, 
+    "3ffe3d64bd8a8eb038d019cb8f1536cd18775587": {
+        "en": "Indian Institute of Management Sirmaur"
     }, 
     "4066e60a8c0c6eada0247e1cf12a4a35b1ec8765": {
         "en": "L.E. College Morbi"
@@ -55,9 +70,6 @@
     }, 
     "4c3cafc9c966013162d8afa4eb9254aae25ee15c": {
         "en": "MKSSS's Cummins College of Engineering For Women, Pune"
-    }, 
-    "5352ed7d6936324ebfa3982d8285873d4509e5ad": {
-        "en": "INFLIBNET Test"
     }, 
     "5e762db705aed08074ec8a4230e1b1876f334ff4": {
         "en": "Babasaheb Bhimrao Ambedkar University"
@@ -119,12 +131,6 @@
     "a2ae8d67660f1a78d8bbe948138b2ac94f7b3cd1": {
         "en": "Bharati Vidyapeeth University,Pune"
     }, 
-    "a479b09f2f797a93432c9e8bc1225c71894af85a": {
-        "en": "Prin. L. N. Welingkar Institute of Management Development and Research"
-    }, 
-    "a8b0b1587e77ca84db32c4ee64d48d60a344ff70": {
-        "en": "LIGO-India Test Scientific Collaboration"
-    }, 
     "ab27fda297fca4569c7ef787c95ec7906add4df1": {
         "en": "Central University of Tamilnadu"
     }, 
@@ -139,6 +145,9 @@
     }, 
     "b43618228dd59346bd760847cdcdc189aa1a7e8a": {
         "en": "NLIST Users [Parichay Identity Service]"
+    }, 
+    "b5e07d5630bd69f398bf01b2ebcbf07fa1aa9a8f": {
+        "en": "Cochin University of Science and Technolgy - CUSAT"
     }, 
     "baa2469baebdc564ef446d85e8d01a16f0e1071a": {
         "en": "Bharathidasan University"
@@ -161,6 +170,9 @@
     "d11363fbc3ce98b1b12d6b20907f7ab866b3dd57": {
         "en": "Regional Centre for Biotechnology"
     }, 
+    "d67bc208790ef8c3ebba5814ce803826825c8fba": {
+        "en": "AMET University"
+    }, 
     "d7688a60f108f9690aa49a9dcbfcf00bd4ad2f2b": {
         "en": "Tamil Nadu Veterinary and Animal Sciences University"
     }, 
@@ -175,6 +187,9 @@
     }, 
     "fc08018d6a44e2cb72d4dd90d1e38b03cb8c78a2": {
         "en": "Vinayaka Mission's Research - DU"
+    }, 
+    "fd7e6f4550fa9ac70452934c46a4be41dad11ead": {
+        "en": "Birla Institute of Technology and Science, Pilani"
     }, 
     "fdd0d10c3f3213033d29d0d13ac3244bc8e202be": {
         "en": "Central University of Haryana"

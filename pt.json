@@ -43,6 +43,10 @@
         "en": "University of Minho", 
         "pt": "Universidade do Minho"
     }, 
+    "6014e941c7cd0594eda179d7b62fdaa2b97e0678": {
+        "en": "Instituto Polit\u00e9cnico da Guarda", 
+        "pt": "Instituto Polit\u00e9cnico da Guarda"
+    }, 
     "650f6814f44da16879e4bd7a0444dba7b27b2bb9": {
         "en": "ISCTE - Instituto Universitario de Lisboa", 
         "pt": "ISCTE - Instituto Universitario de Lisboa"
@@ -63,6 +67,10 @@
         "en": "Escola N\u00e1utica Infante Dom Henrique", 
         "pt": "Escola N\u00e1utica Infante Dom Henrique"
     }, 
+    "85ecbdc1657b60041e2a42c2fc6cd2699cab8f16": {
+        "en": "Instituto Portugu\u00eas do Desporto e da Juventude", 
+        "pt": "Instituto Portugu\u00eas do Desporto e da Juventude"
+    }, 
     "9297087c49a68422d2b7e02f3a655bfd9c274806": {
         "en": "University of Beira Interior", 
         "pt": "Universidade da Beira Interior"
@@ -70,6 +78,10 @@
     "9adc3afca651e2399b083eb72559a72fcdde7fd3": {
         "en": "Universidade de Tr\u00e1s os Montes e Alto Douro", 
         "pt": "Universidade de Tr\u00e1s os Montes e Alto Douro"
+    }, 
+    "9d2e0385172ad368aeacc3548419450fbb60a704": {
+        "en": "FCT - Funda\u00e7\u00e3o para a Ci\u00eancia e a Tecnologia", 
+        "pt": "FCT - Funda\u00e7\u00e3o para a Ci\u00eancia e a Tecnologia"
     }, 
     "9d6f88de82cdb4f927aad6f688e11d166b39d9b6": {
         "en": "Escola Superior de Saude de Viseu", 
@@ -83,6 +95,14 @@
         "en": "Ci\u00eancia Viva", 
         "pt": "Ci\u00eancia Viva"
     }, 
+    "b1a7d3fd9b224a760b9eac93d60c77bd3ba53d2c": {
+        "en": "UNL - Faculty of Sciences and Technology", 
+        "pt": "UNL - Faculdade de Ci\u00eancias e Tecnologia"
+    }, 
+    "c481bd5f9b3500b0dd26b97c011d627cb6b3d05a": {
+        "en": "Universidade Lus\u00f3fona do Porto", 
+        "pt": "Universidade Lus\u00f3fona do Porto"
+    }, 
     "cb4c01314e714293f640c9df7b00c49f1d8c97b1": {
         "en": "Universidade Aberta", 
         "pt": "Universidade Aberta"
@@ -94,6 +114,14 @@
     "cf6ad9b8483a8fca9d674c322f7cb9b4ebef4931": {
         "en": "ULisboa - Instituto Superior T\u00e9cnico", 
         "pt": "ULisboa - Instituto Superior T\u00e9cnico"
+    }, 
+    "d262bb506f6b5a5146a68373551fb56c869ba203": {
+        "en": "Universidade Lus\u00f3fona de Humanidades e Tecnologias", 
+        "pt": "Universidade Lus\u00f3fona de Humanidades e Tecnologias"
+    }, 
+    "d2b97dfcb9700b65bb051c4a541226ec193a815b": {
+        "en": "UNL - Faculdade de Economia", 
+        "pt": "UNL - Faculdade de Economia"
     }, 
     "d48f4f8440235e73f2b5b4d36a142923f9c23e6d": {
         "en": "IPV - Servi\u00e7os da Presid\u00eancia", 
@@ -119,6 +147,10 @@
         "en": "Polytechnic Institute of Porto", 
         "pt": "Instituto Polit\u00e9cnico do Porto"
     }, 
+    "ebd83aede95398e597bfed7f00c9ac11b0ac0dd5": {
+        "en": "UNL - Escola Nacional de Sa\u00fade P\u00fablica", 
+        "pt": "UNL - Escola Nacional de Sa\u00fade P\u00fablica"
+    }, 
     "ed3a0140eb60d6c379fdb422f33daee8471aa47f": {
         "en": "Secretaria Geral da Educa\u00e7\u00e3o e Ci\u00eancia", 
         "pt": "Secretaria Geral da Educa\u00e7\u00e3o e Ci\u00eancia"
@@ -126,6 +158,18 @@
     "ed6ad61c62baa4d25cc496c4770f1509264bfe98": {
         "en": "Academia Militar", 
         "pt": "Academia Militar"
+    }, 
+    "f2591c15c49e1de84fe6d5b2b0bba74c9cb75207": {
+        "en": "Polytechnic Institute of Santar\u00e9m", 
+        "pt": "Instituto Polit\u00e9cnico de Santar\u00e9m"
+    }, 
+    "f60d988474a2e578aa79faea7db94948e4aacd6d": {
+        "en": "Dire\u00e7\u00e3o-Geral do Territ\u00f3rio", 
+        "pt": "Dire\u00e7\u00e3o-Geral do Territ\u00f3rio"
+    }, 
+    "f986787cc1303c32c872c3e37e9982716e75d349": {
+        "en": "University of Coimbra", 
+        "pt": "Universidade de Coimbra"
     }, 
     "fa0cdc2838a366786e875e34206ba28531c3ca60": {
         "en": "Funda\u00e7\u00e3o Calouste Gulbenkian", 

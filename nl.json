@@ -23,6 +23,10 @@
         "en": "Erasmus MC", 
         "nl": "Erasmus MC"
     }, 
+    "097ff95cc09765279cd63c054e5c019364ef9a24": {
+        "en": "HAS Hogeschool", 
+        "nl": "HAS Hogeschool"
+    }, 
     "0b3581c2b764d43c53015cf01c849eec87ab2106": {
         "en": "NIOD instituut voor oorlogs-,holocaust- en genocidestudies (KNAW)", 
         "nl": "NIOD instituut voor oorlogs-,holocaust- en genocidestudies (KNAW)"
@@ -31,6 +35,10 @@
         "en": "Drenthe College", 
         "nl": "Drenthe College"
     }, 
+    "13bd64fc56fe7fbce2acc7f35a9db520a3ead43c": {
+        "en": "HAN University of Applied Sciences", 
+        "nl": "Hogeschool van Arnhem en Nijmegen"
+    }, 
     "15a32e670790990251313c86755263019a747a12": {
         "en": "Nikhef", 
         "nl": "Nikhef"
@@ -38,6 +46,10 @@
     "172f93721b1022995478b1fd145bb6694d4b2e2c": {
         "en": "National Institute for Public Health and the Environment", 
         "nl": "Rijksinstituut voor Volksgezondheid en Milieu"
+    }, 
+    "1a2691ab7475d61f8336c5a492121f0a8574093f": {
+        "en": "Studielink", 
+        "nl": "Stichting Studielink"
     }, 
     "1ab7b512cc4442fb6fe19a158b7de7d3799ab488": {
         "en": "EGI Foundation", 
@@ -50,6 +62,10 @@
     "1d9df5a7e515d8900c25ee873686f5ed80cddecd": {
         "en": "TNO Innovation for life", 
         "nl": "TNO Innovation for life"
+    }, 
+    "1e12988c8aa963ec0fc967d3403ba053ba26f5b3": {
+        "en": "Vista College", 
+        "nl": "Vista College"
     }, 
     "1e5e486bff306e5beca174831cef9c5f088d9a83": {
         "en": "Open Juridische hogeschool, Netwerk Open Hogeschool Informatica, SchakelZone OJH NOHI", 
@@ -319,6 +335,14 @@
         "en": "Hogeschool de Kempel", 
         "nl": "Hogeschool de Kempel"
     }, 
+    "99ecf1c75e35375947a698b71cdf7f61e9303b6b": {
+        "en": "Grafisch Lyceum Rotterdam", 
+        "nl": "Grafisch Lyceum Rotterdam"
+    }, 
+    "9af56a80fa1091f319311aeadde7e56d4f81981a": {
+        "en": "Academisch Ziekenhuis Maastricht (new)", 
+        "nl": "Academisch Ziekenhuis Maastricht (nieuw)"
+    }, 
     "9b4ef0c11eb1e363072f63ef66737156c7cd13e8": {
         "en": "Grafisch Lyceum Utrecht", 
         "nl": "Grafisch Lyceum Utrecht"
@@ -334,6 +358,10 @@
     "9f38fbc4b61c8f266efeecdbf2efa61d5c273d5e": {
         "en": "Naturalis Biodiversity Center", 
         "nl": "Naturalis Biodiversity Center"
+    }, 
+    "9f3ba6ccb35695f807f07009d68655991f962704": {
+        "en": "Nimeto", 
+        "nl": "Nimeto"
     }, 
     "a09adcdaf9342ddf50d4936883173af7de8e07ee": {
         "en": "NHL Stenden", 
@@ -354,10 +382,6 @@
     "a8312c6924de5b9a4317e35a475e1719f81f1ec4": {
         "en": "ROC Midden Nederland", 
         "nl": "ROC Midden Nederland"
-    }, 
-    "ac67893e1775c4afe9e604fd7c3ebd642d0f7ac0": {
-        "en": "HAS Hogeschool", 
-        "nl": "HAS Hogeschool"
     }, 
     "ad4e461d2f0f3c36bd907cc087e0568c2a133475": {
         "en": "IHE Delft Institute for Water Education", 
@@ -394,10 +418,6 @@
     "b4c4aeda51a50d89f442a1dddd8467467b4d15c5": {
         "en": "Koninklijke Bibliotheek", 
         "nl": "Koninklijke Bibliotheek"
-    }, 
-    "b54275d830ea04b3f3cbcbcbc8cfd15cb2f7eb15": {
-        "en": "Zuyd Hogeschool (old)", 
-        "nl": "Zuyd Hogeschool (oud)"
     }, 
     "b5e8f888cfa2395c04d2e36722089988fda6abd6": {
         "en": "University of Groningen", 
@@ -500,8 +520,8 @@
         "nl": "Leids Universitair Medisch Centrum"
     }, 
     "d974854f3119871ca8a6588047164d7219c50211": {
-        "en": "HAN University of Applied Sciences", 
-        "nl": "HAN University of Applied Sciences"
+        "en": "HAN University of Applied Sciences (Old)", 
+        "nl": "HAN University of Applied Sciences (Oud)"
     }, 
     "dd9874fe61e87c82fb1daeab63165a4a389a8cca": {
         "en": "M\u00e1xima MC", 
@@ -518,6 +538,10 @@
     "e05d29eb4ac2948089ce1c0b206550f1b9e16dcc": {
         "en": "Centrum Wiskunde & Informatica", 
         "nl": "Centrum Wiskunde & Informatica"
+    }, 
+    "e1f9587dbb43249bdc37ae806db00552f46a2058": {
+        "en": "University of Humanistic Studies", 
+        "nl": "Universiteit voor Humanistiek"
     }, 
     "e2a3da6ff628e809e4c82bc0184dd3a1cc51d5a8": {
         "en": "Cito", 

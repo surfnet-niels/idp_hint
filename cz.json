@@ -43,6 +43,10 @@
         "cs": "St\u00e1tn\u00ed \u00fastav radia\u010dn\u00ed ochrany, v.v.i.", 
         "en": "National Radiation Protection Institute"
     }, 
+    "13a891e1acc5be30c9908baeeb0aed65b7d50c80": {
+        "cs": "Gymn\u00e1zium Franti\u0161ka K\u0159i\u017e\u00edka a z\u00e1kladn\u00ed \u0161kola, s.r.o.", 
+        "en": "Frantisek Krizik Grammar School and Primary School, s.r.o."
+    }, 
     "14cc92a6727f244e4fe210b371f7fa9513b5cb97": {
         "cs": "\u00dastav fyziky atmosf\u00e9ry AV \u010cR", 
         "en": "Institute of Atmospheric Physics CAS"
@@ -323,6 +327,10 @@
         "cs": "M\u011bstsk\u00e1 knihovna Kladno", 
         "en": "Municipal Library in Kladno"
     }, 
+    "9cff3932807e64fea6a761a401411faf04c8788b": {
+        "cs": "M\u011bstsk\u00e1 knihovna \u010cesk\u00e1 L\u00edpa", 
+        "en": "Municipal Library \u010cesk\u00e1 L\u00edpa"
+    }, 
     "a0c823ae1cb5fc4d64fc4709a35395c3962a328a": {
         "cs": "Severo\u010desk\u00e1 v\u011bdeck\u00e1 knihovna v \u00dast\u00ed nad Labem", 
         "en": "The North Bohemian Research Library"
@@ -434,6 +442,10 @@
     "d4cdbd28774c65eb6166d1be5ee8134c23ca68f0": {
         "cs": "\u00dastav biologie obratlovc\u016f AV \u010cR", 
         "en": "Institute of Vertebrate Biology AS CR"
+    }, 
+    "d6791d9b947ef8eda18d96755e5d9dec6ed57fc1": {
+        "cs": "Knihovna m\u011bsta Plzn\u011b", 
+        "en": "Pilsen City Library"
     }, 
     "d735875c44cb40458fa11dd5c3bdcbb1e9ecf5a8": {
         "cs": "Filosofick\u00fd \u00fastav AV \u010cR", 

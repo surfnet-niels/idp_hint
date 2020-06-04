@@ -59,6 +59,9 @@
     "0b90c0cbe1d194d2c302354b783c595d2fac00c2": {
         "en": "University of Texas at Dallas"
     }, 
+    "0bc63f27b74ed487bc620042e28d6f3f319c947f": {
+        "en": "The University of Tampa"
+    }, 
     "0c0ff5e8130d8e47171020b5c1a41827f158764c": {
         "en": "Coconino County Community College"
     }, 
@@ -161,6 +164,9 @@
     "1a6d8325c1315033db53448f3e721e1c6df1b470": {
         "en": "University of Texas Rio Grande Valley"
     }, 
+    "1b5061ad72904158484639134c97b7def462c096": {
+        "en": "Granite State College"
+    }, 
     "1c893ce43e36d21cc24d987c9c970707152c59c2": {
         "en": "South Dakota State University"
     }, 
@@ -260,9 +266,6 @@
     "2b8e2a22781fd09e608a0ca0b11f1b505196382d": {
         "en": "University of Alaska Statewide System"
     }, 
-    "2b8f58364aed84e38b10d2fff49585e8bb90bcef": {
-        "en": "zTest - University of Pittsburgh Test IdP"
-    }, 
     "2bee8b0f0d1ffd5d3be4b2f74ed50c7312918240": {
         "en": "MiraCosta Community College District"
     }, 
@@ -271,9 +274,6 @@
     }, 
     "2c29cb2ba7e9fc5b2e19cabcb9a78ce4d7071a70": {
         "en": "XSEDE"
-    }, 
-    "2c6f5188a3cb6ab042442ffa4c06e535af61c7fc": {
-        "en": "Test IDP - Rutgers, The State University of New Jersey"
     }, 
     "2c6fde350cfdf2cd9994e42ad783ab5d8f9e86c8": {
         "en": "University of Akron, Main Campus, The"
@@ -332,6 +332,9 @@
     "33b59aa938752b025dba3ce9f0405bbddbd4c675": {
         "en": "Connecticut College"
     }, 
+    "34da0bf50a3947fba0dbab9ec2b919d994a57c7e": {
+        "en": "MyGiant - Sequoias Community College District"
+    }, 
     "357aedbb739ed8585f4a30a6755bdade28b43280": {
         "en": "Quinnipiac University"
     }, 
@@ -358,9 +361,6 @@
     }, 
     "3a3ce110336c1daa6fb4ad8494e0d69f9c947fbf": {
         "en": "Ames Laboratory"
-    }, 
-    "3ab99fdae0f3433fb6cff6ad716484a8b62861e1": {
-        "en": "University of Georgia"
     }, 
     "3ac98c13ce0943e227e0da7f2439181114ab1ea0": {
         "en": "California State University, Fullerton"
@@ -460,6 +460,9 @@
     }, 
     "4d6e251950fd6e039ac6b172a34cd2be45e8fbf0": {
         "en": "Mayo Clinic"
+    }, 
+    "4e3d4b5de0b2a94b9a7ea61294e5395bbc8fb110": {
+        "en": "Icahn School of Medicine at Mount Sinai"
     }, 
     "4e9242403aac6a2d71d843d618091fa78a9d3852": {
         "en": "University of Cincinnati Main Campus"
@@ -590,6 +593,9 @@
     "60a5681d28b5b38bd45178a54d90451228c8e4a9": {
         "en": "Yale University"
     }, 
+    "60db1919dda0954c4029cfb146eac8b6d4ed57a6": {
+        "en": "Florida State University"
+    }, 
     "60dbc5d8fef19b44e0e78e8d9201bf57c9eb4ba6": {
         "en": "Lehman College of the City University of New York"
     }, 
@@ -695,9 +701,6 @@
     "6f2fa6f331c7d551dc87b8fe3352f2decdc7e5b2": {
         "en": "University of California, Los Angeles"
     }, 
-    "7098bffccf8adafa0a5708daa1959543782a0450": {
-        "en": "zTest - Rowan University"
-    }, 
     "70a0e9026c9306c098893585a837b24f0a2f0ac8": {
         "en": "Keck Graduate Institute of Applied Life Sciences"
     }, 
@@ -748,6 +751,9 @@
     }, 
     "76a1f11c48443e5b4e0e0d709e0c526e88ab3762": {
         "en": "Santa Barbara City College"
+    }, 
+    "76c1d6b559a874ca4936a609ca0e1a8273e071a5": {
+        "en": "Vassar College (new)"
     }, 
     "76deb530bce0973faf363988f98e8f0ce3cc93c6": {
         "en": "Morgan State University"
@@ -857,9 +863,6 @@
     "87c646b7c487409a2d4406d3dc881a809b64360c": {
         "en": "Naval Postgraduate School"
     }, 
-    "88402f4e9d69f6eeabf3865b704bcb4152ce229d": {
-        "en": "zTest_Washington University in St. Louis"
-    }, 
     "88a4832d4ce2049823a09f71d724398ec0b95e5b": {
         "en": "University of Wisconsin-Platteville"
     }, 
@@ -955,9 +958,6 @@
     }, 
     "9a8eb7629dec469c75f35c0d734e6d745b4e4f0f": {
         "en": "Hampshire College"
-    }, 
-    "9bef89b4be20ef5d57726a0400e6870baf8d8e00": {
-        "en": "zTEST_VTIdP"
     }, 
     "9c41cd91b044e0dc485db8024dfafe5de6dfb3d5": {
         "en": "Loyola University of Chicago"
@@ -1207,6 +1207,9 @@
     }, 
     "c4cda4afc91388b5f4ca5adb30681036ac394971": {
         "en": "University of Colorado Denver | Anschutz Medical Campus"
+    }, 
+    "c51c8262d7dcb55a5eddb80ba729d63d8e7287d6": {
+        "en": "The State University of New York at Buffalo"
     }, 
     "c52d2319d4ecb305c6fcfa528d7e28c5cc6f85fa": {
         "en": "rSmart"
@@ -1543,6 +1546,9 @@
     }, 
     "fd9aba89d021a1a9104d508ca91c9e84a5acc586": {
         "en": "Virginia Tech"
+    }, 
+    "fed4704dcb70bb88358ce3cf689afa3e5b3e70cb": {
+        "en": "Brookhaven National Laboratory - SDCC.BNL.GOV"
     }, 
     "fee613aceae1d32ae53adfda20033683ec61e114": {
         "en": "Iowa State University"

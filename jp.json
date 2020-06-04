@@ -11,6 +11,10 @@
         "en": "Tokyo Denki University", 
         "ja": "\u6771\u4eac\u96fb\u6a5f\u5927\u5b66"
     }, 
+    "2b7ad95c8b7f612e2180d0af1f6099fbcf1e324f": {
+        "en": "Tokyo Dental College", 
+        "ja": "\u6771\u4eac\u6b6f\u79d1\u5927\u5b66"
+    }, 
     "3386e9cf4e106596e23f3b3f5adf58a3c33fca58": {
         "en": "Chiba Institute of Technology", 
         "ja": "\u5343\u8449\u5de5\u696d\u5927\u5b66"
@@ -18,6 +22,10 @@
     "396e920a9d077ad804655c7e969223fc46a5ff91": {
         "en": "Tokyo Metropolitan Institute of Medical Science", 
         "ja": "\u6771\u4eac\u90fd\u533b\u5b66\u7dcf\u5408\u7814\u7a76\u6240"
+    }, 
+    "498cf755a4e29758545388f295ddec39a03fb9ec": {
+        "en": "Saitama University", 
+        "ja": "\u57fc\u7389\u5927\u5b66"
     }, 
     "49b9da81fd5fa408e3b0dd941933b064c6f2827b": {
         "en": "GakuNin IdP", 
@@ -115,9 +123,17 @@
         "en": "KAGRA", 
         "ja": "KAGRA"
     }, 
+    "c915c7c2d674cbfcb735af439b9bfad054c1f87e": {
+        "en": "Seijo University", 
+        "ja": "\u6210\u57ce\u5927\u5b66"
+    }, 
     "d085575e1ba3134d5d871371b8f8a8b6f22f2c9d": {
         "en": "Kochi University of Technology", 
         "ja": "\u9ad8\u77e5\u5de5\u79d1\u5927\u5b66"
+    }, 
+    "d402015ca5624c2bb3d97f9a024e1092bd65c33f": {
+        "en": "Meiji University", 
+        "ja": "\u660e\u6cbb\u5927\u5b66"
     }, 
     "ec5efd12b808e1e4c831890bb417e7dbcd2386a1": {
         "en": "Waseda University", 
@@ -146,6 +162,10 @@
     "f7a295bcd5a9b8eb1530ce6ae9eae6cd5e710134": {
         "en": "Chuo University", 
         "ja": "\u4e2d\u592e\u5927\u5b66"
+    }, 
+    "f9f58842ee03016e612435e7d48a869c93a523ca": {
+        "en": "Tokyo Gakugei University", 
+        "ja": "\u6771\u4eac\u5b66\u82b8\u5927\u5b66"
     }, 
     "ff4fc9337b3b6511521f661516bc22364fdbed97": {
         "en": "National Institute of Fitness and Sports in KANOYA", 

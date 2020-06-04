@@ -27,6 +27,10 @@
         "en": "Anqing Normal University", 
         "zh": "\u5b89\u5e86\u5e08\u8303\u5927\u5b66(Anqing Normal University)"
     }, 
+    "04a784c9d519a262fd1f192fea79435754cfbd4b": {
+        "en": "Hunan University of Information Technology", 
+        "zh": "\u6e56\u5357\u4fe1\u606f\u5b66\u9662(Hunan University of Information Technology)"
+    }, 
     "053594c7856978af6b7b27307bbc8ef13a394b2e": {
         "en": "Inner Mongolia Normal University", 
         "zh": "\u5185\u8499\u53e4\u5e08\u8303\u5927\u5b66( Inner Mongolia Normal University)"
@@ -71,6 +75,14 @@
         "en": "Ningxia University", 
         "zh": "\u5b81\u590f\u5927\u5b66(Ningxia University)"
     }, 
+    "0a8e9ae6a6b23268b854f38d1386e9632f4a7502": {
+        "en": "Hubei University of Science and Technology", 
+        "zh": "\u6e56\u5317\u79d1\u6280\u5b66\u9662(Hubei University of Science and Technology)"
+    }, 
+    "0b463b726cc5493a9570784d4b0874aa91bdc959": {
+        "en": "Jianghan University", 
+        "zh": "\u6c5f\u6c49\u5927\u5b66(Jianghan University )"
+    }, 
     "0c018a50609076f7b95eab92b91ad5547b3f7105": {
         "en": "Beijing Institute of Petrochemical Technology", 
         "zh": "\u5317\u4eac\u77f3\u6cb9\u5316\u5de5\u5b66\u9662(Beijing Institute of Petrochemical Technology )"
@@ -106,6 +118,10 @@
     "0eec4f2ef772f9f7830112ca9e507b6953bf72fd": {
         "en": "North Minzu University", 
         "zh": "\u5317\u65b9\u6c11\u65cf\u5927\u5b66(North Minzu University)"
+    }, 
+    "0f6ec70583974dc3899b9a9e1cf8f3404f97296d": {
+        "en": "Central South University of Forestry and Technology", 
+        "zh": "\u4e2d\u5357\u6797\u4e1a\u79d1\u6280\u5927\u5b66(Central South University of Forestry and Technology)"
     }, 
     "11eee92b899d47aca9e2380fb3c7460538daf2f9": {
         "en": "Jinggangshan University", 
@@ -167,9 +183,17 @@
         "en": "Anhui Agriculture University", 
         "zh": "\u5b89\u5fbd\u519c\u4e1a\u5927\u5b66(Anhui Agriculture University)"
     }, 
+    "1add57828f2fa06e2d8ec64e40202230e07fa91e": {
+        "en": "Wuhan City Polytechnic", 
+        "zh": "\u6b66\u6c49\u57ce\u5e02\u804c\u4e1a\u5b66\u9662(Wuhan City Polytechnic)"
+    }, 
     "1cb2dba78d301bbbf6d999cf656369be437037dc": {
         "en": "Lanzhou Jiaotong University", 
         "zh": "\u5170\u5dde\u4ea4\u901a\u5927\u5b66(Lanzhou Jiaotong University)"
+    }, 
+    "1ce7b528e840a4b446704f7938ea889ce35c57df": {
+        "en": "Xiamen National Accounting Institute", 
+        "zh": "\u53a6\u95e8\u56fd\u5bb6\u4f1a\u8ba1\u5b66\u9662(Xiamen National Accounting Institute)"
     }, 
     "1cef1726ac3bc2d7cf2d14406959b93dbe75482d": {
         "en": "Yulin University", 
@@ -182,6 +206,10 @@
     "1d40917c47212d9e49bb0c1bd27a87b71966bd5b": {
         "en": "Shaanxi Normal University", 
         "zh": "\u9655\u897f\u5e08\u8303\u5927\u5b66(Shaanxi Normal University)"
+    }, 
+    "1fb4b6f94ef958429aea1209bb68355e0dbce226": {
+        "en": "Suzhou Industrial Park Institute of Vocational Technology", 
+        "zh": "\u82cf\u5dde\u5de5\u4e1a\u56ed\u533a\u804c\u4e1a\u6280\u672f\u5b66\u9662(Suzhou Industrial Park Institute of Vocational Technology)"
     }, 
     "209c31460ee80f4e6251be06f0a22c149da4c691": {
         "en": "ZHEJIANG Normal University", 
@@ -207,6 +235,10 @@
         "en": "Central University of Finance and Economics", 
         "zh": "\u4e2d\u592e\u8d22\u7ecf\u5927\u5b66(Central University of Finance and Economics)"
     }, 
+    "2447178ff0fc15e1820c454a95429a9ab5f36156": {
+        "en": "Beijing National Accounting Institute", 
+        "zh": "\u5317\u4eac\u56fd\u5bb6\u4f1a\u8ba1\u5b66\u9662(Beijing National Accounting Institute)"
+    }, 
     "248c5441ac769b5378ea3719b5303c0135c672d2": {
         "en": "Shangdong Women's University", 
         "zh": "\u5c71\u4e1c\u5973\u5b50\u5b66\u9662(Shangdong Women's University)"
@@ -230,6 +262,10 @@
     "299e8cfd11bd94728644405f89a62f09d18e905f": {
         "en": "University of Jinan", 
         "zh": "\u6d4e\u5357\u5927\u5b66( University of Jinan)"
+    }, 
+    "2d48038106c21c869546e7cebad6c17d3c9c58ab": {
+        "en": "Chongqing Jiaotong University", 
+        "zh": "\u91cd\u5e86\u4ea4\u901a\u5927\u5b66(Chongqing Jiaotong University)"
     }, 
     "2da8c4934ed44a41e6e1b07f96e3215f7e03b1da": {
         "en": "Weifang Medical University", 
@@ -268,8 +304,12 @@
         "zh": "\u5929\u6d25\u5546\u4e1a\u5927\u5b66(Tianjin University of Commerce)"
     }, 
     "31d0bd2595efaf2b84bb178e37df93d45d47b074": {
-        "en": "Xauat", 
-        "zh": "\u897f\u5b89\u5efa\u7b51\u79d1\u6280\u5927\u5b66(Xauat)"
+        "en": "Xi'an University of Architecture and Technology", 
+        "zh": "\u897f\u5b89\u5efa\u7b51\u79d1\u6280\u5927\u5b66(Xi'an University of Architecture and Technology)"
+    }, 
+    "336a2d3bddfbf1dac568b14e2250196eb400a60a": {
+        "en": "Xi'an Aeronautical University", 
+        "zh": "\u897f\u5b89\u822a\u7a7a\u5b66\u9662(Xi'an Aeronautical University)"
     }, 
     "33998e735437c440c02d3d79c21b00ae13d7aab8": {
         "en": "Hefei Normal University", 
@@ -311,6 +351,10 @@
         "en": "ZhengZhouShengDaUniversity Of Economics Business Management", 
         "zh": "\u90d1\u5dde\u5347\u8fbe\u7ecf\u8d38\u7ba1\u7406\u5b66\u9662(ZhengZhouShengDaUniversity Of Economics Business Management)"
     }, 
+    "37187721c5a7936a460f521a67644a78cc7e8acf": {
+        "en": "Northeast Agricultural University", 
+        "zh": "\u4e1c\u5317\u519c\u4e1a\u5927\u5b66(Northeast Agricultural University)"
+    }, 
     "375fa3dc13f51d1f570bbd66732d4bdb8a7a7330": {
         "en": "Xi'an University of Technology", 
         "zh": "\u897f\u5b89\u7406\u5de5\u5927\u5b66(Xi'an University of Technology )"
@@ -347,6 +391,10 @@
         "en": "Sichuan Engineering Technical College", 
         "zh": "\u56db\u5ddd\u5de5\u7a0b\u804c\u4e1a\u6280\u672f\u5b66\u9662(Sichuan Engineering Technical College)"
     }, 
+    "3b51389a31f707cccc1d6a3e511288b4580bfd41": {
+        "en": "Ningbo University of Technology", 
+        "zh": "\u5b81\u6ce2\u5de5\u7a0b\u5b66\u9662(Ningbo University of Technology)"
+    }, 
     "3bcca77e607dbdae6647b28a6b449d7b67c65def": {
         "en": "Anhui University Of Science And Technology", 
         "zh": "\u5b89\u5fbd\u7406\u5de5\u5927\u5b66(Anhui University Of Science And Technology)"
@@ -371,6 +419,10 @@
         "en": "Guangzhou Academy of Fine Arts", 
         "zh": "\u5e7f\u5dde\u7f8e\u672f\u5b66\u9662(Guangzhou Academy of Fine Arts)"
     }, 
+    "407cc76508de4dd3dc7c1dbd49c14de4d32cee48": {
+        "en": "Shenyang University", 
+        "zh": "\u6c88\u9633\u5927\u5b66(Shenyang University)"
+    }, 
     "40f1bd62096fc0e271312c8a398a8c91f36bf30f": {
         "en": "Wuhan Polytechnic", 
         "zh": "\u6b66\u6c49\u804c\u4e1a\u6280\u672f\u5b66\u9662(Wuhan Polytechnic)"
@@ -386,6 +438,10 @@
     "4323683eed053abaf38bb059fd4c8b8ceb6fbb59": {
         "en": "Fujian Agriculture and Forestry University", 
         "zh": "\u798f\u5efa\u519c\u6797\u5927\u5b66(Fujian Agriculture and Forestry University)"
+    }, 
+    "43690e566a759a89d8decb89274fa20c88e465f3": {
+        "en": "Jiaxing Vocational & Technical College", 
+        "zh": "\u5609\u5174\u804c\u4e1a\u6280\u672f\u5b66\u9662(Jiaxing Vocational & Technical College)"
     }, 
     "4594baa5d847fd3407b8c90b26a62cf63cc8fad9": {
         "en": "Shandong Agricultural University", 
@@ -483,6 +539,10 @@
         "en": "BEIJING JIAOTONG UNIVERSITY", 
         "zh": "\u5317\u4eac\u4ea4\u901a\u5927\u5b66(BEIJING JIAOTONG UNIVERSITY)"
     }, 
+    "4ed1079b5386c22b7531f6179f44350bb9c2fb97": {
+        "en": "Henan University of Animal Husbandry and Economy", 
+        "zh": "\u6cb3\u5357\u7267\u4e1a\u7ecf\u6d4e\u5b66\u9662(Henan University of Animal Husbandry and Economy)"
+    }, 
     "4ed7e673dbaf16833965822003d5933be65e191b": {
         "en": "Shenzhen University", 
         "zh": "\u6df1\u5733\u5927\u5b66(Shenzhen University)"
@@ -562,6 +622,10 @@
     "555221d324cc735970b4732efa39a80aaec0a9d3": {
         "en": "China University of Petroleum(East China)", 
         "zh": "\u4e2d\u56fd\u77f3\u6cb9\u5927\u5b66\uff08\u534e\u4e1c\uff09(China University of Petroleum(East China))"
+    }, 
+    "567bf12dc4b59a434dec511499b55e1b2defaca9": {
+        "en": "Wenzhou University", 
+        "zh": "\u6e29\u5dde\u5927\u5b66(Wenzhou University)"
     }, 
     "568b2f3774b7df3e5128ef74d03701fdbb08b481": {
         "en": "Shandong University of Traditional Chinese Medicine", 
@@ -755,6 +819,10 @@
         "en": "University of Science and Technology Liaoning", 
         "zh": "\u8fbd\u5b81\u79d1\u6280\u5927\u5b66(University of Science and Technology Liaoning)"
     }, 
+    "77e61f73af925973a14a687004eebee3fa1b5636": {
+        "en": "ShandongJianzhuUniversity", 
+        "zh": "\u5c71\u4e1c\u5efa\u7b51\u5927\u5b66(ShandongJianzhuUniversity)"
+    }, 
     "79de50a19d3f42ddfbe77af558348b5f70bf7996": {
         "en": "Hubei University Of Economics", 
         "zh": "\u6e56\u5317\u7ecf\u6d4e\u5b66\u9662(Hubei University Of Economics)"
@@ -762,6 +830,10 @@
     "7a3d30c496a919833e6cb3319939931fcccb1e5b": {
         "en": "Tianjin University of Science & Technology", 
         "zh": "\u5929\u6d25\u79d1\u6280\u5927\u5b66(Tianjin University of Science & Technology)"
+    }, 
+    "7aa266af63f5e6dc1bb34816b1ba7f8b3504a019": {
+        "en": "Henan University of Technology", 
+        "zh": "\u6cb3\u5357\u5de5\u4e1a\u5927\u5b66(Henan University of Technology)"
     }, 
     "7b68cea1223fbbc699564268b7e1144e7b7418c6": {
         "en": "shanghai dianji university", 
@@ -774,6 +846,10 @@
     "7ca7dbbdcb1cff696dc945a0c4be123d85fbc3a9": {
         "en": "Tianjin University of Finance and Economics", 
         "zh": "\u5929\u6d25\u8d22\u7ecf\u5927\u5b66(Tianjin University of Finance and Economics)"
+    }, 
+    "7d2dbf917c8eedf75baad89ae2ffadb407ada789": {
+        "en": "Huzhou University", 
+        "zh": "\u6e56\u5dde\u5e08\u8303\u5b66\u9662(Huzhou University)"
     }, 
     "7e29c84f64aae39b7502d9b665d7d424a0e607a9": {
         "en": "Sias University", 
@@ -859,6 +935,10 @@
         "en": "Nantong University", 
         "zh": "\u5357\u901a\u5927\u5b66(Nantong University)"
     }, 
+    "9737ac42aa72b976f8d48fbeb3f125401e4b4ee7": {
+        "en": "Huaiyin Normal University", 
+        "zh": "\u6dee\u9634\u5e08\u8303\u5b66\u9662(Huaiyin Normal University)"
+    }, 
     "973ce9c7875fcf466217624af3fb6a25d9885ccd": {
         "en": "Minnan Normal University", 
         "zh": "\u95fd\u5357\u5e08\u8303\u5927\u5b66(Minnan Normal University)"
@@ -878,6 +958,10 @@
     "9a01fdba27d64622f55e698e1b674a24375b315f": {
         "en": "Communication University of Zhejiang", 
         "zh": "\u6d59\u6c5f\u4f20\u5a92\u5b66\u9662(Communication University of Zhejiang)"
+    }, 
+    "9a49ef27b79103d9503a015c5d335206505d8e3d": {
+        "en": "Anhui Vocational College of City Management", 
+        "zh": "\u5b89\u5fbd\u57ce\u5e02\u7ba1\u7406\u804c\u4e1a\u5b66\u9662(Anhui Vocational College of City Management)"
     }, 
     "9aea4ddde6b3da22636963a9c1eecb64a3c8e132": {
         "en": "Chongqing Technology and Business University", 
@@ -995,6 +1079,10 @@
         "en": "Xianning Vocaltional Technical College", 
         "zh": "\u54b8\u5b81\u804c\u4e1a\u6280\u672f\u5b66\u9662(Xianning Vocaltional Technical College)"
     }, 
+    "ae43c26ba9f1e6fd55f90f16db0ca6ede84e8469": {
+        "en": "Xi'an Jiaotong University", 
+        "zh": "\u897f\u5b89\u4ea4\u901a\u5927\u5b66(Xi'an Jiaotong University)"
+    }, 
     "ae91ad3be50b9ca91be1bd3dc9f6e74a7d8bd6be": {
         "en": "Lanzhou University", 
         "zh": "\u5170\u5dde\u5927\u5b66(Lanzhou University)"
@@ -1083,6 +1171,10 @@
         "en": "Southwestern University of Finance and Economics", 
         "zh": "\u897f\u5357\u8d22\u7ecf\u5927\u5b66(Southwestern University of Finance and Economics)"
     }, 
+    "b9e2407b60693c2e0b8112a0dd02753041af8358": {
+        "en": "Zunyi Medical University", 
+        "zh": "\u9075\u4e49\u533b\u79d1\u5927\u5b66(Zunyi Medical University)"
+    }, 
     "bade0fe61e25eecd97d43f6610703ab0597337c9": {
         "en": "Xi'an University", 
         "zh": "\u897f\u5b89\u6587\u7406\u5b66\u9662(Xi'an University)"
@@ -1146,6 +1238,10 @@
     "c309a37bab3b06c20947d76f59989eaf1a3df951": {
         "en": "Shanghai University of Finance and Economics", 
         "zh": "\u4e0a\u6d77\u8d22\u7ecf\u5927\u5b66(Shanghai University of Finance and Economics)"
+    }, 
+    "c4299d8d80ed910f3c8f3ed60ef5a6613acfdd00": {
+        "en": "Gansu University Of Chinese Medicine", 
+        "zh": "\u7518\u8083\u4e2d\u533b\u836f\u5927\u5b66(Gansu University Of Chinese Medicine )"
     }, 
     "c4724ac030fc89bedc0fbb43787d9a921c42b604": {
         "en": "Wuhan Institute of Technology", 
@@ -1243,6 +1339,10 @@
         "en": "Ningbo University", 
         "zh": "\u5b81\u6ce2\u5927\u5b66(Ningbo University)"
     }, 
+    "d0e0c2713946b28558fc5155a7278fdb7453efca": {
+        "en": "Hebei Medical University", 
+        "zh": "\u6cb3\u5317\u533b\u79d1\u5927\u5b66(Hebei Medical University)"
+    }, 
     "d0eeeddf3c94ebbfde6dfdececb32b01aa6b2cb9": {
         "en": "Yangzhou University", 
         "zh": "\u626c\u5dde\u5927\u5b66(Yangzhou University)"
@@ -1254,6 +1354,10 @@
     "d24f9d926150a11913e6ba563f940d6e69af4d90": {
         "en": "Taiyuan University of Science and Technology", 
         "zh": "\u592a\u539f\u79d1\u6280\u5927\u5b66(Taiyuan University of Science and Technology)"
+    }, 
+    "d2d274588cde457928f4e7cf27fbb834a63e84d3": {
+        "en": "Xinjiang Normal University", 
+        "zh": "\u65b0\u7586\u5e08\u8303\u5927\u5b66(Xinjiang Normal University)"
     }, 
     "d30c070357ab160e6901fb75abbc9b223f094fb1": {
         "en": "Northeastern University at Qinhuangdao", 
@@ -1307,6 +1411,10 @@
         "en": "Hebei University", 
         "zh": "\u6cb3\u5317\u5927\u5b66(Hebei University)"
     }, 
+    "da583759146f9fedd40bae853e46fe32a8dae59e": {
+        "en": "Hainan University", 
+        "zh": "\u6d77\u5357\u5927\u5b66(Hainan University)"
+    }, 
     "da8afa3ce50812f5fc3cd2eb2cf9f1f036d5aa14": {
         "en": "China People's Police University", 
         "zh": "\u4e2d\u56fd\u4eba\u6c11\u8b66\u5bdf\u5927\u5b66(China People's Police University)"
@@ -1327,9 +1435,13 @@
         "en": "Zhengzhou  Institute of  Technology", 
         "zh": "\u90d1\u5dde\u5de5\u7a0b\u6280\u672f\u5b66\u9662(Zhengzhou  Institute of  Technology)"
     }, 
+    "de089c4f969f30157c90d1d8188f4bad935052a6": {
+        "en": "Tianjin University of Technology", 
+        "zh": "\u5929\u6d25\u7406\u5de5\u5927\u5b66(Tianjin University of Technology)"
+    }, 
     "de542f36122b2ce62ac5f829cde5d9540bfae7b8": {
-        "en": "NANKAI UNIVERSITY", 
-        "zh": "\u5357\u5f00\u5927\u5b66(NANKAI UNIVERSITY)"
+        "en": "Nankai University", 
+        "zh": "\u5357\u5f00\u5927\u5b66(Nankai University)"
     }, 
     "de8dc7249aec8022114bda7b942b456dad6cceea": {
         "en": "JiLIn Agricultural University", 
@@ -1423,9 +1535,17 @@
         "en": "Nanjing University", 
         "zh": "\u5357\u4eac\u5927\u5b66(Nanjing University)"
     }, 
+    "e9a2a3c3747276b070807dd2b33b8dc12d010334": {
+        "en": "MinJiang University", 
+        "zh": "\u95fd\u6c5f\u5b66\u9662(MinJiang University)"
+    }, 
     "eb8f7972dee9f9a60930a87e868f127f93149d34": {
         "en": "Shenyang Pharmaceutical University", 
         "zh": "\u6c88\u9633\u836f\u79d1\u5927\u5b66(Shenyang Pharmaceutical University)"
+    }, 
+    "ebc37bcbd5a7565a74cf11dba84012e2ee790de8": {
+        "en": "Shenyang University Of Chemical Technology", 
+        "zh": "\u6c88\u9633\u5316\u5de5\u5927\u5b66(Shenyang University Of Chemical Technology)"
     }, 
     "ed58b94ad5c690b27537a3d993bb85bd7abf7d13": {
         "en": "Hunan University", 
@@ -1447,6 +1567,10 @@
         "en": "Jiangsu University", 
         "zh": "\u6c5f\u82cf\u5927\u5b66(Jiangsu University)"
     }, 
+    "f0367468e9612397f3c7f3a5b73bc73414097b95": {
+        "en": "Wuhu Institute of Technology", 
+        "zh": "\u829c\u6e56\u804c\u4e1a\u6280\u672f\u5b66\u9662(Wuhu Institute of Technology)"
+    }, 
     "f0b67f01cdd61fcb605b95b0bd4dc62352ae3597": {
         "en": "Xi'an Shiyou University", 
         "zh": "\u897f\u5b89\u77f3\u6cb9\u5927\u5b66(Xi'an Shiyou University)"
@@ -1466,6 +1590,10 @@
     "f3654e2bd3bc6f46f00f7b7da3d573528fa518f5": {
         "en": "Beijing Engineering Research Center of NGI", 
         "zh": "\u4e0b\u4e00\u4ee3\u4e92\u8054\u7f51\u91cd\u5927\u5e94\u7528\u6280\u672f\u5317\u4eac\u5e02\u5de5\u7a0b\u7814\u7a76\u4e2d\u5fc3(Beijing Engineering Research Center of NGI)"
+    }, 
+    "f42d8d8361a1901b39c36c2652ed9d8315ea161d": {
+        "en": "Pingxiang University", 
+        "zh": "\u840d\u4e61\u5b66\u9662(Pingxiang University)"
     }, 
     "f5a11b0e2a5a394f7ce9921c1e8bc830f92e6e48": {
         "en": "West AnHui University", 

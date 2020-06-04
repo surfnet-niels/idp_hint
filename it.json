@@ -28,12 +28,12 @@
         "it": "Universit\u00e0 Roma Tre IdP"
     }, 
     "0c38a6142635b14f31e079dc85d5d47d258e9784": {
-        "en": "Second University of Naples", 
-        "it": "Seconda Universit\u00e0 degli Studi di Napoli"
+        "en": "Vanvitelli University", 
+        "it": "Universit\u00e0 degli Studi della Campania Luigi Vanvitelli"
     }, 
     "0cefc7592c956a26e7eaccc183fe239d2acf6101": {
         "en": "University of Verona", 
-        "it": "Universita' di Verona"
+        "it": "Universit\u00e0 di Verona"
     }, 
     "0e7e073c6b09b7facd5fd8d4774e8e7887d0619f": {
         "en": "Istituto Zooprofilattico Sperimentale dell'Abruzzo e del Molise \"G. Caporale\"", 
@@ -88,6 +88,10 @@
         "en": "University of Florence", 
         "it": "Universit\u00e0 di Firenze"
     }, 
+    "2ef27393eb325a84698efd4c30b0513caee6fb99": {
+        "en": "IRCCS INMI Spallanzani - Roma", 
+        "it": "IRCCS INMI Spallanzani - Roma"
+    }, 
     "2f21ff9e3a4997134886fbb75663b056c76c8d71": {
         "en": "Universit\u00e0 degli Studi Internazionali di Roma - UNINT", 
         "it": "Universit\u00e0 degli Studi Internazionali di Roma - UNINT"
@@ -134,7 +138,7 @@
     }, 
     "40b2f63cb58a5c2a297913c157fc1bd35db01a14": {
         "en": "University of Piemonte Orientale", 
-        "it": "Universita degli studi del Piemonte Orientale"
+        "it": "Universit\u00e0 degli studi del Piemonte Orientale"
     }, 
     "46285dc138110b6efaa03128d0e579dcdec252d3": {
         "en": "Politecnico di Bari", 
@@ -222,7 +226,7 @@
     }, 
     "82ef0f4a71e37274126d31868719525c2db31a31": {
         "en": "Bocconi University", 
-        "it": "Universita' Bocconi"
+        "it": "Universit\u00e0 Bocconi"
     }, 
     "8429f4f428af004093d09d04f6a5844ace6fb404": {
         "en": "University of Palermo", 

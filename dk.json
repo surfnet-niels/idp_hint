@@ -23,10 +23,6 @@
         "da": "International Business College", 
         "en": "International Business College"
     }, 
-    "24b2a1ffa49d929aaf5dd6248d918c59e14589a4": {
-        "da": "UCL Erhvervsakademi og Professionsh\u00f8jskole", 
-        "en": "UCL University College"
-    }, 
     "250c70849aaf69bf353175ec9f3ef904757f6914": {
         "da": "KEA \u2013 K\u00f8benhavns Erhvervsakademi", 
         "en": "KEA \u2013 Copenhagen School of Design and Technology"
@@ -42,10 +38,6 @@
     "2de469b5204b97d4aa2c38483022ecde09ba8339": {
         "da": "Fredericia Maskinmesterskole", 
         "en": "Fredericia Maskinmesterskole"
-    }, 
-    "33ad5b602d2a9fdeb24ffa39a82af82bcebb0ee8": {
-        "da": "Erhvervsakademiet Lilleb\u00e6lt", 
-        "en": "Lillebaelt Academy"
     }, 
     "346280750a984d261a249f4415520934ed8f52ce": {
         "da": "Cphbusiness", 
@@ -74,6 +66,10 @@
     "44a74ece084d67a44ad25a4e9d7065733cc5add5": {
         "da": "K\u00f8benhavns Professionsh\u00f8jskole", 
         "en": "University College Copenhagen"
+    }, 
+    "5042dadd514bd85b90af47834484bc21f202bd32": {
+        "da": "UCL Erhvervsakademi og Professionsh\u00f8jskole", 
+        "en": "UCL"
     }, 
     "518b793f23b58c533e9cb21208e2de22932f9df0": {
         "da": "MARTEC", 
@@ -106,6 +102,10 @@
     "7053ee3cc8f24b02dfac5c9688cc48d96a909df9": {
         "da": "Det Danske Sprog- og Litteraturselskab", 
         "en": "Society for Danish Language and Literature"
+    }, 
+    "734b8513664b119aa9ebad0b221f2e130fdf4726": {
+        "da": "TEC", 
+        "en": "TEC"
     }, 
     "73c3e60b0b0f627772a9434b9c579b675055725d": {
         "da": "SIMAC", 

@@ -35,6 +35,10 @@
         "de": "TU Bergakademie Freiberg", 
         "en": "TU Bergakademie Freiberg"
     }, 
+    "0b6490e90b8e0584e1697bb25eddf8f2220f7496": {
+        "de": "Universit\u00e4t Rostock", 
+        "en": "University of Rostock"
+    }, 
     "0c6cbe3e4723415fdb3720343353684e9708d161": {
         "de": "Universit\u00e4t Bremen", 
         "en": "Universit\u00e4t Bremen"
@@ -107,6 +111,10 @@
         "de": "Ostbayerische Technische Hochschule Regensburg", 
         "en": "Ostbayerische Technische Hochschule Regensburg"
     }, 
+    "1cec219c8cc5baf8187ac7d4990a6e654e182524": {
+        "de": "DHBW Heilbronn", 
+        "en": "DHBW Heilbronn"
+    }, 
     "1cee774d9a3938fad439becbca8e7d085ceace1a": {
         "de": "Technische Hochschule L\u00fcbeck", 
         "en": "Technische Hochschule L\u00fcbeck - University of Applied Sciences"
@@ -174,6 +182,10 @@
     "2731090c506fedf7af76686662c5f98caab177e2": {
         "de": "DHBW Karlsruhe", 
         "en": "DHBW Karlsruhe"
+    }, 
+    "28ae951a00044bccd9f605ea85a9e0ffe6487af9": {
+        "de": "Fachhochschule Aachen", 
+        "en": "University of Applied Sciences Aachen"
     }, 
     "2a0b92fbff3d34050f0c8f9ca65e2cea8d1fc0b5": {
         "de": "Universit\u00e4t Witten/Herdecke", 
@@ -431,6 +443,10 @@
         "de": "Hochschule f\u00fcr Technik Stuttgart", 
         "en": "Hochschule f\u00fcr Technik Stuttgart"
     }, 
+    "73df21bfd6a9436a4309b8e500498d83f0671abd": {
+        "de": "Hochschule Anhalt", 
+        "en": "Anhalt University of Applied Sciences"
+    }, 
     "741c5fc2a23dbae47fdc60f52fdd6d881c350ad4": {
         "de": "Ministerium f\u00fcr Bildung, Wissenschaft und Kultur Mecklenburg-Vorpommern", 
         "en": "Ministry of Education, Science and Culture Mecklenburg-Vorpommern"
@@ -542,6 +558,10 @@
     "96b0b37f5f64b8b016a7b1a67c506bfd9955e60c": {
         "de": "Leuphana - Universitaet Lueneburg", 
         "en": "Leuphana - University Lueneburg"
+    }, 
+    "9729206b61905691fa7e56337a236c24b944b66c": {
+        "de": "Deutsche Sporthochschule K\u00f6ln", 
+        "en": "German Sport University Cologne"
     }, 
     "974b2004bae51f557f42c01ff0f03790eff36a65": {
         "de": "Georg-August Universit\u00e4t G\u00f6ttingen", 
@@ -804,8 +824,8 @@
         "en": "Trier University of Applied Sciences"
     }, 
     "efdecbcbbbafcc9bdaa1e26de07279baa03a5175": {
-        "de": "Helmholtz Zentrum M\u00fcnchen", 
-        "en": "Helmholtz Zentrum Muenchen"
+        "de": "Helmholtz Zentrum M\u00fcnchen GmbH", 
+        "en": "Helmholtz Zentrum Muenchen GmbH"
     }, 
     "f0f37695674c95cd1b5c6607397a29d320ae9f7d": {
         "de": "Universit\u00e4t Mannheim", 
@@ -839,13 +859,13 @@
         "de": "Hochschule f\u00fcr Angewandte Wissenschaften Hof", 
         "en": "University of Applied Sciences Hof"
     }, 
+    "f72ba5ece1aef2d7e90eaff5cb0985a9577365bb": {
+        "de": "Hochschule f\u00fcr Musik und Tanz K\u00f6ln", 
+        "en": "Hochschule f\u00fcr Musik und Tanz K\u00f6ln"
+    }, 
     "f7eac9d4f9a1d051e1fcd139befe2a4f6e87da42": {
         "de": "HfWU N\u00fcrtingen-Geislingen", 
         "en": "HfWU Nuertingen-Geislingen"
-    }, 
-    "f8a93a999e3a0e445c5acdf5fa2f20eacdc6cbba": {
-        "de": "DFN AAI Integration + Test IdP", 
-        "en": "DFN AAI Integration + Test IdP"
     }, 
     "f9fd13fe84a4e2128ce0102b3c5aed4576d24c3c": {
         "de": "Universit\u00e4t Greifswald", 
