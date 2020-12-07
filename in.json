@@ -1,4 +1,7 @@
 {
+    "007a8b4d1068f9a1120d24de32413b6db597d412": {
+        "en": "Vivekanand Education Society"
+    },
     "024579af3991627b14be603cb0c9ef0ce6ade26a": {
         "en": "National Institute of Technology, Hamirpur"
     },
@@ -20,6 +23,9 @@
     "10bf81a155f041eb773d21bd07c2a0e004eeca99": {
         "en": "Sant Longowal Institute of Engineering and Technology"
     },
+    "156844fa292205a941932baf1f4a199e46ea7500": {
+        "en": "Indian Institute of Engineering Science and Technology, Shibpur"
+    },
     "15c93f41bd06e9b7296ea77c5fd52b6ffd928a82": {
         "en": "Mahatma Gandhi University, Kerala"
     },
@@ -29,11 +35,17 @@
     "1d6f18b573e76cb8e1fed14b1ec06b22c417a421": {
         "en": "INFLIBNET Staff [Parichay Identity Service]"
     },
+    "23cd26ae66514b8a6993c7e88c73c3387d4b96b0": {
+        "en": "SRM University AP Amravati"
+    },
     "267daf764835df4c6160ea2aa9ac7f01ba9f5d59": {
         "en": "Indian Institute of Science, Bengaluru"
     },
     "2692f0dc37b4281763e69f9cc35e51200daae487": {
         "en": "Shiv Nadar University"
+    },
+    "28332b23ed8050dc48409a072253d6251a380011": {
+        "en": "Indian Institute of Technology (ISM) Dhanbad"
     },
     "296c1713c7a04cdb1e9bf4931800050101506461": {
         "en": "Ambedkar University Delhi"
@@ -53,6 +65,12 @@
     "35413a195708dd13af126fb7a55a786354bfb27c": {
         "en": "Gulbarga University"
     },
+    "3a13c5a2ec0d74bb2e490e5eecba8aed980bdf18": {
+        "en": "Inter-University Centre for Astronomy and Astrophysics"
+    },
+    "3dfcef1ed8d9b4544f9fab139cf8fef47c111587": {
+        "en": "Sree Sankaracharya University of Sanskrit"
+    },
     "3e130d4dcc2fb39a29f2e8db204135aa5dda16f0": {
         "en": "Zeal College of Engineering and Research"
     },
@@ -68,11 +86,23 @@
     "41cef03804a30089ccf0676d314c1bfa421e3d01": {
         "en": "Manipal University Jaipur"
     },
+    "42c79eee8769bb26421307b979af7f83dce5a0ab": {
+        "en": "Coimbatore Institute of Technology"
+    },
     "45b1acf76279faecad97616b5ac53b3ef43cdc1b": {
         "en": "JSS Academy of Higher Education and Research"
     },
+    "4666e4eff51aba7b2f9e01865f7c1fe458a8774e": {
+        "en": "Indraprastha Institute of Information Technology Delhi (IIIT-Delhi)"
+    },
+    "47939b31f3fc9b9a5bffedd7c0eb9ffa691186ca": {
+        "en": "School of Planning and Architecture, Vijayawada"
+    },
     "4c3cafc9c966013162d8afa4eb9254aae25ee15c": {
         "en": "MKSSS's Cummins College of Engineering For Women, Pune"
+    },
+    "5352ed7d6936324ebfa3982d8285873d4509e5ad": {
+        "en": "INFLIBNET Test"
     },
     "599e478fc37cdb47030f420d897bb14469f7a43c": {
         "en": "Institute of Infrastructure Technology Research and Management"
@@ -89,6 +119,9 @@
     "67caa09e5931bb455fbff5a8a71f41916d86c23b": {
         "en": "National Institute for Research in Tuberculosis"
     },
+    "6a90aad4f5c0f621d7d5637b12784f756fde6ae5": {
+        "en": "Assam University, Silchar"
+    },
     "6c1d5a864f02d02457326e787d4706318dbaf200": {
         "en": "Banaras Hindu University"
     },
@@ -100,6 +133,12 @@
     },
     "787333e3e49a2afb3ebfa60202d49d8e5422d72d": {
         "en": "PES University"
+    },
+    "796a8749b1d5b00999d84f9f2fa960182db66d7b": {
+        "en": "Sardar Vallabhbhai National Institute of Technology"
+    },
+    "7c4f7b6c1ef77372ac37cdf17deef26d80b63b28": {
+        "en": "Nirma University"
     },
     "847d23226267a31ae2e9b86108e5aab9cd760033": {
         "en": "Indian Institute of Management, Ahmedabad"
@@ -125,6 +164,9 @@
     "8cb191774679cda5d429a3a55aa91c1c3eea6da8": {
         "en": "Nagaland University"
     },
+    "8f960fabc1e0bce184a3c85011675935d5da8dd9": {
+        "en": "Birla Institute of Technology and Science, Pilani  Hyderabad"
+    },
     "941ce891b0422f6bd20259835d0ced0f4fb2e503": {
         "en": "Alagappa University, Tamil Nadu"
     },
@@ -137,8 +179,20 @@
     "9a2b73c6bba15f2034e87b127b4da022df29e388": {
         "en": "Alliance University"
     },
+    "9cfe5e6ca7b1cc65d66d0bfa06c523e4d2bf220b": {
+        "en": "BITS Pilani, Goa Campus"
+    },
     "a2ae8d67660f1a78d8bbe948138b2ac94f7b3cd1": {
         "en": "Bharati Vidyapeeth University,Pune"
+    },
+    "a479b09f2f797a93432c9e8bc1225c71894af85a": {
+        "en": "Prin. L. N. Welingkar Institute of Management Development and Research"
+    },
+    "a5368d63c8838d65f046577bd6e7e0539b131697": {
+        "en": "Indira Gandhi Institute of Development Research(IGIDR)"
+    },
+    "a8b0b1587e77ca84db32c4ee64d48d60a344ff70": {
+        "en": "LIGO-India Test Scientific Collaboration"
     },
     "ab27fda297fca4569c7ef787c95ec7906add4df1": {
         "en": "Central University of Tamilnadu"
@@ -161,11 +215,17 @@
     "baa2469baebdc564ef446d85e8d01a16f0e1071a": {
         "en": "Bharathidasan University"
     },
+    "be8b27460be63724a80b59eb24522481f32eb382": {
+        "en": "Kurukshetra University"
+    },
     "c0861ddecb3f5a0f54d58f948c2d8549d91373ad": {
         "en": "Institute for Social and Economic Change"
     },
     "c43d6f9d3c4a2922e3befd0d9fd180fa07f34726": {
         "en": "Sikkim University"
+    },
+    "c9ccddd0fa75740bff412733bfa4670caac6cacb": {
+        "en": "National Institute of Technology Durgapur"
     },
     "ce61077c79c94789f87b3b1fa221ac9b7fcb5d07": {
         "en": "Central University of Jammu"
@@ -188,6 +248,18 @@
     "d7688a60f108f9690aa49a9dcbfcf00bd4ad2f2b": {
         "en": "Tamil Nadu Veterinary and Animal Sciences University"
     },
+    "db6683c356837376295f8c74389de624d6200261": {
+        "en": "Vellalar College For Women"
+    },
+    "ea085bf79791d21b771c1c2e83ce3f7afa136fab": {
+        "en": "CEPT University"
+    },
+    "ec1d3940c753584a0feaa7880c39eb6e13a8390f": {
+        "en": "Manipur University"
+    },
+    "f0bba2ff1d97c564bd3b67f4bcfd6290ec93ef41": {
+        "en": "International Institute of Information Technology Bangalore"
+    },
     "f1f289347ec0ea6471ca15ccfc11ff511814c237": {
         "en": "Indian Institute of Technology Madras"
     },
@@ -199,6 +271,9 @@
     },
     "fc08018d6a44e2cb72d4dd90d1e38b03cb8c78a2": {
         "en": "Vinayaka Mission's Research - DU"
+    },
+    "fcbf4d1e9c2c7efe3fc443a55870e75ea4188ced": {
+        "en": "OP Jindar University"
     },
     "fd56687318ed4ba7e5eabdbf5343607b366f002e": {
         "en": "National Institute of Technology Delhi"

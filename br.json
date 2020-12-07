@@ -19,6 +19,10 @@
         "en": "CESAR - Centro de Estudos e Sistemas Avancados do Recife",
         "pt-br": "CESAR - Centro de Estudos e Sistemas Avancados do Recife"
     },
+    "03518188feb7338041f7de29f016cebc1bffda8d": {
+        "en": "FAP - Fundacao Antonio Prudente",
+        "pt-br": "FAP - Fundacao Antonio Prudente"
+    },
     "04a4795007a9cc66bfd0f987e78cba6efc862f1e": {
         "en": "UFVJM - Universidade Federal dos Vales do Jequitinhonha e Mucuri",
         "pt-br": "UFVJM - Universidade Federal dos Vales do Jequitinhonha e Mucuri"
@@ -26,6 +30,10 @@
     "079316edee2633911ecafaff9b554e645c19cc0e": {
         "en": "UFLA - Universidade Federal de Lavras",
         "pt-br": "UFLA - Universidade Federal de Lavras"
+    },
+    "07d57e1f5b04d13352c5465cd7a0118cfe55af07": {
+        "en": "IFPB - Instituto Federal da Paraiba",
+        "pt-br": "IFPB - Instituto Federal da Paraiba"
     },
     "0a3ae74a6054da6fc0c3df36ff4dd6d3aa5b03cc": {
         "en": "UFPE - Universidade Federal de Pernambuco",
@@ -63,6 +71,10 @@
         "en": "IEN - Instituto de Engenharia Nuclear",
         "pt-br": "IEN - Instituto de Engenharia Nuclear"
     },
+    "102e2d55152d9eb4fc63367db36291a660656728": {
+        "en": "PUCSP - Pontificia Universidade Catolica de Sao Paulo",
+        "pt-br": "PUCSP - Pontificia Universidade Catolica de Sao Paulo"
+    },
     "1200e1d819829e5bb99669d058b8cb2d6b557f69": {
         "en": "UFCSPA - Univ. Fed. de Ciencias da Saude de Porto Alegre",
         "pt-br": "UFCSPA - Univ. Fed. de Ciencias da Saude de Porto Alegre"
@@ -95,10 +107,6 @@
         "en": "UFFS - Universidade Federal da Fronteira Sul",
         "pt-br": "UFFS - Universidade Federal da Fronteira Sul"
     },
-    "2110310a001babdea5c3aa3309566001679ecc91": {
-        "en": "UFRRJ - Universidade Federal Rural do Rio de Janeiro",
-        "pt-br": "UFRRJ - Universidade Federal Rural do Rio de Janeiro"
-    },
     "2158d033e12f1bd6222e9682668a873def72f706": {
         "en": "UPE - Universidade de Pernambuco",
         "pt-br": "UPE - Universidade de Pernambuco"
@@ -123,9 +131,9 @@
         "en": "UEG - Universidade Estadual de Goias",
         "pt-br": "UEG - Universidade Estadual de Goias"
     },
-    "2cd279ba5baa4eee1cc8a07ee2263d542b0ecf02": {
-        "en": "UNIDAVI - Universidade para o Desenvolvimento do Alto Vale do Itajai",
-        "pt-br": "UNIDAVI - Universidade para o Desenvolvimento do Alto Vale do Itajai"
+    "2f9f2f1ecc483fbb89e6286bd64fa4321093cc9a": {
+        "en": "IFAL - Instituto Federal de Alagoas",
+        "pt-br": "IFAL - Instituto Federal de Alagoas"
     },
     "3088d6a1d8ee1d76ca5847eb91ee86b509a26143": {
         "en": "HSR - Hospital Sao Rafael S.A",
@@ -138,10 +146,6 @@
     "31e1774bc5c66eb4e3affab01e6bbc6d61af51ef": {
         "en": "IFTM - Instituto Federal do Triangulo Mineiro",
         "pt-br": "IFTM - Instituto Federal do Triangulo Mineiro"
-    },
-    "3253900b4f32fc04d7d46972d18e32284066dab8": {
-        "en": "UEA - Universidade do Estado do Amazonas",
-        "pt-br": "UEA - Universidade do Estado do Amazonas"
     },
     "33af2f3fb53c2625352f7657672e1ec2e0ae86d1": {
         "en": "UFRGS - Universidade Federal do Rio Grande do Sul",
@@ -167,9 +171,17 @@
         "en": "IDSM - Instituto de Desenvolvimento Sutentavel Mamiraua",
         "pt-br": "IDSM - Instituto de Desenvolvimento Sutentavel Mamiraua"
     },
+    "391876224fad063281a0f3657d1cf207b4b13cbd": {
+        "en": "UFT - Universidade Federal do Tocantins",
+        "pt-br": "UFT - Universidade Federal do Tocantins"
+    },
     "393b80c1a2c67ec73176457a190ae400d9fbb2fb": {
         "en": "FNDE - Fundo Nacional de Desenvolvimento da Educacao",
         "pt-br": "FNDE - Fundo Nacional de Desenvolvimento da Educacao"
+    },
+    "39b6dd3ea84c13ad74e29df932ec43d74ab09af1": {
+        "en": "FAPEPI - Fundacao de Amparo a Pesquisa do Piaui",
+        "pt-br": "FAPEPI - Fundacao de Amparo a Pesquisa do Piaui"
     },
     "3a2d55eeb82f019ae879d51351c036f2ab0d44a6": {
         "en": "UNINOVE - Universidade Nove de Julho",
@@ -199,10 +211,6 @@
         "en": "UEPG - Universidade Estadual de Ponta Grossa",
         "pt-br": "UEPG - Universidade Estadual de Ponta Grossa"
     },
-    "43b194e5b7903dc68692ad87a987377270ce4a2f": {
-        "en": "SLM - Faculdade Sao Leopoldo Mandic",
-        "pt-br": "SLM - Faculdade Sao Leopoldo Mandic"
-    },
     "43b52e3e1c578ea84d19a6a047b68d72f61b4283": {
         "en": "IFSP - Instituto Federal de Sao Paulo",
         "pt-br": "IFSP - Instituto Federal de Sao Paulo"
@@ -227,6 +235,10 @@
         "en": "GUAMA - Fundacao Parque de Ciencia e Tecnologia Guama",
         "pt-br": "GUAMA - Fundacao Parque de Ciencia e Tecnologia Guama"
     },
+    "48bde86724f4154601efa49b89f6fd8797f95b56": {
+        "en": "UFSC - Universidade Federal de Santa Catarina",
+        "pt-br": "UFSC - Universidade Federal de Santa Catarina"
+    },
     "49aa36c71c26803c83515d7c73a89d294075ba4b": {
         "en": "UFRN - Universidade Federal do Rio Grande do Norte",
         "pt-br": "UFRN - Universidade Federal do Rio Grande do Norte"
@@ -234,6 +246,14 @@
     "49cc774a9367505af0180fb1eeb6af175cfa757a": {
         "en": "ON - Observatorio Nacional",
         "pt-br": "ON - Observatorio Nacional"
+    },
+    "4a956bbce95094e0be3dca8e217878b29216ea66": {
+        "en": "PUCGOIAS - Pontificia Universidade Catolica de Goias",
+        "pt-br": "PUCGOIAS - Pontificia Universidade Catolica de Goias"
+    },
+    "4b369bd4665844e821f585830991dfe006cc6322": {
+        "en": "FURG - Universidade Federal do Rio Grande",
+        "pt-br": "FURG - Universidade Federal do Rio Grande"
     },
     "4c31fcaee8f70c0e3851551a0ea152e343bcac98": {
         "en": "HFA - Hospital das Forcas Armadas",
@@ -264,12 +284,8 @@
         "pt-br": "ISD - Instituto Santos Dumont"
     },
     "526002f20d0fe5f8620aa01b8323a22739719826": {
-        "en": "UFERSA - UNIVERSIDADE FEDERAL RURAL DO SEMI-ARIDO",
-        "pt-br": "UFERSA - UNIVERSIDADE FEDERAL RURAL DO SEMI-ARIDO"
-    },
-    "5394a956a716c16855c70940972ccbc90d545da9": {
-        "en": "LNA - Laboratorio Nacional de Astrofisica",
-        "pt-br": "LNA - Laboratorio Nacional de Astrofisica"
+        "en": "UFERSA - Universidade Federal Rural do Semi-Arido",
+        "pt-br": "UFERSA - Universidade Federal Rural do Semi-Arido"
     },
     "5cc22a58e877474af831df354f2e8ac0c794a6c5": {
         "en": "UEM - Universidade Estadual de Maringa",
@@ -279,17 +295,13 @@
         "en": "AEB - Agencia Espacial Brasileira",
         "pt-br": "AEB - Agencia Espacial Brasileira"
     },
+    "6124c0132f28f87aa3e2b6d932f840935a6a3f04": {
+        "en": "UNIPAMPA - Universidade Federal do Pampa",
+        "pt-br": "UNIPAMPA - Universidade Federal do Pampa"
+    },
     "62efe0515e16b0f86cd1f626fe9586e61b2ff878": {
         "en": "CITTA - Centro de Inovacao e Tecnologia Telmo Araujo",
         "pt-br": "CITTA - Centro de Inovacao e Tecnologia Telmo Araujo"
-    },
-    "63ff94eb2cda6c39fb1c72ca0fa20242eea3aaff": {
-        "en": "UNEMAT - Universidade do Estado de Mato Grosso",
-        "pt-br": "UNEMAT - Universidade do Estado de Mato Grosso"
-    },
-    "64aa0ef74ce918c80ce7e5ccce4e9ac7695404a2": {
-        "en": "UFCG - Universidade Federal de Campina Grande",
-        "pt-br": "UFCG - Universidade Federal de Campina Grande"
     },
     "65d6a7ce99ce9ae2a73897e9d02f00b263f63976": {
         "en": "INCAPER - Instituto de Pesquisa, Assistencia Tecnica e Extensao Rural",
@@ -299,10 +311,6 @@
         "en": "IMPA - Instituto Nacional de Matematica Pura e Aplicada",
         "pt-br": "IMPA - Instituto Nacional de Matematica Pura e Aplicada"
     },
-    "6a1b9bf99c16c28144b64535709edd2608ad130d": {
-        "en": "IFGOIANO - Instituto Federal Goiano",
-        "pt-br": "IFGOIANO - Instituto Federal Goiano"
-    },
     "6a71bffb5754c430cb18db911ed0b778edfc3698": {
         "en": "FAPES - Fundacao de Amparo a Pesquisa e Inovacao do Espirito Santo",
         "pt-br": "FAPES - Fundacao de Amparo a Pesquisa e Inovacao do Espirito Santo"
@@ -311,13 +319,13 @@
         "en": "USF - Universidade Sao Francisco",
         "pt-br": "USF - Universidade Sao Francisco"
     },
+    "702c5f5e17c327a05a02682f6f43a36d03129487": {
+        "en": "UNIFTC - Centro Universitario UniFTC",
+        "pt-br": "UNIFTC - Centro Universitario UniFTC"
+    },
     "739f6e9204a232ff2d3e39a1ef3c7df15cb65ae3": {
         "en": "SES-GO - Secretaria de Estado de Saude de Goias",
         "pt-br": "SES-GO - Secretaria de Estado de Saude de Goias"
-    },
-    "741da6321fddeca918a67adf5cb3f232badc0c3e": {
-        "en": "UFC - Universidade Federal do Ceara",
-        "pt-br": "UFC - Universidade Federal do Ceara"
     },
     "74211fef4e2eee216993008971fb13aff43516c6": {
         "en": "IFRS - Instituto Federal de Educacao Ciencia e Tecnologia do Rio Grande do Sul",
@@ -355,6 +363,10 @@
         "en": "CARAJAS - Grupo Educacional Carajas",
         "pt-br": "CARAJAS - Grupo Educacional Carajas"
     },
+    "7fd263e92d11e9e604a33d4acd0909fec9e31a26": {
+        "en": "CPQD - Centro de Pesquisa e Desenvolvimento em Telecomunicacoes",
+        "pt-br": "CPQD - Centro de Pesquisa e Desenvolvimento em Telecomunicacoes"
+    },
     "810d27e627aa5a7328cddedfc09b478ab969bfda": {
         "en": "CEITEC - Centro Nac.Tec.Elet.Avancada",
         "pt-br": "CEITEC - Centro Nac.Tec.Elet.Avancada"
@@ -378,6 +390,10 @@
     "837f325edbd001d7fd517409d176fe23671a0993": {
         "en": "FAMPECT - Fundacao Wilson Picler de Amparo a Educacao, Ciencia e Tecnologia.",
         "pt-br": "FAMPECT - Fundacao Wilson Picler de Amparo a Educacao, Ciencia e Tecnologia."
+    },
+    "83daf8eafeaa373b58e560ff450f2ca4f734e3b8": {
+        "en": "ASCES-UNITA - Centro Universitario Tabosa de Almeida",
+        "pt-br": "ASCES-UNITA - Centro Universitario Tabosa de Almeida"
     },
     "8422be18754f723cdfa446b8d0a20e534f8dc627": {
         "en": "APTSJC - Associacao Parque Tecnologico Sao Jose dos Campos",
@@ -407,6 +423,14 @@
         "en": "UNIS - Centro Universitario do Sul de Minas",
         "pt-br": "UNIS - Centro Universitario do Sul de Minas"
     },
+    "987243075e01aaf7d388413b373130db57317e5a": {
+        "en": "IFB - Instituto Federal de Brasilia",
+        "pt-br": "IFB - Instituto Federal de Brasilia"
+    },
+    "9edab61d720cec3f29675b30af940ea199dd7aa7": {
+        "en": "MCTI - Ministerio da Ciencia Tecnologia e Inovacoes",
+        "pt-br": "MCTI - Ministerio da Ciencia Tecnologia e Inovacoes"
+    },
     "9eeded1cb9475d95255df79449a889939bebfeeb": {
         "en": "UEMG - Universidade do Estado de Minas Gerais",
         "pt-br": "UEMG - Universidade do Estado de Minas Gerais"
@@ -435,13 +459,25 @@
         "en": "FUNESA - Fundacao Estadual de Saude",
         "pt-br": "FUNESA - Fundacao Estadual de Saude"
     },
+    "a597b8c07f9b4ac3df0a19853ac5e6fae17d08a3": {
+        "en": "IFMA - Instituto Federal de Educacao Ciencia e Tecnologia do Maranhao",
+        "pt-br": "IFMA - Instituto Federal de Educacao Ciencia e Tecnologia do Maranhao"
+    },
     "a81e483b8acfe1c190bf6b1af5eac523756176ad": {
         "en": "FAC - FACENS - Faculdade de Engenharia de Sorocaba",
         "pt-br": "FAC - FACENS - Faculdade de Engenharia de Sorocaba"
     },
+    "aa835674747a6c6605468764e3b2220127bacfcb": {
+        "en": "UNILASALLE - Universidade La Salle",
+        "pt-br": "UNILASALLE - Universidade La Salle"
+    },
     "aab5989a776c8e9c47f12808c80fc431125a1fad": {
         "en": "UFRJ - Universidade Federal do Rio de Janeiro",
         "pt-br": "UFRJ - Universidade Federal do Rio de Janeiro"
+    },
+    "ab81103c31e2a0d9eb26afa3a3c6b1b62523b664": {
+        "en": "IME - Instituto Militar de Engenharia",
+        "pt-br": "IME - Instituto Militar de Engenharia"
     },
     "abc5f2c904e536f7e8e2bc1e05dd2b0bbb01398b": {
         "en": "FURB - Fundacao Universidade Regional de Blumenau",
@@ -459,6 +495,10 @@
         "en": "MCTIC - Ministerio da Ciencia Tecnologia Inovacao e Comunicacao",
         "pt-br": "MCTIC - Ministerio da Ciencia Tecnologia Inovacao e Comunicacao"
     },
+    "ae6eea26e393ca8513798c20c9fdbf6c8a7fe8be": {
+        "en": "UNIJORGE - Centro Universitario Jorge Amado",
+        "pt-br": "UNIJORGE - Centro Universitario Jorge Amado"
+    },
     "ae7a5059384eeea0084d0c9bcc45b5ea71f5c203": {
         "en": "ESG - Escola Superior de Guerra",
         "pt-br": "ESG - Escola Superior de Guerra"
@@ -467,9 +507,17 @@
         "en": "UNESP - Universidade Estadual Paulista Julio de Mesquita Filho",
         "pt-br": "UNESP - Universidade Estadual Paulista Julio de Mesquita Filho"
     },
+    "b4fd3f0db0f3bcb4790a0053afcf87b4ad6becf8": {
+        "en": "UVA - Universidade Veiga de Almeida",
+        "pt-br": "UVA - Universidade Veiga de Almeida"
+    },
     "b56e34221df0a9535e274fb56397099c6c29eca3": {
         "en": "UFRR - Universidade Federal de Roraima",
         "pt-br": "UFRR - Universidade Federal de Roraima"
+    },
+    "b71e2bc992a9f84cacdbe3363bb08f8dc73f3334": {
+        "en": "CPII - Colegio Pedro II",
+        "pt-br": "CPII - Colegio Pedro II"
     },
     "b7fa00d3ead971e1b517c51578047d597cdab7da": {
         "en": "UFU - Universidade Federal de Uberlandia",
@@ -503,6 +551,10 @@
         "en": "FAPEG - Fundacao de Amparo a Pesquisa do Estado de Goias",
         "pt-br": "FAPEG - Fundacao de Amparo a Pesquisa do Estado de Goias"
     },
+    "c02331c08a764e86b50fc7794d75ef82845ed0b9": {
+        "en": "UFJF - Universidade Federal de Juiz de Fora",
+        "pt-br": "UFJF - Universidade Federal de Juiz de Fora"
+    },
     "c248556e16bc06cbb1e4a2746d3553173628936e": {
         "en": "FCMSCSP - Faculdade de Ciencia Medicas Santa Casa",
         "pt-br": "FCMSCSP - Faculdade de Ciencia Medicas Santa Casa"
@@ -514,6 +566,10 @@
     "c37811dbb0d1070a06b6019b8df08f2744115e9b": {
         "en": "UFOP - Universidade Federal de Ouro Preto",
         "pt-br": "UFOP - Universidade Federal de Ouro Preto"
+    },
+    "c5a965304b155193ba35fdfe07e7decc213c5794": {
+        "en": "UFR - Universidade Federal de Rondonopolis",
+        "pt-br": "UFR - Universidade Federal de Rondonopolis"
     },
     "c6b78eef4301253ee5f2fb5a58a647b16c6e569c": {
         "en": "UFMS - Universidade Federal de Mato Grosso do Sul",
@@ -615,10 +671,6 @@
         "en": "UNIFA - Universidade da Forca Aerea",
         "pt-br": "UNIFA - Universidade da Forca Aerea"
     },
-    "ed0cbc816554f5496fabece3ea24daa8f7bba584": {
-        "en": "FAPEAL - Fundacao de Amparo a Pesquisa de Alagoas",
-        "pt-br": "FAPEAL - Fundacao de Amparo a Pesquisa de Alagoas"
-    },
     "eee3bade67e0dfc0d82f6725238e19a2d8b5135e": {
         "en": "UFABC - Universidade Federal do ABC",
         "pt-br": "UFABC - Universidade Federal do ABC"
@@ -630,6 +682,10 @@
     "f137678f0f5fc73c0aac58bffb27632932367ba2": {
         "en": "UNISO - Universidade de Sorocaba",
         "pt-br": "UNISO - Universidade de Sorocaba"
+    },
+    "f3a50a3836d11367c7d3c464228dd44717e32b49": {
+        "en": "UNIRIO - Universidade Federal do Estado do Rio de Janeiro",
+        "pt-br": "UNIRIO - Universidade Federal do Estado do Rio de Janeiro"
     },
     "f528b3888e8d400703c3917bdb56d181f1db9c1b": {
         "en": "IGESDF - Instituto de Gestao Estrategica de Saude do Distrito Federal",
@@ -658,10 +714,6 @@
     "fd0574512ad24c834525f6e007af1e48912dc31f": {
         "en": "CEMADEN - Centro Nac Monit e Alertas de Desastres Naturais",
         "pt-br": "CEMADEN - Centro Nac Monit e Alertas de Desastres Naturais"
-    },
-    "fd596fd6e22bc40497b9cc6116e2169e7ee4bfa7": {
-        "en": "INPE - Instituto Nacional de Pesquisas Espaciais",
-        "pt-br": "INPE - Instituto Nacional de Pesquisas Espaciais"
     },
     "fdf95094ea7de4d7f1cbdb4593b1d1c6bcea9126": {
         "en": "URCAMP - Universidade da Regiao da Campanha",

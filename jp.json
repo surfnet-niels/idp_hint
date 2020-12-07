@@ -3,9 +3,21 @@
         "en": "Tokyo University of Agriculture and Technology",
         "ja": "\u6771\u4eac\u8fb2\u5de5\u5927\u5b66"
     },
+    "07f6fe369d15c59a17e133a7890fe5f38b3987da": {
+        "en": "Tohoku University",
+        "ja": "\u6771\u5317\u5927\u5b66"
+    },
     "0dc25327aeecd7afd3eb264df014db487175928a": {
         "en": "National Institute of Informatics",
         "ja": "\u56fd\u7acb\u60c5\u5831\u5b66\u7814\u7a76\u6240"
+    },
+    "1a13d984467611c46f1bcb6fb391f612badc303e": {
+        "en": "IDE-JETRO",
+        "ja": "\u30a2\u30b8\u30a2\u7d4c\u6e08\u7814\u7a76\u6240"
+    },
+    "1f0f881fbc183ca87ae016eb77ff6625626a50c1": {
+        "en": "Nara Institute of Science and Technology",
+        "ja": "\u5948\u826f\u5148\u7aef\u79d1\u5b66\u6280\u8853\u5927\u5b66\u9662\u5927\u5b66"
     },
     "20ce136325d4574e5a5f157e6e486c8e706a5f7b": {
         "en": "Tokyo Denki University",
@@ -14,6 +26,10 @@
     "2b7ad95c8b7f612e2180d0af1f6099fbcf1e324f": {
         "en": "Tokyo Dental College",
         "ja": "\u6771\u4eac\u6b6f\u79d1\u5927\u5b66"
+    },
+    "2f1bad0ffc4a050a9b77dbb4a0e02d0a9b7e8cfd": {
+        "en": "Niigata University",
+        "ja": "\u65b0\u6f5f\u5927\u5b66"
     },
     "3386e9cf4e106596e23f3b3f5adf58a3c33fca58": {
         "en": "Chiba Institute of Technology",
@@ -142,6 +158,10 @@
     "ec5efd12b808e1e4c831890bb417e7dbcd2386a1": {
         "en": "Waseda University",
         "ja": "\u65e9\u7a32\u7530\u5927\u5b66"
+    },
+    "f19511e217239d490827ae3bbfd752e0f9b1a6cd": {
+        "en": "Yamanashi Gakuin University",
+        "ja": "\u5c71\u68a8\u5b66\u9662\u5927\u5b66"
     },
     "f39b434aecfe30d713ecfec70c94ce53de7e5c9a": {
         "en": "Kurume Institute of Technology",

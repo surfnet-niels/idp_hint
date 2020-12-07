@@ -36,6 +36,13 @@
     "2b817447d7d4573166f9d3a40a5eb6282c786b55": {
         "en": "University of Western Ontario"
     },
+    "2bf796fa811b27bef85ceedb9eadddfc3fa7556d": {
+        "en": "Coll\u00e8ge Bor\u00e9al",
+        "fr": "Coll\u00e8ge Bor\u00e9al"
+    },
+    "33b7347830d79e8d54a0b294c29fc5069d7e71e6": {
+        "en": "Selkirk College"
+    },
     "33e58131bfe37059616212e7c0599a0beef5f840": {
         "en": "OCAD University"
     },
@@ -56,6 +63,9 @@
         "en": "Universit\u00e9 du Qu\u00e9bec en Abitibi-T\u00e9miscamingue",
         "fr": "Universit\u00e9 du Qu\u00e9bec en Abitibi-T\u00e9miscamingue"
     },
+    "3e2b0cf9f58789744ce9fe4ab61bf42b58d0a1ab": {
+        "en": "St. Thomas University"
+    },
     "3f5c26b3749789423b53c4618c6af54a08b4e5a7": {
         "en": "Northern Lights College"
     },
@@ -64,6 +74,9 @@
     },
     "3fc3de08539fc8b89e796e8fbf1fd9d2fdf2ed91": {
         "en": "Algoma University"
+    },
+    "41d7ccb4e46f6babe92c0207cba75e8eb9aaa347": {
+        "en": "Durham College and Ontario Tech University"
     },
     "45be996a09e0ee10198209f7f2efcc7bc7c64508": {
         "en": "University of Calgary IdP"
@@ -138,6 +151,9 @@
         "en": "McGill University",
         "fr": "Universit\u00e9 McGill"
     },
+    "83f9f3b9196612ff6e3883fc5ad66ddbd40471cf": {
+        "en": "Dalhousie University"
+    },
     "8493f2bba24ece13bb8323983d341ef038d97130": {
         "en": "Mohawk College of Applied Arts and Technology"
     },
@@ -168,9 +184,6 @@
     "9a8356c9daf15ce2f4ec644bc48c2d4bb075b207": {
         "en": "MacEwan University"
     },
-    "9b81da3f8824426e040d8a78dc8da15ef3f5d8fa": {
-        "en": "St. Thomas University"
-    },
     "a51050a4efa50180d42ab16ac839f7cc3c5647d5": {
         "en": "Capilano University"
     },
@@ -197,9 +210,6 @@
     "ba455295f742b59aed66233087a1a95531d63130": {
         "en": "Trent University"
     },
-    "bdd3fcf4a4af3d5cb5dc8a8e9e75f7409a968c34": {
-        "en": "Concordia University"
-    },
     "bed5c1fd1c55a9ab15fbf2d0fd9efb5ba246b450": {
         "en": "University of Toronto"
     },
@@ -215,8 +225,8 @@
         "fr": "Calcul Canada"
     },
     "ca6717974db3d7c06c651cc865b297825010b860": {
-        "en": "Concordia University - BCI",
-        "fr": "Universit\u00e9 Concordia - BCI"
+        "en": "Concordia University",
+        "fr": "Universit\u00e9 Concordia"
     },
     "cc962b4b2c133f367945e7d58cf9a380dc58c4b8": {
         "en": "Laurentian University"

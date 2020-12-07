@@ -11,6 +11,10 @@
         "en": "Sz\u00e9chenyi Istv\u00e1n University",
         "hu": "Sz\u00e9chenyi Istv\u00e1n Egyetem"
     },
+    "0e1f6d4e14629a82e2a006f36d435cda97336198": {
+        "en": "Centre for Ecological Research",
+        "hu": "\u00d6kol\u00f3giai Kutat\u00f3k\u00f6zpont"
+    },
     "146da2f1f9aee4c134a4296cc063fc4f1027d9b7": {
         "en": "Library and Information Centre of the Hungarian Academy of Sciences",
         "hu": "Magyar Tudom\u00e1nyos Akad\u00e9mia K\u00f6nyvt\u00e1r \u00e9s Inform\u00e1ci\u00f3s K\u00f6zpont"
@@ -55,6 +59,10 @@
         "en": "Research Centre for  Natural Sciences",
         "hu": "Term\u00e9szettudom\u00e1nyi Kutat\u00f3k\u00f6zpont"
     },
+    "682a92fca8010c5fc5c32a166081c525bbe87e45": {
+        "en": "University of Miskolc",
+        "hu": "Miskolci Egyetem"
+    },
     "6aa5bdd94fa2e223dc364da736d9718f69ee9e49": {
         "en": "National University of Public Service",
         "hu": "Nemzeti K\u00f6zszolg\u00e1lati Egyetem"
@@ -63,17 +71,29 @@
         "en": "University of Sopron, Hungary",
         "hu": "Soproni Egyetem"
     },
+    "737d636a65215aa4abb906064bd7d79af1d31fbc": {
+        "en": "Library of the Hungarian Parlament",
+        "hu": "Orsz\u00e1ggy\u0171l\u00e9si K\u00f6nyvt\u00e1r"
+    },
     "79f06d9548aae842341b21df142bb7998305c094": {
-        "en": "MTA BTK",
-        "hu": "MTA BTK"
+        "en": "Research Centre for the Humanities",
+        "hu": "B\u00f6lcs\u00e9szettudom\u00e1nyi Kutat\u00f3k\u00f6zpont"
     },
     "8459f507908b2fb1d359ca9f28f4ac9f0407a28b": {
         "en": "Research Centre for Astronomy and Earth Sciences",
-        "hu": "MTA Csillag\u00e1szati \u00e9s F\u00f6ldtudom\u00e1nyi Kutat\u00f3k\u00f6zpont"
+        "hu": "Csillag\u00e1szati \u00e9s F\u00f6ldtudom\u00e1nyi Kutat\u00f3k\u00f6zpont"
     },
     "8529ce7362e38a99ba71685ea6153716663cb3a3": {
         "en": "Hungarian Academy Database (AAT)",
         "hu": "MTA Akad\u00e9miai Adatt\u00e1r (AAT)"
+    },
+    "95d292b81008a6f5b31f753fa483631b472ec127": {
+        "en": "National Library of Foreign Literature",
+        "hu": "Orsz\u00e1gos Idegennyelv\u0171 K\u00f6nyvt\u00e1r"
+    },
+    "9812d3b1c8f9548daf33b36d83e8ca5223e71bc1": {
+        "en": "Kodol\u00e1nyi J\u00e1nos University",
+        "hu": "Kodol\u00e1nyi J\u00e1nos Egyetem"
     },
     "9bfdd23f2aca26ecd346e3728664989ce3e5b6b9": {
         "en": "MTA, Institutes of Hungarian Academy of Sciences",
@@ -86,10 +106,6 @@
     "b12a2ca05751f9b272b3bf32c877a4e0fda83044": {
         "en": "Szent Istv\u00e1n University",
         "hu": "Szent Istv\u00e1n Egyetem"
-    },
-    "b17bc088266ba4217a4bca2da93d34bb9c0fccd1": {
-        "en": "Kodol\u00e1nyi J\u00e1nos University",
-        "hu": "Kodol\u00e1nyi J\u00e1nos Egyetem"
     },
     "b267df549f28ab9c07b9233c833345b897534c1f": {
         "en": "University of Szeged",
@@ -131,9 +147,9 @@
         "en": "University of P\u00e9cs",
         "hu": "P\u00e9csi Tudom\u00e1nyegyetem"
     },
-    "efd687bcb09cd03b5cfc42a341e19746407bab4f": {
-        "en": "Centre for Ecological Research",
-        "hu": "\u00d6kol\u00f3giai Kutat\u00f3k\u00f6zpont"
+    "f55878ded710c1e2a39b05aa488a675c4c9c8901": {
+        "en": "ELKH E\u00f6tv\u00f6s Lor\u00e1nd Research Network",
+        "hu": "ELKH E\u00f6tv\u00f6s Lor\u00e1nd Kutat\u00e1si H\u00e1l\u00f3zat"
     },
     "f96cd8fb4c12a60e88abbb6cb0c8cba20c57b450": {
         "en": "University of Pannonia",

@@ -7,6 +7,10 @@
         "en": "E-SCIENCE.PL",
         "pl": "Platforma E-SCIENCE.PL"
     },
+    "4015db6fb5fa3e6a17e491baf7b0f83b68d1ffcd": {
+        "en": "Silesian University of Technology",
+        "pl": "Politechnika \u015al\u0105ska"
+    },
     "404c4f6cd4a665837c8fa348dcb8fce6bc62c0b1": {
         "en": "Maria Curie-Sklodowska University",
         "pl": "Uniwersytet Marii Curie-Sk\u0142odowskiej"
@@ -31,6 +35,10 @@
         "en": "TASK Gdansk",
         "pl": "TASK Gda\u0144sk"
     },
+    "7012c785809baae84632af260feb26669d4d0055": {
+        "en": "Poznan University of Technology",
+        "pl": "Politechnika Pozna\u0144ska"
+    },
     "7231bead8d47c2d155dcf1759d1bc3b116a4d938": {
         "en": "PIONIER Consortium"
     },
@@ -53,5 +61,13 @@
     "9cf1e08f2309702b13cc6d0199531f9058d7b56f": {
         "en": "Adam Mickiewicz University",
         "pl": "Uniwersytet im. Adama Mickiewicza w Poznaniu"
+    },
+    "e1f93ead179530e8650c5e4cfb4496c94933b8f9": {
+        "en": "Czestochowa University of Technology",
+        "pl": "Politechnika Cz\u0119stochowska"
+    },
+    "fd1eb0689c936ab391ba18995eca81bc97b4b21b": {
+        "en": "Wroclaw University of Science and Technology",
+        "pl": "Politechnika Wroc\u0142awska"
     }
 }

@@ -11,6 +11,14 @@
         "en": "FCT|FCCN",
         "pt": "FCT|FCCN"
     },
+    "14ff25477c0b82480b4bede3652fbd4ec597ab22": {
+        "en": "Universidade dos A\u00e7ores",
+        "pt": "Universidade dos A\u00e7ores"
+    },
+    "1a524819ec90d1f08d772bdbbc16f1267736690f": {
+        "en": "IPMA",
+        "pt": "IPMA"
+    },
     "1b9510b0cabce184cad6623266c6ec5fb1e820e1": {
         "en": "Escola Naval",
         "pt": "Escola Naval"
@@ -27,6 +35,10 @@
         "en": "Ag\u00eancia Portuguesa do Ambiente",
         "pt": "Ag\u00eancia Portuguesa do Ambiente"
     },
+    "2c650593798f91d2e79199f61fdb125f29224f83": {
+        "en": "Polytechnic Institute of Cavado and Ave",
+        "pt": "Instituto Polit\u00e9cnico Cavado e Ave"
+    },
     "3186a28ff6f20fcb21dd2439064985694eea2133": {
         "en": "Escola Superior Agr\u00e1ria de Viseu",
         "pt": "Escola Superior Agr\u00e1ria de Viseu"
@@ -39,6 +51,10 @@
         "en": "Escola Superior de Enfermagem do Porto",
         "pt": "Escola Superior de Enfermagem do Porto"
     },
+    "3c59ebe9ce6d5ffc7f096c32deeea43ac2c83fca": {
+        "en": "Instituto Universit\u00e1rio Militar",
+        "pt": "Instituto Universit\u00e1rio Militar"
+    },
     "4a3d5894b32af4e93b7e3e2593f4fb7e033c2c91": {
         "en": "UNL - Faculdade de Ci\u00eancias Sociais e Humanas",
         "pt": "UNL - Faculdade de Ci\u00eancias Sociais e Humanas"
@@ -50,6 +66,10 @@
     "6014e941c7cd0594eda179d7b62fdaa2b97e0678": {
         "en": "Instituto Polit\u00e9cnico da Guarda",
         "pt": "Instituto Polit\u00e9cnico da Guarda"
+    },
+    "639c10e48bae17c1259ef14692e74e02ad3af905": {
+        "en": "CESPU - Cooperativa de Ensino Superior Polit\u00e9cnico e Universit\u00e1rio",
+        "pt": "CESPU - Cooperativa de Ensino Superior Polit\u00e9cnico e Universit\u00e1rio"
     },
     "650f6814f44da16879e4bd7a0444dba7b27b2bb9": {
         "en": "ISCTE - Instituto Universitario de Lisboa",
@@ -70,6 +90,10 @@
     "7e44a46be1c853db100feb56298e3e5082b1bf0a": {
         "en": "Escola Superior de Tecnologia e Gest\u00e3o de Lamego",
         "pt": "Escola Superior de Tecnologia e Gest\u00e3o de Lamego"
+    },
+    "823491a8f424ef70a94dd00c9b63e84625615ded": {
+        "en": "Centro Cient\u00edfico e Cultural de Macau",
+        "pt": "Centro Cient\u00edfico e Cultural de Macau"
     },
     "82f36298a4823335ad84d15d8d86537688c532c9": {
         "en": "Escola N\u00e1utica Infante Dom Henrique",
@@ -99,6 +123,10 @@
         "en": "University of \u00c9vora",
         "pt": "Universidade de \u00c9vora"
     },
+    "aa7273bae90bf8434eeddf5de9aed0f2902d1bf8": {
+        "en": "Lisbon Nursing High School",
+        "pt": "Escola Superior de Enfermagem de Lisboa"
+    },
     "b01c9569411ac7e947a17adcbadbda4069401949": {
         "en": "Ci\u00eancia Viva",
         "pt": "Ci\u00eancia Viva"
@@ -126,6 +154,10 @@
     "d007a5bd30d0e7dae9219c0babf719b0ae07576e": {
         "en": "UNL - Instituto Superior de Estat\u00edsticas e Gest\u00e3o Informa\u00e7\u00e3o",
         "pt": "UNL - Instituto Superior de Estat\u00edsticas e Gest\u00e3o Informa\u00e7\u00e3o"
+    },
+    "d167986781a0ade361fe16652f3bf987b2f5640c": {
+        "en": "Universidade Lus\u00edada",
+        "pt": "Universidade Lus\u00edada"
     },
     "d262bb506f6b5a5146a68373551fb56c869ba203": {
         "en": "Universidade Lus\u00f3fona de Humanidades e Tecnologias",
@@ -158,6 +190,10 @@
     "e114d3c0b7d6332ea775b86665d581984cbc9668": {
         "en": "Polytechnic Institute of Porto",
         "pt": "Instituto Polit\u00e9cnico do Porto"
+    },
+    "e63cde792b754523976b73a135da7ad2863ea804": {
+        "en": "CIIMAR",
+        "pt": "CIIMAR"
     },
     "ebd83aede95398e597bfed7f00c9ac11b0ac0dd5": {
         "en": "UNL - Escola Nacional de Sa\u00fade P\u00fablica",

@@ -7,6 +7,10 @@
         "en": "Ghent University",
         "nl": "Universiteit Gent"
     },
+    "1807c94a964d9ea2ca93a0f8e11dc5ab8c61c5c9": {
+        "en": "Liege University - (ULiege / ULg)",
+        "fr": "Universit\u00e9 de Li\u00e8ge - (ULi\u00e8ge / ULg)"
+    },
     "2a03511b03f6b7e560b400a9457f7a4b52eb65c3": {
         "en": "Hasselt University",
         "nl": "Universiteit Hasselt"
@@ -46,9 +50,9 @@
         "en": "University of Mons (UMONS)",
         "fr": "Universite de Mons (UMONS)"
     },
-    "ab27f4b85570cb4cadad16be94e2a7006dbdc65a": {
-        "en": "University of Liege - ULG",
-        "fr": "Universite de Liege - ULG"
+    "b12b1315700a7053774de03b44a0d0c1c7864e10": {
+        "en": "CRA-W",
+        "fr": "CRA-W"
     },
     "c285a82beba9747a854a38e05e4946cb577a76cb": {
         "en": "IDP - ULB (Universite libre de Bruxelles)"
@@ -76,8 +80,5 @@
     "fdb14e60cd120f40bb0d651c2fb9e70122c840cb": {
         "en": "HEPH-Condorcet",
         "fr": "HEPH-Condorcet"
-    },
-    "fe5675baaf3392b11df55b48444847f9d73043d0": {
-        "en": "Hogeschool PXL"
     }
 }

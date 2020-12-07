@@ -7,6 +7,10 @@
         "en": "Rotterdam University of Applied Sciences",
         "nl": "Hogeschool Rotterdam"
     },
+    "0414203fb71dfb18505dfbf1c1356b316f784748": {
+        "en": "Hotelschool The Hague",
+        "nl": "Hotelschool The Hague"
+    },
     "04b9ff27b8397d3e68c67011ace967f596eda404": {
         "en": "Hogeschool Viaa",
         "nl": "Hogeschool Viaa"
@@ -63,6 +67,10 @@
         "en": "NHL Hogeschool",
         "nl": "NHL Hogeschool"
     },
+    "1d51a4f3089f048c8bcd9bbb2846e0738a191ad5": {
+        "en": "University of Twente",
+        "nl": "Universiteit Twente"
+    },
     "1d9df5a7e515d8900c25ee873686f5ed80cddecd": {
         "en": "TNO Innovation for life",
         "nl": "TNO Innovation for life"
@@ -115,6 +123,10 @@
         "en": "Onderwijsgroep Noord",
         "nl": "Onderwijsgroep Noord"
     },
+    "2e3b0251d6754ed24acfc35e63b08f3a082c5c09": {
+        "en": "University of Applied Sciences Leiden",
+        "nl": "Hogeschool Leiden"
+    },
     "2f63af5611ec3ffef61f72df4a22a09dac2de54e": {
         "en": "Zadkine",
         "nl": "Zadkine"
@@ -139,13 +151,13 @@
         "en": "Driestar Educatief",
         "nl": "Driestar Educatief"
     },
-    "3847d6e5a4022c8a1f5516ba8b2930782c379825": {
-        "en": "ROC Albeda",
-        "nl": "ROC Albeda"
-    },
     "3ae2721c7505f508d0db41d324c76e35c0d8e2d9": {
         "en": "SRON Netherlands Institute for Space Research",
         "nl": "SRON Netherlands Institute for Space Research"
+    },
+    "3b4ef690b63e7ea4ba3d0576a928d38b49daa326": {
+        "en": "University of Amsterdam",
+        "nl": "Universiteit van Amsterdam"
     },
     "3e00cf93cb2ce85618e4a448060124021fae9cfc": {
         "en": "AMOLF",
@@ -158,6 +170,10 @@
     "3e479a40d2ba3584a2e6a07f43f20b6819af1528": {
         "en": "Digital Humanities HumanitiesCluster (KNAW)",
         "nl": "Digital Humanities HumanitiesCluster (KNAW)"
+    },
+    "3f2e3b2921c091b615eadee21bda2b91d581f46b": {
+        "en": "ROC Albeda",
+        "nl": "ROC Albeda"
     },
     "3fb00090cfdbd59b9982907b15933b71ef7fb5ea": {
         "en": "Hubrecht Institute & Westerdijk Fungal Biodiversity Institute (KNAW)",
@@ -187,6 +203,10 @@
         "en": "Rijksmuseum Amsterdam",
         "nl": "Rijksmuseum Amsterdam"
     },
+    "4ec91e291c522b3aeceafe32404fe59bf83209e8": {
+        "en": "Delft University of Technology",
+        "nl": "Technische Universiteit Delft"
+    },
     "4effe7f400fbf92470324c4b606b45b009938ac6": {
         "en": "Graafschap College",
         "nl": "Graafschap College"
@@ -202,14 +222,6 @@
     "50ef41bb23cfce2d5ac8c5507440f977c06fafd7": {
         "en": "SURFmarket",
         "nl": "SURFmarket"
-    },
-    "51678ae1e544b76b1b3e298a7e8b66241acfcb01": {
-        "en": "Open Universiteit",
-        "nl": "Open Universiteit"
-    },
-    "58f086da4d7c090533854c4b554c4e5f2a01e6ef": {
-        "en": "MBO Utrecht",
-        "nl": "MBO Utrecht"
     },
     "58f44eb4100a4c6520f2631ae2f6002131d23649": {
         "en": "Netherlands eScience Center",
@@ -307,6 +319,10 @@
         "en": "Academisch Medisch Centrum (AMC)",
         "nl": "Academisch Medisch Centrum (AMC)"
     },
+    "8db9c621e55ba583fd2dcfa4a9e9718e8163591c": {
+        "en": "Open Universiteit",
+        "nl": "Open Universiteit"
+    },
     "8fb7259d44b2b5a34ab222c87aa3eeb85e34c9be": {
         "en": "Royal Tropical Institute",
         "nl": "Koninklijk Instituut voor de Tropen"
@@ -314,6 +330,10 @@
     "904950aef0dec600a608b8835927e52ff644647c": {
         "en": "The Hague University of Applied Science (THUAS)",
         "nl": "De Haagse Hogeschool (HHS)"
+    },
+    "9058c1b1f7a7b079edf082e96ec4a2f5dd09e01b": {
+        "en": "SURF (New)",
+        "nl": "SURF (Nieuw)"
     },
     "9399c60e2ce9b0800605ccb328525d95db914f30": {
         "en": "SURF-bureau",
@@ -331,10 +351,6 @@
         "en": "Zone.College",
         "nl": "Zone.College"
     },
-    "96cd05c24eb0712851a0fe8a01913506d733c937": {
-        "en": "Academisch Ziekenhuis Maastricht",
-        "nl": "Academisch Ziekenhuis Maastricht"
-    },
     "9705b81df14a935ea0542c4e8f19532b3011a484": {
         "en": "Hogeschool de Kempel",
         "nl": "Hogeschool de Kempel"
@@ -344,20 +360,20 @@
         "nl": "Grafisch Lyceum Rotterdam"
     },
     "9af56a80fa1091f319311aeadde7e56d4f81981a": {
-        "en": "Academisch Ziekenhuis Maastricht (new)",
-        "nl": "Academisch Ziekenhuis Maastricht (nieuw)"
+        "en": "Academisch Ziekenhuis Maastricht",
+        "nl": "Academisch Ziekenhuis Maastricht"
     },
     "9b4ef0c11eb1e363072f63ef66737156c7cd13e8": {
         "en": "Grafisch Lyceum Utrecht",
         "nl": "Grafisch Lyceum Utrecht"
     },
+    "9cfae096c908aa456ac800163f4ee5dea94493d7": {
+        "en": "MBO Utrecht",
+        "nl": "MBO Utrecht"
+    },
     "9d9a59b9db888d1acb22152bd36d0ee78e0114b9": {
         "en": "Breda University of Applied Sciences",
         "nl": "Breda University of Applied Sciences"
-    },
-    "9e9b76faaf137eb24f118869c33f532dd9205d5d": {
-        "en": "University of Twente",
-        "nl": "Universiteit Twente"
     },
     "9f38fbc4b61c8f266efeecdbf2efa61d5c273d5e": {
         "en": "Naturalis Biodiversity Center",
@@ -379,6 +395,10 @@
         "en": "Saxion University of Applied Sciences",
         "nl": "Hogeschool Saxion"
     },
+    "a5ca65af3e76a92a6144519cb455fb4a49fd87a7": {
+        "en": "Koninklijke Bibliotheek",
+        "nl": "Koninklijke Bibliotheek"
+    },
     "a6bc247fe0518b561680c44aba618fb39761024e": {
         "en": "Avans University of Applied Sciences",
         "nl": "Avans Hogeschool"
@@ -399,6 +419,10 @@
         "en": "Spinoza Centre for Neuroimaging (KNAW)",
         "nl": "Spinoza Centrum voor Neuroimaging (KNAW)"
     },
+    "af29b30844864cbd2d831a5f9e8ba322b8e76c11": {
+        "en": "SaNS Expertisecentrum",
+        "nl": "SaNS Expertisecentrum"
+    },
     "b1a946f0fdd831881934bd65fc72474406ac7ee0": {
         "en": "ZB Planbureau en bibliotheek van Zeeland",
         "nl": "ZB Planbureau en bibliotheek van Zeeland"
@@ -418,10 +442,6 @@
     "b486f04a6c5505d708dd1729501b6d54bff0a3bd": {
         "en": "Wageningen University & Research (WUR)",
         "nl": "Wageningen University & Research (WUR)"
-    },
-    "b4c4aeda51a50d89f442a1dddd8467467b4d15c5": {
-        "en": "Koninklijke Bibliotheek",
-        "nl": "Koninklijke Bibliotheek"
     },
     "b5e8f888cfa2395c04d2e36722089988fda6abd6": {
         "en": "University of Groningen",
@@ -459,14 +479,6 @@
         "en": "Stenden Hogeschool",
         "nl": "Stenden Hogeschool"
     },
-    "c5efd0523bbd5cf8c472dc33fd997e5668da98b4": {
-        "en": "Hotelschool The Hague",
-        "nl": "Hotelschool The Hague"
-    },
-    "c69b979f1dbc526bd78b96fa2a3a54326b8e55f7": {
-        "en": "University of Amsterdam",
-        "nl": "Universiteit van Amsterdam"
-    },
     "c74dad3bb5bd51aced1001cded6c2f4417d5e159": {
         "en": "Huygens Instituut (KNAW)",
         "nl": "Huygens Instituut (KNAW)"
@@ -503,10 +515,6 @@
         "en": "Design Academy Eindhoven",
         "nl": "Design Academy Eindhoven"
     },
-    "d160dd8199477096885759da7e07f11cac87d731": {
-        "en": "University of Applied Sciences Leiden",
-        "nl": "Hogeschool Leiden"
-    },
     "d29d21bb2a1249c63c8d7fe902fe0f44143c75a6": {
         "en": "Thomas More Hogeschool",
         "nl": "Thomas More Hogeschool"
@@ -522,10 +530,6 @@
     "d7c4dd907bd353494817d7c5da6c802a4be5a2a0": {
         "en": "Leids Universitair Medisch Centrum",
         "nl": "Leids Universitair Medisch Centrum"
-    },
-    "d974854f3119871ca8a6588047164d7219c50211": {
-        "en": "HAN University of Applied Sciences (Old)",
-        "nl": "HAN University of Applied Sciences (Oud)"
     },
     "dd9874fe61e87c82fb1daeab63165a4a389a8cca": {
         "en": "M\u00e1xima MC",
@@ -555,10 +559,6 @@
         "en": "Hanze University Groningen",
         "nl": "Hanzehogeschool Groningen"
     },
-    "e474391eb9d6913b3c46eb962464e82b7841fa5b": {
-        "en": "Delft University of Technology",
-        "nl": "Technische Universiteit Delft"
-    },
     "e6e6407b9384401b571ac50428a0ee77292acdab": {
         "en": "KNMI",
         "nl": "KNMI"
@@ -567,10 +567,6 @@
         "en": "Koninklijke Nederlandse Akademie van  Wetenschappen (KNAW)",
         "nl": "Koninklijke Nederlandse Akademie van  Wetenschappen (KNAW)"
     },
-    "e7b1aac22990f6c909aa22faa692c615bc5e72fb": {
-        "en": "SaNS Expertisecentrum",
-        "nl": "SaNS Expertisecentrum"
-    },
     "e8a8762f69c779599a20397ad35a341b15354a0e": {
         "en": "Tilburg University",
         "nl": "Universiteit van Tilburg"
@@ -578,6 +574,10 @@
     "ea60a70333383ef236a465b84180c4c6408c0e4a": {
         "en": "Amsterdam University of the Arts",
         "nl": "Amsterdamse Hogeschool voor de Kunsten"
+    },
+    "ebfcc4a629392f1e71117492f106093c2d4a8815": {
+        "en": "Nyenrode Business Universiteit",
+        "nl": "Nyenrode Business Universiteit"
     },
     "ecf58424b1ab9ef5bf798534ca9189132077e2b4": {
         "en": "Hogeschool Utrecht",
@@ -598,6 +598,10 @@
     "f640bcd52ca694799ad6588721893e8c672a15c1": {
         "en": "ArtEZ University of the Arts",
         "nl": "ArtEZ Hogeschool voor de Kunsten"
+    },
+    "f77b6ed058327dcd82e76f8f1f507b4fd7af40f3": {
+        "en": "Politieacademie",
+        "nl": "Politieacademie"
     },
     "f8ef9b7e9fc2187b44004ca6b10cc20085ebe8c7": {
         "en": "Windesheim University of Applied Sciences",

@@ -43,6 +43,10 @@
         "de": "TU Bergakademie Freiberg",
         "en": "TU Bergakademie Freiberg"
     },
+    "080c876181ff91ceaafef5caab5bcd2a9736f5ea": {
+        "de": "Ferdinand-Braun-Institut, Leibniz-Institut f\u00fcr H\u00f6chstfrequenztechnik",
+        "en": "Ferdinand-Braun-Institute, Leibniz-Institut fuer Hoechstfrequenztechnik"
+    },
     "0b6490e90b8e0584e1697bb25eddf8f2220f7496": {
         "de": "Universit\u00e4t Rostock",
         "en": "University of Rostock"
@@ -66,6 +70,10 @@
     "0d5301f09dfca6351b8337a3e6e133168f2afef7": {
         "de": "DHBW Villingen-Schwenningen",
         "en": "DHBW Villingen-Schwenningen"
+    },
+    "0d6187ccd266dd3f21ff29499ac059224711acc1": {
+        "de": "IDP - Hochschule f\u00fcr Gestaltung Offenbach am Main",
+        "en": "IDP - University of Art and Design - Offenbach am Main"
     },
     "0dbf9c91f744335030551f5da2fb176dcb029173": {
         "de": "ESO - European Southern Observatory",
@@ -173,7 +181,7 @@
     },
     "1faab767dcc9c246538700395a7cb5f27c68c64e": {
         "de": "Charit\u00e9 - Universit\u00e4tsmedizin Berlin",
-        "en": "Charit\u00e9 - Universit\u00e4tsmedizin Berlin"
+        "en": "Charite - Universitaetsmedizin Berlin"
     },
     "205e44b4020eb1441ff2da9492cf7efaf80294a3": {
         "de": "Technische Universit\u00e4t Clausthal",
@@ -224,8 +232,8 @@
         "en": "Staatliche Studienakademie Bautzen"
     },
     "26e92223f78c352a1f02f04a8c27e4b16e0ecbaf": {
-        "de": "Technische Hochschule Ostwestfalen-Lippe IDP",
-        "en": "Technische Hochschule Ostwestfalen-Lippe IDP"
+        "de": "Technische Hochschule Ostwestfalen-Lippe",
+        "en": "Technische Hochschule Ostwestfalen-Lippe"
     },
     "270ea905968070367b8b2f23fbb0b69c63c1d74d": {
         "de": "Hochschule Albstadt-Sigmaringen",
@@ -288,8 +296,8 @@
         "en": "Technische Universit\u00e4t Darmstadt"
     },
     "3645958e421e7311e7bb0a82a5a8a18213200362": {
-        "de": "ZIB IdP",
-        "en": "ZIB IdP"
+        "de": "Zuse Institut Berlin",
+        "en": "Zuse Institute Berlin"
     },
     "36bba696388508a114ff000b4a6820f5b4959aae": {
         "de": "Technische Hochschule Deggendorf",
@@ -404,8 +412,8 @@
         "en": "Academy of Fine Arts Leipzig"
     },
     "4af115a87a18e79a2034d1c8db49ac8cc8cdcd23": {
-        "de": "Universit\u00e4t Erlangen-N\u00fcrnberg",
-        "en": "Universit\u00e4t Erlangen-N\u00fcrnberg"
+        "de": "Universit\u00e4t Erlangen-N\u00fcrnberg (FAU)",
+        "en": "Universit\u00e4t Erlangen-N\u00fcrnberg (FAU)"
     },
     "4cbfd75f8c54ee5e871ac37ebb6fde62001b1d9e": {
         "de": "Bergische Universit\u00e4t Wuppertal",
@@ -603,6 +611,10 @@
         "de": "Hochschule Anhalt",
         "en": "Anhalt University of Applied Sciences"
     },
+    "73e5d9bed5976728fd4752b7ffbd299d7b739024": {
+        "de": "Kunstakademie D\u00fcsseldorf",
+        "en": "Art Academy of Duesseldorf"
+    },
     "741c5fc2a23dbae47fdc60f52fdd6d881c350ad4": {
         "de": "Ministerium f\u00fcr Bildung, Wissenschaft und Kultur Mecklenburg-Vorpommern",
         "en": "Ministry of Education, Science and Culture Mecklenburg-Vorpommern"
@@ -656,8 +668,8 @@
         "en": "Hochschule Mainz"
     },
     "834b28c6935f45a031c0aeaedaec343b000fa882": {
-        "de": "IDP Dom\u00e4ne Shibboleth Login",
-        "en": "IDP Domain for Shibboleth Login"
+        "de": "FH HRZ Darmstadt",
+        "en": "FH HRZ Darmstadt"
     },
     "837d9244147e67e9caa9a75bbe0259c0d5ca1822": {
         "de": "Leibniz-Institut f\u00fcr Atmosph\u00e4renphysik IAP",
@@ -685,7 +697,7 @@
     },
     "89a7032f8f828dd6ea18ce067026633c457b0cdd": {
         "de": "Martin-Luther-Universit\u00e4t Halle-Wittenberg",
-        "en": "Martin-Luther-Universit\u00e4t Halle-Wittenberg"
+        "en": "Martin-Luther-University Halle-Wittenberg"
     },
     "8a0eea3ee7ecec415920cb6ffaf7413d8960c03f": {
         "de": "Universit\u00e4t Hohenheim",
@@ -702,10 +714,6 @@
     "8c13cf4d9e1dbd614abf2f5aceb8671a83349016": {
         "de": "TU Hamburg (TUHH)",
         "en": "Hamburg University of Technology (TUHH)"
-    },
-    "8d70561492434cb1c78908123c524bbd51898446": {
-        "de": "Technische Hochschule Ostwestfalen-Lippe",
-        "en": "Technische Hochschule Ostwestfalen-Lippe"
     },
     "8d90a2f90f0e63be3fd6c1b42d570ca5c2b22015": {
         "de": "Hochschule Emden/Leer",
@@ -730,6 +738,10 @@
     "91f04415773938cb619e12d3601af9153bb1cf99": {
         "de": "Universit\u00e4t Leipzig",
         "en": "University of Leipzig"
+    },
+    "92963be9e10faefef0eef25ce4a7c141b685d269": {
+        "de": "Filmakademie Baden-Wuerttemberg (Prod)",
+        "en": "Filmakademie Baden-Wuerttemberg (Prod)"
     },
     "92b0fe619fbec0d32a2ee02fe9b7fb3fed7f4e63": {
         "de": "Technische Hochschule Aschaffenburg",
@@ -820,8 +832,8 @@
         "en": "Leibniz Institute for farm animal biology (FBN)"
     },
     "a21e0eee4a22d880d3d91dabc659fb9f10ddce88": {
-        "de": "Helmholtz-Zentrum Berlin f\u00fcr Materialien und Energie GmbH",
-        "en": "Helmholtz-Zentrum Berlin f\u00fcr Materialien und Energie GmbH"
+        "de": "Helmholtz-Zentrum Berlin f\u00fcr Materialien und Energie GmbH (HZB)",
+        "en": "Helmholtz-Zentrum Berlin f\u00fcr Materialien und Energie GmbH (HZB)"
     },
     "a27dd4c88f688dba05e115946b94b607747772e2": {
         "de": "Hochschule Coburg",
@@ -833,7 +845,7 @@
     },
     "a551b8759d211620300fe8bce83688bcb17179f4": {
         "de": "Universit\u00e4t T\u00fcbingen",
-        "en": "Universit\u00e4t T\u00fcbingen"
+        "en": "University of Tuebingen"
     },
     "a589c87dfeaa78567538ac569f14795a268748e4": {
         "de": "Hochschule Bochum",
@@ -910,6 +922,10 @@
     "b71c9974637b9c39e1bb57c784dfe100b5036408": {
         "de": "Technische Universit\u00e4t M\u00fcnchen (TUM)",
         "en": "Technical University of Munich (TUM)"
+    },
+    "b727c3dbc20ae4782336498f37913bf357e2f6e1": {
+        "de": "Internationale Psychoanalytische Universit\u00e4t Berlin (IPU)",
+        "en": "International Psychoanalytic University Berlin (IPU)"
     },
     "b731a8a9314f62f9320c9ea1f402140bc42def2f": {
         "de": "NORDAKADEMIE Elmshorn",
@@ -1015,6 +1031,10 @@
         "de": "W\u00fcrttembergische Landesbibliothek Stuttgart",
         "en": "W\u00fcrttembergische Landesbibliothek Stuttgart"
     },
+    "d00b61516a50f1b5fbcd98cac954ada24a09e05e": {
+        "de": "Max-Planck-Institut f\u00fcr Marine Mikrobiologie",
+        "en": "Max Planck Institute for Marine  Microbiology"
+    },
     "d0d18a3b9a3fce52fba9354ec194422bcfd6e7c5": {
         "de": "Hochschule Ulm",
         "en": "Hochschule Ulm"
@@ -1080,12 +1100,16 @@
         "en": "P\u00e4dagogische Hochschule Heidelberg"
     },
     "ddefec1060a3f73fde22234a540a289d2e631f45": {
-        "de": "Leibniz-Universit\u00e4t Hannover",
-        "en": "Leibniz-Universit\u00e4t Hannover"
+        "de": "Leibniz Universit\u00e4t Hannover",
+        "en": "Leibniz Universit\u00e4t Hannover"
     },
     "de3f56fbcd9abade1323d995eee94257523fb83b": {
         "de": "Hochschule Hannover",
         "en": "Hochschule Hannover"
+    },
+    "de83ae80bef8a9aab758d15fc154a063ea07bb16": {
+        "de": "CISPA - Helmholtz-Zentrum f\u00fcr Informationssicherheit",
+        "en": "CISPA - Helmholtz Center for Information Security"
     },
     "df4effe89a5fe63d5a913d7266586eb98e158b9b": {
         "de": "Fraunhofer-Gesellschaft",
@@ -1114,6 +1138,10 @@
     "e6056d3882745dd76a6163e4c05fba9c5f372731": {
         "de": "Leibniz-Institut f\u00fcr Plasmaforschung und Technologie e.V.",
         "en": "Leibniz Institute for Plasma Science and Technology"
+    },
+    "e76ae1c70690b0293d4f8b1e7ee8f7a1c66b6f54": {
+        "de": "DIfE - Deutsches Institut f\u00fcr Ern\u00e4hrungsforschung (Live Version 4)",
+        "en": "DIfE - German Institute of Human Nutrition (Live Version 4)"
     },
     "e7ed33c2da0554ade36795ac1875fb516fd1bac5": {
         "de": "Gesellschaft f\u00fcr wissenschaftliche Datenverarbeitung mbH G\u00f6ttingen",
@@ -1167,6 +1195,10 @@
         "de": "Leibniz-Rechenzentrum (LRZ)",
         "en": "Leibniz Supercomputing Centre (LRZ)"
     },
+    "f1b8e2f543f4259cccd8a071cd10ced9b3caef85": {
+        "de": "Medizinische Hochschule Brandenburg",
+        "en": "Brandenburg Medical School"
+    },
     "f230e14be6c097a6bb37bfac304dfe0492767e33": {
         "de": "Helmholtz-Zentrum f\u00fcr Infektionsforschung GmbH",
         "en": "Helmholtz Center for Infection Research GmbH"
@@ -1219,9 +1251,17 @@
         "de": "HfWU N\u00fcrtingen-Geislingen",
         "en": "HfWU Nuertingen-Geislingen"
     },
+    "f8a93a999e3a0e445c5acdf5fa2f20eacdc6cbba": {
+        "de": "DFN-AAI Integration + Test IdP",
+        "en": "DFN-AAI Integration + Test IdP"
+    },
     "f9fd13fe84a4e2128ce0102b3c5aed4576d24c3c": {
         "de": "Universit\u00e4t Greifswald",
         "en": "University of Greifswald"
+    },
+    "fa904c50411d15799baf0883a24efed4044f5ffb": {
+        "de": "Hochschule f\u00fcr Musik N\u00fcrnberg",
+        "en": "College of Music Nuremberg"
     },
     "fafd9615d10712ce36522078978b78ab85586a12": {
         "de": "Technische Hochschule Ingolstadt",
