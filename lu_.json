@@ -1,8 +1,0 @@
-{
-    "https://clueless.restena.lu/simplesamlphp/saml2/idp/metadata.php": "4d7b81b9d84f73b7537421f0375ade3c817ef7be",
-    "https://eduID-test.uni.lu/simplesaml/saml2/idp/metadata.php": "128c345f29cb276297feffcce682eed56db6b4d0",
-    "https://eduID.uni.lu/simplesaml/saml2/idp/metadata.php": "ff57646bf746581a4be30b0b31e4af4f8e61ceb6",
-    "https://login.restena.lu/simplesamlphp/saml2/idp/metadata.php": "e31f1aa675a784c40a6f4fab02ea9b5853883e08",
-    "https://ssl.education.lu/saml/saml2/idp/metadata.php": "e27b016525f039017563c748da1f5f0102ad607f",
-    "https://sts.windows.net/88bc3da8-1f31-4852-ae88-6d08c88a70f7/": "28f324c686a0a02a4ad7cb870f8bc7e1540c0e14"
-}
