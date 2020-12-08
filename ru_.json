@@ -1,0 +1,16 @@
+{
+    "http://adfs.ssau.ru/adfs/services/trust": "0740b5bc0fd95500d6b5a1644ae3073ebe1133af",
+    "http://sts.urfu.ru/adfs/services/trust": "6f98b17da953e1f0145c58cbeccbd8ae2671b9a3",
+    "https://cas.spbstu.ru/idp": "c367a6fd6522475bc08a208b89b55f515037776e",
+    "https://edugain.tpu.ru/idp/shibboleth": "5800056f1705690b1a8b960d9189b11ad8c4eb1b",
+    "https://idp-01.runnet.ru/saml/saml2/idp/metadata.php": "d6e7ed97f935a12627ee2f6945e9cc47fd7ee945",
+    "https://idp.bashedu.ru/idp/shibboleth": "a45bef4148040aa1b3b76b4fbcdd448b168ede28",
+    "https://idp.fedurus.ru/idp/shibboleth": "6052363e950deec39691e9febe2b874f09962aa7",
+    "https://idp.lib.sfedu.ru/idp/shibboleth": "81dd331c70a20c8edf6858aec18e5e883642dbb6",
+    "https://idp.spbu.ru/idp/shibboleth": "7208cedaefedbcd13e007ee7d260ca3707b2f799",
+    "https://idp.ufa-rb.ru/idp/shibboleth": "96f6b09f08634f3932e3dcbb3c00720a98ac2464",
+    "https://idp.utmn.ru/idp/shibboleth": "d10181f5650b2029a6c096e3464b3716aecf6186",
+    "https://libidp.pstu.ru/idp/shibboleth": "48f934070a0956fa0a40034845f5abf8f8bb1722",
+    "https://services.ifmo.ru/idp/shibboleth": "f874fc02161ba65c64e8c9ac8c44c6159e5301cd",
+    "https://shib.kpfu.ru/idp/shibboleth": "20528a4ea4dc376ccdb35829d3e22d7a9591d827"
+}

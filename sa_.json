@@ -1,0 +1,22 @@
+{
+    "http://ADFS.kfu.edu.sa/adfs/services/trust": "5cd9175587f415abe918f811e7553948b3d1d2b0",
+    "http://Adfs.tu.edu.sa/adfs/services/trust": "86ffada91c8b40e6b2a79ca099d97245c204b06e",
+    "http://SSO.ksu.edu.sa/adfs/services/trust": "a716904734452b736ae6c62db8ffed14df365123",
+    "http://adfs.bu.edu.sa/adfs/services/trust": "30849c5c5aeccfbdf9a3f35116691ea0afc0de18",
+    "http://adfs.dah.edu.sa/adfs/services/trust": "e4cd3ee6dfef8bf3881d7f20395b14d3c8c6b9a0",
+    "http://adfs.jazanu.edu.sa/adfs/services/trust": "0fca9bc8131f774f7c150295878c3fa197ababa5",
+    "http://adfs.sfda.gov.sa/adfs/services/trust": "9acf0a391af2b01efd01135a7ba0be83c24755f1",
+    "http://email.qu.edu.sa/adfs/services/trust": "72386cd79cefd94db8483e1b75c5c11305e69f68",
+    "http://fs.kacst.edu.sa/adfs/services/trust": "4884c37ab461a2f21ca01a8342e61040e3a9fdc7",
+    "http://sso.effatuniversity.edu.sa/adfs/services/trust": "1f961b02c3702597ba2307863eb77163e8806416",
+    "http://sts.nbu.edu.sa/adfs/services/trust": "cc8bca8018a60312718f1ecedef1d08aca123d85",
+    "http://sts.nu.edu.sa/adfs/services/trust": "9e458aad641c970d4c5903e0bd77b6c48154586f",
+    "http://sts1.ksau-hs.edu.sa/adfs/services/trust": "855599b56f24276cd6e017bb53415c8a20273560",
+    "http://winsrv01.lab.maeen.sa/adfs/services/trust": "0d1f225120dc253588ac95a96f064af6f9c7899d",
+    "https://aai.lab.maeen.sa/idp/shibboleth": "ac47a5661581808d9477c02242fce6c179c9457f",
+    "https://idp.maeen.sa/idp/shibboleth": "f9dc8328a34e7035c8c55537caef041a8c11ab82",
+    "https://login.psau.edu.sa/idp": "1ad7d894460dc9eca6dcfc76b778765a71dc57b4",
+    "https://sso.kku.edu.sa/idp": "12f493b5f6068c9f4984480af383ad457c2671ad",
+    "https://sts.windows.net/add7e95a-90f7-46f5-8bb7-c861a9d333a5/": "f3a50eaaea59da535133b092b5343c51b31518fb",
+    "https://udsts.ud.edu.sa/adfs/services/trust": "d4b529973d2fd8c9fc4b4ac26ef6c37e368196e0"
+}

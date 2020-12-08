@@ -1,0 +1,13 @@
+{
+    "https://idf.upm.edu.my/idp/shibboleth": "e0b0098502d4b7d107cf2ce1331831ffcfea9081",
+    "https://idp.imu.edu.my/idp/shibboleth": "e1f91392965028b9d760ab3ea2d545e8e9e90f69",
+    "https://idp.ump.edu.my/sso/saml2/idp/metadata.php": "284e80135a3807054edf709a72fc7f9a67de7777",
+    "https://idp3.umt.edu.my/idp/shibboleth": "2915d1cd4187fb95707c975e46767595bcf7959c",
+    "https://sifulan.uthm.edu.my/idp/shibboleth": "cf787a501e6e3cd0bb0e171fadcac4fe06969b21",
+    "https://sso.myren.net.my/idp/shibboleth": "61da9f589571dc7a0478f13af2d916f4879880dc",
+    "https://sso.pak21.my/saml2/idp/metadata.php": "d80070f550dfcfe510967de00c14d781e7e5e09c",
+    "https://sso.perdanauniversity.edu.my/saml2/idp/metadata.php": "de48ede946503fffe704a2fc3adfaa2e2a330315",
+    "https://sso.unisza.edu.my/idp/shibboleth": "e31977229f833f048f57bb18c0d44ff2d347067c",
+    "https://umsidp.ums.edu.my/idp/shibboleth": "7b9ee6c41c05299e6d261fdb804e174b5c5f479b",
+    "https://vho.sifulan.my/idp/shibboleth": "48f484533bb9a567a3bf3f9ecb7e19a55191edb1"
+}
