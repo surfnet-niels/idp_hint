@@ -327,6 +327,9 @@
             "en": "University of Mons (UMONS)",
             "fr": "Universite de Mons (UMONS)"
         },
+        "a8107cff0576e4d441e4bf8b25acc05e6df70434": {
+            "en": "VIB-UGent IRC"
+        },
         "b12b1315700a7053774de03b44a0d0c1c7864e10": {
             "en": "CRA-W",
             "fr": "CRA-W"
@@ -571,10 +574,6 @@
         "433c371e06b87c8a15548f467c8995245f3fbcf9": {
             "en": "UEPG - Universidade Estadual de Ponta Grossa",
             "pt-br": "UEPG - Universidade Estadual de Ponta Grossa"
-        },
-        "43b52e3e1c578ea84d19a6a047b68d72f61b4283": {
-            "en": "IFSP - Instituto Federal de Sao Paulo",
-            "pt-br": "IFSP - Instituto Federal de Sao Paulo"
         },
         "442e9886308e99bf81ecfb3ff8b57e9e02a9bdcb": {
             "en": "UESPI - Universidade Estadual do Piau",
@@ -1040,6 +1039,10 @@
             "en": "UNICHRISTUS - CENTRO UNIVERSITARIO CHRISTUS",
             "pt-br": "UNICHRISTUS - CENTRO UNIVERSITARIO CHRISTUS"
         },
+        "efd447fa5cfc2c20a66e0547984879fe75d59365": {
+            "en": "INT - Instituto Nacional de Tecnologia",
+            "pt-br": "INT - Instituto Nacional de Tecnologia"
+        },
         "f137678f0f5fc73c0aac58bffb27632932367ba2": {
             "en": "UNISO - Universidade de Sorocaba",
             "pt-br": "UNISO - Universidade de Sorocaba"
@@ -1238,6 +1241,9 @@
         },
         "7d52ffebd6546fb671c812d28b006eda69385852": {
             "en": "Seneca College"
+        },
+        "7d644fefcf8ba8e14a5c950ddf28eb2b78fb697c": {
+            "en": "University of Fraser Valley"
         },
         "82540981c1bdb3bca062bfc03eb1f491ee8e1cd7": {
             "en": "McGill University",
@@ -6473,8 +6479,8 @@
             "fr": "Universit\u00e9 de Corse"
         },
         "03ace96ca1a8fdba98ec700a3a478a45798ea42a": {
-            "en": "INS HEA - Institut national sup\u00e9rieur de formation et de recherche pour l'\u00e9ducation des jeunes handicap\u00e9s et les enseignements adapt\u00e9s",
-            "fr": "INS HEA - Institut national sup\u00e9rieur de formation et de recherche pour l'\u00e9ducation des jeunes handicap\u00e9s et les enseignements adapt\u00e9s"
+            "en": "INSHEA - Institut national sup\u00e9rieur de formation et de recherche pour l'\u00e9ducation des jeunes handicap\u00e9s et les enseignements adapt\u00e9s",
+            "fr": "INSHEA - Institut national sup\u00e9rieur de formation et de recherche pour l'\u00e9ducation des jeunes handicap\u00e9s et les enseignements adapt\u00e9s"
         },
         "03ebc1c58f860a7643e375984cef49260fda2738": {
             "en": "Agropolis International",
@@ -15132,6 +15138,10 @@
         "d3ee13520a5082441fcd67d72eeed80628643101": {
             "af": "Suid-Afrikaanse Teologiese Seminarium",
             "en": "South African Theological Seminary"
+        },
+        "d6b968e405fc3ea1cea3d2918246e0512a603a22": {
+            "af": "Wits Universiteit",
+            "en": "Wits University"
         },
         "d85d6cc5b5ce4089ccbb1c03e0d86b4ccac2b7db": {
             "af": "Universiteit van Wes-Kaapland",
