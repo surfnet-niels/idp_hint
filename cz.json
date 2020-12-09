@@ -327,6 +327,10 @@
         "cs": "Botanick\u00fd \u00fastav AV \u010cR",
         "en": "Institut of Botany ASCR"
     },
+    "83934e1771ef8d53bf677787736746e5714bdaef": {
+        "cs": "Vysok\u00e1 \u0161kola PRIGO",
+        "en": "The PRIGO University"
+    },
     "875f2c7b0201aa2dd695707d2ee847b321561bf1": {
         "cs": "M\u011bstsk\u00e1 knihovna Chodov",
         "en": "Municipal Library Chodov"
@@ -511,6 +515,10 @@
         "cs": "CESNET",
         "en": "CESNET"
     },
+    "e0490b03f5bbad76d743c9156a32fd57d7fd52f3": {
+        "cs": "N\u00e1rodn\u00ed muzeum",
+        "en": "National museum"
+    },
     "e1a0044236d584c8d19146a139c2a9b3c5262e70": {
         "cs": "Nemocnice Jihlava, p.o.",
         "en": "Hospital Jihlava"
@@ -562,6 +570,10 @@
     "fc546945cdbc68c2d18f2fdb2d0701e2519a35fe": {
         "cs": "M\u011bstsk\u00e1 knihovna v \u010cesk\u00e9m Krumlov\u011b",
         "en": "Municipal Library in Cesky Krumlov"
+    },
+    "fd593780100e040d862e1478fb0101415ab1d534": {
+        "cs": "N\u00e1rodn\u00ed \u00fastav du\u0161evn\u00edho zdrav\u00ed",
+        "en": "National Institute of Mental Health"
     },
     "fe61c69c37e2ac466cbf8e71126928beada8aeb8": {
         "cs": "M\u011bstsk\u00e1 knihovna Kutn\u00e1 Hora",
