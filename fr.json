@@ -19,6 +19,10 @@
         "en": "INSHEA - Institut national sup\u00e9rieur de formation et de recherche pour l'\u00e9ducation des jeunes handicap\u00e9s et les enseignements adapt\u00e9s",
         "fr": "INSHEA - Institut national sup\u00e9rieur de formation et de recherche pour l'\u00e9ducation des jeunes handicap\u00e9s et les enseignements adapt\u00e9s"
     },
+    "03d8886669dfec9b6f5b8991a59fcee6808d23bb": {
+        "en": "Ecole Normale Sup\u00e9rieure - PSL",
+        "fr": "Ecole Normale Sup\u00e9rieure - PSL"
+    },
     "03ebc1c58f860a7643e375984cef49260fda2738": {
         "en": "Agropolis International",
         "fr": "Agropolis International"
@@ -276,8 +280,8 @@
         "fr": "Ecole Nationale Sup\u00e9rieure d'Architecture de Paris-Belleville"
     },
     "4a5bbac3d5f6dd2707e03a8b26d575f1cbd51d07": {
-        "en": "CentraleSupelec - Metz",
-        "fr": "CentraleSupelec - Metz"
+        "en": "CentraleSupelec (2)",
+        "fr": "CentraleSupelec (2)"
     },
     "4b5c07c298fd46fdd9b7f6e6e8a4d845648fb175": {
         "en": "CROUS Normandie - Employees v3",
@@ -443,6 +447,10 @@
         "en": "Universit\u00e9 d'Avignon",
         "fr": "Universit\u00e9 d'Avignon"
     },
+    "7176949a2a03e2db78a3ac45c42ab3e1d386edb4": {
+        "en": "Montpellier University",
+        "fr": "Universit\u00e9 de Montpellier"
+    },
     "719d6673a70dbfb445e0488a83d536bdbd23fb4f": {
         "en": "INHA - Institut National de l'Histoire de l'Art",
         "fr": "INHA - Institut National de l'Histoire de l'Art"
@@ -507,10 +515,6 @@
         "en": "Communaut\u00e9 d'Universit\u00e9s et d'Etablissements - Lille Nord de France",
         "fr": "Communaut\u00e9 d'Universit\u00e9s et d'Etablissements - Lille Nord de France"
     },
-    "7f6bf98558662b640669b50eea2c3869d2e068a0": {
-        "en": "Ecole Normale Sup\u00e9rieure Paris-Saclay",
-        "fr": "Ecole Normale Sup\u00e9rieure Paris-Saclay"
-    },
     "7fdef9bf480daca6004398b5527ebde3082f6f7e": {
         "en": "University of Valenciennes (obsolete)",
         "fr": "Universit\u00e9 de Valenciennes (obsolete)"
@@ -522,10 +526,6 @@
     "822c537b43f01461ce764d3790000734b6ccb525": {
         "en": "UPEM - University Paris-Est Marne-la-Vall\u00e9e",
         "fr": "UPEM - Universit\u00e9 Paris-Est Marne-la-Vall\u00e9e"
-    },
-    "822f48860103772611d579506f5a4fbaa1238be2": {
-        "en": "Assistance Publique - H\u00f4pitaux de Marseille",
-        "fr": "Assistance Publique - H\u00f4pitaux de Marseille"
     },
     "827bfb1fccdd00038dff7453b0c233782a0adb2c": {
         "en": "University of Nantes (FRANCE)",
@@ -562,10 +562,6 @@
     "87b734721f5ee60922daa693294a3cd3a22bfb99": {
         "en": "INSA Strasbourg",
         "fr": "INSA Strasbourg"
-    },
-    "87c06aea0c35721c6f18bfa0196c9687cb7a6ce5": {
-        "en": "Universit\u00e9 Le Havre Normandie",
-        "fr": "Universit\u00e9 Le Havre Normandie"
     },
     "888391e1af91752f0f77023a53058bf9d25f9d71": {
         "en": "CROUS Besan\u00e7on V3",
@@ -654,10 +650,6 @@
     "972ca7de35fb7260dcd98ee86dbc745ab91b5a1a": {
         "en": "CROUS Lyon-Personnels",
         "fr": "CROUS Lyon-Personnels"
-    },
-    "9836298e3508da811aba4fcad6fffdfcbe484754": {
-        "en": "IDP TEST CROUS Reims",
-        "fr": "IDP TEST CROUS Reims"
     },
     "98d8cee05ddb18bf41334da7c89f791dc2285ca1": {
         "en": "ENSASE - Ecole nationale sup\u00e9rieure d'architecture de Saint-\u00c9tienne",
@@ -828,8 +820,8 @@
         "fr": "GIP RENATER"
     },
     "bc69d8a57c3f00feb1c63efa2d69bf7b0ec74d0a": {
-        "en": "CentraleSupelec - Rennes",
-        "fr": "CentraleSupelec - Rennes"
+        "en": "CentraleSupelec (3)",
+        "fr": "CentraleSupelec (3)"
     },
     "bcc9e571adae2d5098ab60429196ccb93966c38d": {
         "en": "CIEP / France Education International",
@@ -891,10 +883,6 @@
         "en": "Universit\u00e9 de Pau et des Pays de l'Adour",
         "fr": "Universit\u00e9 de Pau et des Pays de l'Adour"
     },
-    "d2dcc938dc749ebdf5b74b2ca9e0121d47a4e5bb": {
-        "en": "Conservatoire National des Arts et Metiers",
-        "fr": "Conservatoire National des Arts et Metiers"
-    },
     "d2ea39c95bdfae032fec92decd50ecd34cf3ccc8": {
         "en": "ESPE de Bretagne",
         "fr": "ESPE de Bretagne"
@@ -949,7 +937,7 @@
     },
     "dfb8312500c906ac1a62d45c1f58484842cc6b57": {
         "en": "Ecole Nationale Sup\u00e9rieur de Paysage",
-        "fr": "Ecole Nationale Sup\u00e9rieur de Paysage"
+        "fr": "Ecole Nationale Sup\u00e9rieure de Paysage"
     },
     "e07528713d9c77972d1e2f966980754945781eae": {
         "en": "Mus\u00e9um National d'Histoire Naturelle (MNHN)",
@@ -1012,8 +1000,8 @@
         "fr": "Universit\u00e9 de Nimes"
     },
     "e8c65b138d7de10e779ba13b4651f91b1af2166c": {
-        "en": "CentraleSupelec - Saclay",
-        "fr": "CentraleSupelec - Saclay"
+        "en": "CentraleSupelec (1)",
+        "fr": "CentraleSupelec (1)"
     },
     "eaa182778cb18432e82014177f23ab3f8396363e": {
         "en": "Universit\u00e9 de Lyon - UDL",

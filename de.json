@@ -47,6 +47,10 @@
         "de": "Ferdinand-Braun-Institut, Leibniz-Institut f\u00fcr H\u00f6chstfrequenztechnik",
         "en": "Ferdinand-Braun-Institute, Leibniz-Institut fuer Hoechstfrequenztechnik"
     },
+    "09d82e3b9edc7c0de07e6566dcb789d6a53a6642": {
+        "de": "Max Planck Institut f\u00fcr Quantenoptik (MPQ)",
+        "en": "Max Planck Institute for Quantum Optics (MPQ)"
+    },
     "0b6490e90b8e0584e1697bb25eddf8f2220f7496": {
         "de": "Universit\u00e4t Rostock",
         "en": "University of Rostock"
@@ -74,6 +78,10 @@
     "0d6187ccd266dd3f21ff29499ac059224711acc1": {
         "de": "IDP - Hochschule f\u00fcr Gestaltung Offenbach am Main",
         "en": "IDP - University of Art and Design - Offenbach am Main"
+    },
+    "0d823245d278ab91959206c0a433934439987361": {
+        "de": "Max Planck Computing and Data Facility (MPCDF)",
+        "en": "Max Planck Computing and Data Facility (MPCDF)"
     },
     "0dbf9c91f744335030551f5da2fb176dcb029173": {
         "de": "ESO - European Southern Observatory",
@@ -112,8 +120,8 @@
         "en": "Ostfalia"
     },
     "133e8f23120b18ef7e6f61e747f32bae00c36052": {
-        "de": "DFN Login Extern",
-        "en": "DFN Login Extern"
+        "de": "DFN Mailsupport Login Extern",
+        "en": "DFN Mailsupport Login Extern"
     },
     "136f6bb7bedeb0faae2f63d83437ad5fdcc192e0": {
         "de": "Hochschule Karlsruhe - Technik und Wirtschaft",
@@ -142,10 +150,6 @@
     "1640bdc5200bb4dcf90079e7ba28c3c10e16e885": {
         "de": "PH Ludwigsburg",
         "en": "PH Ludwigsburg"
-    },
-    "17c1c4bf225993b37a30489f67a12ab37ebd5348": {
-        "de": "Deutscher Akademischer Austauschdienst",
-        "en": "german academic exchange service"
     },
     "180af8b321d04a1c062964c059ce81f104eccbbd": {
         "de": "IFW Dresden",
@@ -181,7 +185,7 @@
     },
     "1faab767dcc9c246538700395a7cb5f27c68c64e": {
         "de": "Charit\u00e9 - Universit\u00e4tsmedizin Berlin",
-        "en": "Charit\u00e9 - Universit\u00e4tsmedizin Berlin"
+        "en": "Charite - Universitaetsmedizin Berlin"
     },
     "205e44b4020eb1441ff2da9492cf7efaf80294a3": {
         "de": "Technische Universit\u00e4t Clausthal",
@@ -579,6 +583,10 @@
         "de": "HafenCity Universit\u00e4t Hamburg",
         "en": "HafenCity Universit\u00e4t Hamburg"
     },
+    "7006bf0eb48dcfd72eaeee6420b8f6c671337ee8": {
+        "de": "Max Planck Institut f\u00fcr Plasmaphysik (IPP)",
+        "en": "Max Planck Institute for Plasma Physics (IPP)"
+    },
     "707950e282705e5ee091156e56d30bd214d09a22": {
         "de": "Universit\u00e4t Heidelberg",
         "en": "Universit\u00e4t Heidelberg"
@@ -799,10 +807,6 @@
         "de": "San-Netz.de",
         "en": "San-Netz.de"
     },
-    "9c5be3326c384c4d389e95d7257824fe07b74aa6": {
-        "de": "Staatliche Studienakademie Leipzig",
-        "en": "Staatliche Studienakademie Leipzig"
-    },
     "9d0dc2b1b1a5885f2b80cb173b4f1e9ef39f9bc1": {
         "de": "PH Weingarten",
         "en": "PH Weingarten"
@@ -891,6 +895,10 @@
         "de": "Hochschule Schmalkalden",
         "en": "Hochschule Schmalkalden"
     },
+    "af3c976f67c99c76038463fcd064b2203fec2813": {
+        "de": "Hochschule Bonn-Rhein-Sieg IDM",
+        "en": "Bonn-Rhein-Sieg University of Applied Sciences IDM"
+    },
     "afff6fc2daf7ea4e13f1ba4ab44c16dcf5678a83": {
         "de": "Hochschule Kaiserslautern",
         "en": "University of Applied Science Kaiserslautern"
@@ -949,7 +957,7 @@
     },
     "bd12c76ab6d177b6d9b91155c39945c09f97e0ac": {
         "de": "FIZ Karlsruhe",
-        "en": "FIZ Karslruhe"
+        "en": "FIZ Karlsruhe"
     },
     "be2c3f705d7acc79d001625539b703da424ba76a": {
         "de": "Albert-Ludwigs-Universit\u00e4t Freiburg",
@@ -1250,6 +1258,10 @@
     "f7eac9d4f9a1d051e1fcd139befe2a4f6e87da42": {
         "de": "HfWU N\u00fcrtingen-Geislingen",
         "en": "HfWU Nuertingen-Geislingen"
+    },
+    "f89ec3b211568ac3b054b8cd08a4b2b18018fbfa": {
+        "de": "DAAD-ID",
+        "en": "DAAD ID"
     },
     "f8a93a999e3a0e445c5acdf5fa2f20eacdc6cbba": {
         "de": "DFN-AAI Integration + Test IdP",

@@ -7,6 +7,10 @@
         "en": "UEMS - Universidade Estadual de Mato Grosso do Sul",
         "pt-br": "UEMS - Universidade Estadual de Mato Grosso do Sul"
     },
+    "0178d24904ed3cce700cfef21c8b985d6d37f411": {
+        "en": "UNIVILLE - Fundacao Educacional da Regiao de Joinville",
+        "pt-br": "UNIVILLE - Fundacao Educacional da Regiao de Joinville"
+    },
     "0208bec303c6bd6767acc19851861726a97581d5": {
         "en": "LINEA - Laboratorio Interinstitucional de e-Astronomia",
         "pt-br": "LINEA - Laboratorio Interinstitucional de e-Astronomia"
@@ -147,6 +151,10 @@
         "en": "IFTM - Instituto Federal do Triangulo Mineiro",
         "pt-br": "IFTM - Instituto Federal do Triangulo Mineiro"
     },
+    "320d63a4863bfcad216e7cc33984ac5cfb6fb5e0": {
+        "en": "UEZO - Fundacao Centro Universitario Estadual da Zona Oeste",
+        "pt-br": "UEZO - Fundacao Centro Universitario Estadual da Zona Oeste"
+    },
     "33af2f3fb53c2625352f7657672e1ec2e0ae86d1": {
         "en": "UFRGS - Universidade Federal do Rio Grande do Sul",
         "pt-br": "UFRGS - Universidade Federal do Rio Grande do Sul"
@@ -195,6 +203,10 @@
         "en": "FINEP - Financiadora de Estudos e Projetos",
         "pt-br": "FINEP - Financiadora de Estudos e Projetos"
     },
+    "3f2bad6c5082bc0e967ab2ad0fb7908acea90476": {
+        "en": "GHC - Grupo Hospitalar Conceicao",
+        "pt-br": "GHC - Grupo Hospitalar Conceicao"
+    },
     "3f32e33a906545ca18e9c35791ca021d5ab0ae80": {
         "en": "CETENE - Centro de Tecnologias e Estrategicas do NE",
         "pt-br": "CETENE - Centro de Tecnologias e Estrategicas do NE"
@@ -206,6 +218,10 @@
     "4097a0a5f5f8a9f3fb684120abfcad359acc3da3": {
         "en": "UNESC - Universidade do Extremo Sul Catarinense",
         "pt-br": "UNESC - Universidade do Extremo Sul Catarinense"
+    },
+    "418a161d807faa31322239121f054dd3b879f256": {
+        "en": "SETREM - Sociedade Educacional Tres de Maio",
+        "pt-br": "SETREM - Sociedade Educacional Tres de Maio"
     },
     "433c371e06b87c8a15548f467c8995245f3fbcf9": {
         "en": "UEPG - Universidade Estadual de Ponta Grossa",
@@ -310,6 +326,10 @@
     "6a71bffb5754c430cb18db911ed0b778edfc3698": {
         "en": "FAPES - Fundacao de Amparo a Pesquisa e Inovacao do Espirito Santo",
         "pt-br": "FAPES - Fundacao de Amparo a Pesquisa e Inovacao do Espirito Santo"
+    },
+    "6aa76812a4ab3261d6fd0c2acf3627bc9d103dcc": {
+        "en": "UFGD - Universidade Federal da Grande Dourados",
+        "pt-br": "UFGD - Universidade Federal da Grande Dourados"
     },
     "6ae78a7913b8e4fd7c7aed03854a60041edd7fad": {
         "en": "USF - Universidade Sao Francisco",
@@ -551,6 +571,10 @@
         "en": "UFJF - Universidade Federal de Juiz de Fora",
         "pt-br": "UFJF - Universidade Federal de Juiz de Fora"
     },
+    "c0b57060863d28b0dcee818282abca0379fc4116": {
+        "en": "IDP - Instituto Brasiliense de Direito Publico",
+        "pt-br": "IDP - Instituto Brasiliense de Direito Publico"
+    },
     "c248556e16bc06cbb1e4a2746d3553173628936e": {
         "en": "FCMSCSP - Faculdade de Ciencia Medicas Santa Casa",
         "pt-br": "FCMSCSP - Faculdade de Ciencia Medicas Santa Casa"
@@ -619,6 +643,10 @@
         "en": "IFRR - Instituto Federal de Roraima",
         "pt-br": "IFRR - Instituto Federal de Roraima"
     },
+    "d441e8dd74dba204017208d0e9129c3d02aed967": {
+        "en": "UNB - Universidade de Brasilia",
+        "pt-br": "UNB - Universidade de Brasilia"
+    },
     "d5bd51cc506a5cf7ffaa7326a10bd10590146911": {
         "en": "UNINTA - Centro Universitario INTA",
         "pt-br": "UNINTA - Centro Universitario INTA"
@@ -634,6 +662,10 @@
     "dbe02adac2f82b2f3fab59b6c7c4b30c898c969d": {
         "en": "CRIA - Centro de Referencia em Informacao Ambiental",
         "pt-br": "CRIA - Centro de Referencia em Informacao Ambiental"
+    },
+    "de26871803bc64f4b8ebb545c6016a822b2cc79f": {
+        "en": "EMESCAM - Escola Superior de Ciencias da Santa Casa de Misericordia de Vitoria",
+        "pt-br": "EMESCAM - Escola Superior de Ciencias da Santa Casa de Misericordia de Vitoria"
     },
     "df1daa6cc23796fcf491a72f1aafee8a856afcc6": {
         "en": "EBSERH - Empresa Brasileira de Servicos Hospitalares",
@@ -706,10 +738,6 @@
     "f86dec42bf57ea1d509a9108271702fbff767006": {
         "en": "USP - UNIVERSIDADE DE SAO PAULO",
         "pt-br": "USP - UNIVERSIDADE DE SAO PAULO"
-    },
-    "fce22911ef1837b93d6963ae2c6b57f41d29a589": {
-        "en": "SETREM - Sociedade Educacional Tres de Maio",
-        "pt-br": "SETREM - Sociedade Educacional Tres de Maio"
     },
     "fd0574512ad24c834525f6e007af1e48912dc31f": {
         "en": "CEMADEN - Centro Nac Monit e Alertas de Desastres Naturais",

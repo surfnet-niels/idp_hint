@@ -19,6 +19,10 @@
         "cs": "\u0160KODA AUTO Vysok\u00e1 \u0161kola",
         "en": "\u0160KODA AUTO University"
     },
+    "0697b700cf38195cec967ce55572bef781e56779": {
+        "cs": "M\u011bstsk\u00e1 knihovna Ro\u017enov pod Radho\u0161t\u011bm",
+        "en": "Municipal Library in Roznov pod Radhostem"
+    },
     "0761a7b0b840eee89c3b9d20b04db26fdf92a369": {
         "cs": "N\u00e1rodn\u00ed technick\u00e1 knihovna",
         "en": "National Library of Technology"
@@ -289,7 +293,7 @@
     },
     "75efa82160ce2386ffa9dfd4667e6d1b892aa41f": {
         "cs": "Vysok\u00e1 \u0161kola ekonomick\u00e1 v Praze",
-        "en": "University of Economics, Prague"
+        "en": "Prague University of Economics and Business"
     },
     "770cdf8e17032c59e90bdaf45406d7767f2c5b95": {
         "cs": "Sociologick\u00fd \u00fastav AV \u010cR",
@@ -298,6 +302,10 @@
     "79b7c298fa33e2f1a3e48a4d48f0d361cd38ede7": {
         "cs": "Knihovna AV \u010cR, v. v. i.",
         "en": "Academy of Sciences Library"
+    },
+    "7b1b3caa1a54056037ecb3fe9c63f340282ec5b2": {
+        "cs": "NEMPK IdP",
+        "en": "NEMPK IdP"
     },
     "7c668d001ccd55efbc59ad511048734a1db28bcd": {
         "cs": "Knihovna Eduarda Peti\u0161ky",
@@ -443,6 +451,10 @@
         "cs": "St\u0159edisko spole\u010dn\u00fdch \u010dinnost\u00ed AV \u010cR",
         "en": "Centre of Administration and Operations of AS CR"
     },
+    "b6bf65aeca8f18c2d5c77b8cf3be937922c5a5f7": {
+        "cs": "AVU",
+        "en": "AVU"
+    },
     "b71648b69b7659173a3d5d9914dd913cabb6c450": {
         "cs": "Studijn\u00ed a v\u011bdeck\u00e1 knihovna Plze\u0148sk\u00e9ho kraje",
         "en": "The Education and Research Library of the Pilsener Region"
@@ -462,6 +474,10 @@
     "c79bb87ad6395d9256dc97fc02c5460475d7e975": {
         "cs": "\u00dastav zem\u011bd\u011blsk\u00e9 ekonomiky a informac\u00ed",
         "en": "Institute of Agricultural Economics and Information"
+    },
+    "cb169efeacd4f9bf9e9ce968e26fb3b35b68d286": {
+        "cs": "MO\u00da IdP",
+        "en": "MMCI IdP"
     },
     "ccefb865a8b31a51c81498a8e77f2518b2128336": {
         "cs": "Knihovna Petra Bezru\u010de v Opav\u011b",

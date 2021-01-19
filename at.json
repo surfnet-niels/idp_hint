@@ -1,4 +1,8 @@
 {
+    "020020be61d771ea053394f01c79b28198051e46": {
+        "de": "FH Technikum Wien",
+        "en": "University of Applied Sciences Technikum Wien"
+    },
     "08d12b905896ff56b7fd3fd6312a5b2e1eb1a41c": {
         "de": "Universit\u00e4t Mozarteum Salzburg",
         "en": "Mozarteum University Salzburg"
@@ -119,6 +123,10 @@
         "de": "Institute of Science and Technology Austria (IST Austria)",
         "en": "Institute of Science and Technology Austria (IST Austria)"
     },
+    "92dc976f8c6427d204d10a148c7d9a926f4d4ce8": {
+        "de": "Kirchliche P\u00e4dagogische Hochschule Edith Stein",
+        "en": "KPH Edith Stein"
+    },
     "971f9c9f91f45ba6598b3bdc0736480cf4666c1c": {
         "de": "Fachhochschule BFI Wien",
         "en": "University of Applied Sciences BFI Vienna"
@@ -170,6 +178,10 @@
     "ce25d178dd1317c6964fec7e7ff8d8334cab661a": {
         "de": "Kirchliche P\u00e4dagogische Hochschule Wien/Krems (KPH)",
         "en": "University College of Teacher Education Vienna/Krems (KPH)"
+    },
+    "d6ac7e95742f2f9f6b38507b124cdd9d39239abf": {
+        "de": "FH Campus Wien",
+        "en": "FH Campus Wien - University of Applied Sciences"
     },
     "da24259394a9e7a02ce69fe96b3d37f0959a2acb": {
         "de": "Fachhochschule Ober\u00f6sterreich",

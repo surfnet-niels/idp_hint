@@ -266,6 +266,9 @@
     "25bbe12a3962b60fe411da588d0e3f844675a6f3": {
         "en": "University of Westminster - Test"
     },
+    "25bcc39cccd741993b220f290305b873dca4d53b": {
+        "en": "Cardiff University (Test - Preprod)"
+    },
     "25fd5d647952fd396067990a09e5418d46517878": {
         "en": "Aston University OpenAthens"
     },
@@ -492,7 +495,7 @@
         "en": "IEG Peterborough College"
     },
     "41610dc1fd9caa4a4151c8db045254b49b5a4d8c": {
-        "en": "The Sixth Form College Farnborough"
+        "en": "The Sixth Form College, Farnborough"
     },
     "427c94e725daa2972b4bfde6bbaf6dc7d7829b3a": {
         "en": "Huddersfield New College"
@@ -1213,9 +1216,6 @@
     "9ae7d78f5616b9a9826eef4bb6480eddf402818b": {
         "en": "University of Suffolk: Test Global"
     },
-    "9b2b592ad2b8197f61d01f7eedd7f0039d5d381a": {
-        "en": "Cardiff University (Test - Preprod)"
-    },
     "9b7224e90b8812c8c77ee01b3a7a10a5a467d536": {
         "en": "NERC Test IdP (nerckwshibb1)"
     },
@@ -1224,9 +1224,6 @@
     },
     "9bc16c4b07b082fe33004585d66bd0d960193169": {
         "en": "Nottingham College"
-    },
-    "9c54c9b7e5707582750b1c40d39a8d2e02b11a7e": {
-        "en": "Cardiff University (Test - Dev)"
     },
     "9cb2a0e1ad2febe92d9a27116956e1c4a725c822": {
         "en": "University of Suffolk (Legacy)"
@@ -1331,7 +1328,7 @@
         "en": "King's College London"
     },
     "a66dac5e21d1687188668c868cfe8092979073e1": {
-        "en": "Blackpool Sixth"
+        "en": "The Blackpool Sixth Form College"
     },
     "a717391ca26aee4e8ed78279ed8e37a6fd21b988": {
         "en": "The University of Law"
@@ -1702,9 +1699,6 @@
     },
     "d2f365a1f7ab2ea29b10901977b56ed0f29dcff5": {
         "en": "ProofID PingFederate IdP"
-    },
-    "d3c23a2d62f404692938c5213fc68b58deef8475": {
-        "en": "Reaseheath College (Shibboleth)"
     },
     "d3c91445946003a15afe82d294b30136d44b3173": {
         "en": "Bury College"
