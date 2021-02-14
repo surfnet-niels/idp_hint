@@ -1,7 +1,7 @@
 {
     "0b7a7de98e2a44c51b6ebb28a94e108b4e9945c3": {
         "en": "Kristianstad University Sweden",
-        "sv": "Högskolan Kristianstad"
+        "sv": "H\u00f6gskolan Kristianstad"
     },
     "17fb42c9ed2f03897055762e53262170d3c4788a": {
         "en": "SICS",
@@ -9,43 +9,43 @@
     },
     "1b49f207f75fbecf9cbba4c7d07cc7b6679518e1": {
         "en": "Stockholm School of Economics IdP",
-        "sv": "Handelshögskolan i Stockholm IdP"
+        "sv": "Handelsh\u00f6gskolan i Stockholm IdP"
     },
     "2101350ffaa4abae95e759e1cb186a256e480c73": {
         "en": "Sophiahemmet University",
-        "sv": "Sophiahemmet Högskola"
+        "sv": "Sophiahemmet H\u00f6gskola"
     },
     "226eaa638add928c2e063c69c5bf7039f4d84428": {
         "en": "Linnaeus University",
-        "sv": "Linnéuniversitetet"
+        "sv": "Linn\u00e9universitetet"
     },
     "25ef03993c91e51df46fe3cfca76ff3f95794258": {
         "en": "University College Stockholm",
-        "sv": "Enskilda Högskolan Stockholm"
+        "sv": "Enskilda H\u00f6gskolan Stockholm"
     },
     "262c2772b25c4fdc85505913625b3e074783e795": {
-        "en": "Örebro University",
-        "sv": "Örebro universitet"
+        "en": "\u00d6rebro University",
+        "sv": "\u00d6rebro universitet"
     },
     "2b9df1b70d0187d3713c29884ff14039274fc0b9": {
         "en": "Swedish Defence University",
-        "sv": "Försvarshögskolan"
+        "sv": "F\u00f6rsvarsh\u00f6gskolan"
     },
     "2f260e8b792a91db581bb3833731ade6773c56e9": {
         "en": "SUNET",
         "sv": "SUNET"
     },
     "2f83c56d2cb0d8d8619b57f40b1b8abe7fa5885e": {
-        "en": "Mälardalen University",
-        "sv": "Mälardalens Högskola"
+        "en": "M\u00e4lardalen University",
+        "sv": "M\u00e4lardalens H\u00f6gskola"
     },
     "30145fa74dc7f9a9cd68c40e6777718fcd7d9271": {
-        "en": "Södertörn University",
-        "sv": "Södertörns högskola"
+        "en": "S\u00f6dert\u00f6rn University",
+        "sv": "S\u00f6dert\u00f6rns h\u00f6gskola"
     },
     "3405571abf86b4e5f639cb6023ad9f5003541af5": {
         "en": "Swedish Institute of Space Physics",
-        "sv": "Institutet för rymdfysik"
+        "sv": "Institutet f\u00f6r rymdfysik"
     },
     "36b734337379ca9a896039393e2676709d79a8fe": {
         "en": "Konstfack",
@@ -53,15 +53,15 @@
     },
     "3dae198217eeead854f7f9942cc76b0cb68f7941": {
         "en": "Halmstad University",
-        "sv": "Högskolan i Halmstad"
+        "sv": "H\u00f6gskolan i Halmstad"
     },
     "3ee819ede295ac36ab4f178e5923d4a44d37e9c7": {
         "en": "The Swedish Research Council",
-        "sv": "Vetenskapsrådet"
+        "sv": "Vetenskapsr\u00e5det"
     },
     "589378517675f3d08a8f08e6bbe60428cba6d89d": {
-        "en": "University of Skövde",
-        "sv": "Högskolan i Skövde"
+        "en": "University of Sk\u00f6vde",
+        "sv": "H\u00f6gskolan i Sk\u00f6vde"
     },
     "5ad180c85f733f59b383488fbf35abd87f211f86": {
         "en": "Swedish University of Agricultural Science",
@@ -73,7 +73,7 @@
     },
     "694a4145ce0707f22465d38a35874a0c069cff27": {
         "en": "University of Gothenburg",
-        "sv": "Göteborgs Universitet"
+        "sv": "G\u00f6teborgs Universitet"
     },
     "6a84a2b5c47b0fedcbd996398cd9f8b4ba7f24a0": {
         "en": "Karlstad University",
@@ -84,12 +84,12 @@
         "sv": "SMHI"
     },
     "717bc1a2e4a094c9ebe6db60add698a1979451f7": {
-        "en": "Ersta Sköndal University College",
-        "sv": "Ersta Sköndal Högskola"
+        "en": "Ersta Sk\u00f6ndal University College",
+        "sv": "Ersta Sk\u00f6ndal H\u00f6gskola"
     },
     "7c77aacbadf7c8b5bf1906d6d747e6dc3c4f294c": {
-        "en": "Umeå University",
-        "sv": "Umeå universitet"
+        "en": "Ume\u00e5 University",
+        "sv": "Ume\u00e5 universitet"
     },
     "8af9cc7876688e5ed6cf9e91248edb95c798adc1": {
         "en": "Mid Sweden University",
@@ -97,27 +97,23 @@
     },
     "957ff4e597a0df45b3f2061c0c9ffa99b1be8e04": {
         "en": "University West",
-        "sv": "Högskolan Väst"
+        "sv": "H\u00f6gskolan V\u00e4st"
     },
     "a87ed15780b6a807aa625c331ce44f70f4b43d49": {
         "en": "Lulea University of Technology",
-        "sv": "Luleå tekniska universitet"
+        "sv": "Lule\u00e5 tekniska universitet"
     },
     "aa1c9bd032956a12bb78911ebd22b69afa05018a": {
         "en": "The Swedish School of Sport and Health Sciences",
-        "sv": "Gymnastik- och idrottshögskolan"
-    },
-    "aa52a9e057d444e8fb51bcc429c0247064af5c0b": {
-        "en": "Linköping University - old",
-        "sv": "Linköpings Universitet - old"
+        "sv": "Gymnastik- och idrottsh\u00f6gskolan"
     },
     "aa81d7220ea72a2a074dc081406abfd844e0bf54": {
-        "en": "Jönköping University",
-        "sv": "Högskolan i Jönköping"
+        "en": "J\u00f6nk\u00f6ping University",
+        "sv": "J\u00f6nk\u00f6ping University"
     },
     "ace817495ed71099080555611b61dc71892fb89c": {
-        "en": "Malmö University",
-        "sv": "Malmö universitet"
+        "en": "Malm\u00f6 University",
+        "sv": "Malm\u00f6 universitet"
     },
     "af0106685475a3434bc4f580e9d75830e1853b1f": {
         "en": "Swedish Museum of Natural History",
@@ -128,16 +124,16 @@
         "sv": "eduID Sverige"
     },
     "b42d710c65e8309042866363f7a9d3cbbea49dd7": {
-        "en": "Linköping University",
-        "sv": "Linköpings universitet"
+        "en": "Link\u00f6ping University",
+        "sv": "Link\u00f6pings universitet"
     },
     "bf67fb743c5081723ca3f97198fab14873b38d47": {
         "en": "Royal College of Music in Stockholm",
-        "sv": "Kungliga Musikhögskolan i Stockholm"
+        "sv": "Kungliga Musikh\u00f6gskolan i Stockholm"
     },
     "c143067713b20563316a36a7e6f5e9b80f8ac56e": {
-        "en": "University of Gävle",
-        "sv": "Högskolan i Gävle"
+        "en": "University of G\u00e4vle",
+        "sv": "H\u00f6gskolan i G\u00e4vle"
     },
     "c50752ce1d12c2b37da13a1a396b8e3895d35dd9": {
         "en": "NORDUnet",
@@ -145,19 +141,19 @@
     },
     "c7692f211a792bf662ff82c4e79be7290f366cac": {
         "en": "Stockholm University of the Arts",
-        "sv": "Stockholms konstnärliga högskola"
+        "sv": "Stockholms konstn\u00e4rliga h\u00f6gskola"
     },
     "cba2999348463bba47fd6a5d86632a06b4c24c49": {
         "en": "Swedish Red Cross University College",
-        "sv": "Röda Korsets Högskola"
+        "sv": "R\u00f6da Korsets H\u00f6gskola"
     },
     "cebcc3d101637d5d8f97a99c554b02a91a71effd": {
-        "en": "University of Borås",
-        "sv": "Högskolan i Borås"
+        "en": "University of Bor\u00e5s",
+        "sv": "H\u00f6gskolan i Bor\u00e5s"
     },
     "d3f167be21a5aede5077dfdc380620a69aae8be9": {
         "en": "Royal Institute of Art",
-        "sv": "Kungl. Konsthögskolan"
+        "sv": "Kungl. Konsth\u00f6gskolan"
     },
     "d7ccfccd6e0c36959010c46643b9352c246c2995": {
         "en": "Uppsala University",
@@ -169,23 +165,23 @@
     },
     "e26e5d098f073536d0351577c98c83825f0f922c": {
         "en": "KTH Royal Institute of Technology",
-        "sv": "Kungliga Tekniska högskolan (KTH)"
+        "sv": "Kungliga Tekniska h\u00f6gskolan (KTH)"
     },
     "e917cfbf4f62a5ca1d23418f224a42da886fb8a8": {
         "en": "Lund University",
         "sv": "Lunds universitet"
     },
     "ef6b8c62830804b61ce9c823db3856b99588e4ba": {
-        "en": "National Library of Sweden",
-        "sv": "Kungliga biblioteket"
+        "en": "National Library of Sweden TEST",
+        "sv": "Kungliga biblioteket TEST"
     },
     "f284cd84df4a8a7b5466cd56515c3592a72bfa4b": {
         "en": "Blekinge Institute of Technology",
-        "sv": "Blekinge Tekniska Högskola"
+        "sv": "Blekinge Tekniska H\u00f6gskola"
     },
     "f3cb42a2ac4bad6bda9e36648ba70bf69e47d42a": {
         "en": "Stockholm University of the Arts - TEST",
-        "sv": "Stockholms konstnärliga högskola - TEST"
+        "sv": "Stockholms konstn\u00e4rliga h\u00f6gskola - TEST"
     },
     "fb860628f8044ae90c2f4cacc91b48129c9d1a68": {
         "en": "Karolinska Institutet",
@@ -197,6 +193,6 @@
     },
     "fe5b3ebcdfad7b1766b94bb89fb7ee683437be15": {
         "en": "Dalarna University",
-        "sv": "Högskolan Dalarna"
+        "sv": "H\u00f6gskolan Dalarna"
     }
 }

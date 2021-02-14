@@ -55,10 +55,6 @@
         "en": "National Institute for Public Health and the Environment",
         "nl": "Rijksinstituut voor Volksgezondheid en Milieu"
     },
-    "1a2691ab7475d61f8336c5a492121f0a8574093f": {
-        "en": "Studielink",
-        "nl": "Stichting Studielink"
-    },
     "1ab7b512cc4442fb6fe19a158b7de7d3799ab488": {
         "en": "EGI Foundation",
         "nl": "EGI Foundation"
@@ -110,6 +106,14 @@
     "2738bc1aa220cbd78c1ef19a7255364eca0e75ce": {
         "en": "Koninklijk Conservatorium",
         "nl": "Koninklijk Conservatorium"
+    },
+    "2c00a9edf655b0b88965d794991c7d1ce0b2a952": {
+        "en": "Onderwijsgroep Tilburg (Azure AD)",
+        "nl": "Onderwijsgroep Tilburg (Azure AD)"
+    },
+    "2c681f9ec865f516b694895124911d4c405069f7": {
+        "en": "UMC Groningen",
+        "nl": "UMC Groningen"
     },
     "2d0c4f653340bada20eeac6c35017b055d89d8d9": {
         "en": "Data Archiving and Networked Services (KNAW)",
@@ -291,10 +295,6 @@
         "en": "Meertens Instituut (KNAW)",
         "nl": "Meertens Instituut (KNAW)"
     },
-    "7b878b4410d32df9f57f8daf499472f0dd908d45": {
-        "en": "UMC Groningen",
-        "nl": "UMC Groningen"
-    },
     "7d8542dc0398b4cd49c2ec9f94294641088ebda2": {
         "en": "Rijn IJssel",
         "nl": "Rijn IJssel"
@@ -399,10 +399,6 @@
         "en": "Koninklijke Bibliotheek",
         "nl": "Koninklijke Bibliotheek"
     },
-    "a6bc247fe0518b561680c44aba618fb39761024e": {
-        "en": "Avans University of Applied Sciences",
-        "nl": "Avans Hogeschool"
-    },
     "a8312c6924de5b9a4317e35a475e1719f81f1ec4": {
         "en": "ROC Midden Nederland",
         "nl": "ROC Midden Nederland"
@@ -496,8 +492,8 @@
         "nl": "ROC Nijmegen"
     },
     "caa4034d3784cd10ec72b9c7cf290ed5ed759f1c": {
-        "en": "GÉANT Staff Identity Provider",
-        "nl": "GÉANT Staff Identity Provider"
+        "en": "G\u00c9ANT Staff Identity Provider",
+        "nl": "G\u00c9ANT Staff Identity Provider"
     },
     "cb38f9f8d380d430a45e4148013c8d05011fba9a": {
         "en": "Erasmus University Rotterdam",
@@ -532,8 +528,8 @@
         "nl": "Leids Universitair Medisch Centrum"
     },
     "dd9874fe61e87c82fb1daeab63165a4a389a8cca": {
-        "en": "Máxima MC",
-        "nl": "Máxima MC"
+        "en": "M\u00e1xima MC",
+        "nl": "M\u00e1xima MC"
     },
     "ddd8c34a270a6ec5f91af3fc82d743ecb18ec138": {
         "en": "Trimbos Instituut",
@@ -546,6 +542,10 @@
     "e05d29eb4ac2948089ce1c0b206550f1b9e16dcc": {
         "en": "Centrum Wiskunde & Informatica",
         "nl": "Centrum Wiskunde & Informatica"
+    },
+    "e118fcbaa59c19374d0cfe36cfd66f836e66ad8c": {
+        "en": "Studielink",
+        "nl": "Stichting Studielink"
     },
     "e1f9587dbb43249bdc37ae806db00552f46a2058": {
         "en": "University of Humanistic Studies",
@@ -602,6 +602,10 @@
     "f77b6ed058327dcd82e76f8f1f507b4fd7af40f3": {
         "en": "Politieacademie",
         "nl": "Politieacademie"
+    },
+    "f7d9fcc9c911649260e00273576d96f022bddf4d": {
+        "en": "Avans University of Applied Sciences",
+        "nl": "Avans Hogeschool"
     },
     "f8ef9b7e9fc2187b44004ca6b10cc20085ebe8c7": {
         "en": "Windesheim University of Applied Sciences",
