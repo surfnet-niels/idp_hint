@@ -4194,6 +4194,10 @@
             "cs": "Ústav jaderné fyziky AV ČR",
             "en": "Nuclear Physics Institute of the ASCR"
         },
+        "f9f2c616e18dd9078b5dc6ee79e8899d4fff4aa5": {
+            "cs": "Technologická agentura České republiky",
+            "en": "Technology Agency of the Czech Republic"
+        },
         "fc546945cdbc68c2d18f2fdb2d0701e2519a35fe": {
             "cs": "Městská knihovna v Českém Krumlově",
             "en": "Municipal Library in Cesky Krumlov"
@@ -5167,6 +5171,10 @@
         "b8607e86ae023c6271ba4ce14de6e8d7c588661c": {
             "de": "Deutsches Elektronen-Synchrotron DESY",
             "en": "Deutsches Elektronen-Synchrotron DESY"
+        },
+        "bacbf41cb22afd620eeda36fb632f78860d46f2e": {
+            "de": "Kiel Institut für Weltwirtschaft",
+            "en": "Kiel Institute for the world economy"
         },
         "bba82723833c0f20457538181d98457dbc7e367f": {
             "de": "DFnconf Zoom SSO",
