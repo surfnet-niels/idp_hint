@@ -199,10 +199,6 @@
         "en": "UNINOVE - Universidade Nove de Julho",
         "pt-br": "UNINOVE - Universidade Nove de Julho"
     },
-    "3bf784d52c5138538adb33f65597ae988435787c": {
-        "en": "IFSUDESTEMG - Inst Fed de Educ Ciencia e Tec do Sudeste de MG",
-        "pt-br": "IFSUDESTEMG - Inst Fed de Educ Ciencia e Tec do Sudeste de MG"
-    },
     "3d0b0af071ab8b8ff077050ffde56bbfa4c4cfdd": {
         "en": "CECIERJ - Centro de Ciencias e Edu. a Distancia do RJ",
         "pt-br": "CECIERJ - Centro de Ciencias e Edu. a Distancia do RJ"
@@ -746,6 +742,10 @@
     "f86dec42bf57ea1d509a9108271702fbff767006": {
         "en": "USP - Universidade de Sao Paulo",
         "pt-br": "USP - Universidade de Sao Paulo"
+    },
+    "f8ffb0c8cef579a3dfc841ec429607d64c7dfb0c": {
+        "en": "IFSUDESTEMG - Inst Fed de Educ Ciencia e Tec do Sudeste de MG",
+        "pt-br": "IFSUDESTEMG - Inst Fed de Educ Ciencia e Tec do Sudeste de MG"
     },
     "fd0574512ad24c834525f6e007af1e48912dc31f": {
         "en": "CEMADEN - Centro Nac Monit e Alertas de Desastres Naturais",
