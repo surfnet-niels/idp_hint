@@ -19,9 +19,6 @@
         "en": "Hasselt University",
         "nl": "Universiteit Hasselt"
     },
-    "33ebebb5f27be0d94fbae8419c7ba69ffd5a3ee1": {
-        "en": "VUB - IDP - TestAzure"
-    },
     "3d685daca88c5a05a4ae8c6d9d2b69f87f4bf91e": {
         "en": "Universiteit Antwerpen"
     },
@@ -47,7 +44,7 @@
         "en": "Haute Ecole en Hainaut"
     },
     "903d7a2b38dce507e54c91ac09f43aade0018b53": {
-        "en": "VUB - IDP - vub.be"
+        "en": "Vrije Universiteit Brussel"
     },
     "9688cbb6dd0b4641a42e85d89f2ac87b8ee61753": {
         "en": "Enseignement Secondaire de la Province de Hainaut (eduHainaut)",
@@ -55,6 +52,10 @@
     },
     "9b636c3c664df96755a411ac1f6d6e51706866b2": {
         "en": "Belnet"
+    },
+    "9e6251258ca7f3e5b4b5cc6d07653c5e74595f24": {
+        "en": "University of Mons (UMONS)",
+        "fr": "Universite de Mons (UMONS)"
     },
     "a8107cff0576e4d441e4bf8b25acc05e6df70434": {
         "en": "VIB-UGent IRC"
