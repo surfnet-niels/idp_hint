@@ -11919,6 +11919,10 @@
             "en": "The Swedish Research Council",
             "sv": "Vetenskapsrådet"
         },
+        "4dd8aab862f24cf406b9026f104fdba6506ee124": {
+            "en": "National Library of Sweden",
+            "sv": "Kungliga biblioteket"
+        },
         "589378517675f3d08a8f08e6bbe60428cba6d89d": {
             "en": "University of Skövde",
             "sv": "Högskolan i Skövde"
@@ -12030,10 +12034,6 @@
         "ee1a8decd87b9b8d2dd503a8cac159cee6f3603f": {
             "en": "Swedish Museum of Natural History",
             "sv": "Naturhistoriska riksmuseet"
-        },
-        "ef6b8c62830804b61ce9c823db3856b99588e4ba": {
-            "en": "National Library of Sweden TEST",
-            "sv": "Kungliga biblioteket TEST"
         },
         "f284cd84df4a8a7b5466cd56515c3592a72bfa4b": {
             "en": "Blekinge Institute of Technology",
