@@ -4162,6 +4162,10 @@
             "cs": "Masarykova univerzita",
             "en": "Masaryk University"
         },
+        "8857bfc23e6d81fdcdc00f80afb2a461fecc2892": {
+            "cs": "Metropolitní univerzita Praha, o.p.s.",
+            "en": "Metropolitan university Prague"
+        },
         "89a92eacbc51648e83091eaa8d17cc28eecd8e4a": {
             "cs": "Univerzita Hradec Králové",
             "en": "University of Hradec Kralove"
@@ -5135,6 +5139,10 @@
         "7ce0429606d40d1621facee45e9e56f8ebfb3d55": {
             "de": "Hochschule für Technik und Wirtschaft Dresden",
             "en": "University of Applied Sciences Dresden"
+        },
+        "7ce9f252cc6d484beac5eece85cf2b3bf4195d62": {
+            "de": "Hochschule Würzburg-Schweinfurt",
+            "en": "Hochschule Würzburg-Schweinfurt"
         },
         "7dae85b1e675e014445460ae267532c82fb5daeb": {
             "de": "ISM International School of Management",
