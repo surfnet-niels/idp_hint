@@ -391,6 +391,10 @@
             "en": "University of Mons (UMONS)",
             "fr": "Universite de Mons (UMONS)"
         },
+        "a565f3a34a32f9cde657c99763282d5408faae59": {
+            "en": "HEPH-Condorcet (TEST - Ne pas utiliser)",
+            "fr": "HEPH-Condorcet (TEST - Ne pas utiliser)"
+        },
         "a8107cff0576e4d441e4bf8b25acc05e6df70434": {
             "en": "VIB-UGent IRC"
         },
@@ -8708,7 +8712,7 @@
             "hu": "Soproni Egyetem"
         },
         "737d636a65215aa4abb906064bd7d79af1d31fbc": {
-            "en": "Library of the Hungarian Parlament",
+            "en": "Library of the Hungarian Parliament",
             "hu": "Országgyűlési Könyvtár"
         },
         "79f06d9548aae842341b21df142bb7998305c094": {
