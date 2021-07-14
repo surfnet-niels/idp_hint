@@ -363,6 +363,10 @@
         "3fccdf0ffabe8f3db9385f4be64a9c0153647156": {
             "en": "VITO"
         },
+        "56605277c424515f0e8b708b2ecfadc9128500dc": {
+            "en": "Hainaut-PromSoc - TEST (Ne pas utiliser)",
+            "fr": "Hainaut-PromSoc"
+        },
         "64da700db7024bcce97d3e1e19173a484de41992": {
             "en": "VUB - IDP (Vrije Universiteit Brussel)"
         },
@@ -401,6 +405,10 @@
         "b12b1315700a7053774de03b44a0d0c1c7864e10": {
             "en": "CRA-W",
             "fr": "CRA-W"
+        },
+        "b9fdc78d2080edfa5da9d9f1c7805d9560805271": {
+            "en": "Enseignement Secondaire de la Province de Hainaut (eduHainaut) - TEST (Ne pas utiliser)",
+            "fr": "Enseignement Secondaire de la Province de Hainaut (eduHainaut)"
         },
         "c285a82beba9747a854a38e05e4946cb577a76cb": {
             "en": "IDP - ULB (Universite libre de Bruxelles)"
