@@ -476,6 +476,10 @@
             "en": "FAP - Fundacao Antonio Prudente",
             "pt-br": "FAP - Fundacao Antonio Prudente"
         },
+        "040b2ae672d18575b5bab73c48f628b6c73f1d46": {
+            "en": "IFPE - Instituto Federal de Pernambuco",
+            "pt-br": "IFPE - Instituto Federal de Pernambuco"
+        },
         "04a4795007a9cc66bfd0f987e78cba6efc862f1e": {
             "en": "UFVJM - Universidade Federal dos Vales do Jequitinhonha e Mucuri",
             "pt-br": "UFVJM - Universidade Federal dos Vales do Jequitinhonha e Mucuri"
@@ -655,10 +659,6 @@
         "39b6dd3ea84c13ad74e29df932ec43d74ab09af1": {
             "en": "FAPEPI - Fundacao de Amparo a Pesquisa do Piaui",
             "pt-br": "FAPEPI - Fundacao de Amparo a Pesquisa do Piaui"
-        },
-        "3a2d55eeb82f019ae879d51351c036f2ab0d44a6": {
-            "en": "UNINOVE - Universidade Nove de Julho",
-            "pt-br": "UNINOVE - Universidade Nove de Julho"
         },
         "3d0b0af071ab8b8ff077050ffde56bbfa4c4cfdd": {
             "en": "CECIERJ - Centro de Ciencias e Edu. a Distancia do RJ",
@@ -10949,6 +10949,10 @@
         "a5ca65af3e76a92a6144519cb455fb4a49fd87a7": {
             "en": "Koninklijke Bibliotheek",
             "nl": "Koninklijke Bibliotheek"
+        },
+        "a5dd44fb81390a800ee00f708fb4c9ac60ce29ee": {
+            "en": "Yuverta",
+            "nl": "Yuverta"
         },
         "a638f008f5049608c24501f957ddfad3472cffa9": {
             "en": "Koninklijk Nederlands Instituut voor Onderzoek der Zee (NIOZ)",
